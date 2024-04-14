@@ -1,0 +1,2784 @@
+ID,Notes for translation,English,French,Italian,German,Spanish,ChineseSimplified,ChineseTraditional,Japanese,Korean,Russian,Portuguese,Swedish,Turkish,Hindi,Malay,Dutch,Thai
+ch1_title,,Chapter I,Chapitre 1,Capitolo 1,Kapitel 1,Capítulo I,第一章,第一章,第一章,제1장,Глава 1,Capítulo 1,Kapitel 1,Bölüm 1,अध्याय I,Bab I,Hoofdstuk I,ตอนที่ 1
+ch2_title,,Chapter II,Chapitre 2,Capitolo 2,Kapitel 2,Capítulo II,第二章,第二章,第二章,제2장,Глава 2,Capítulo 2,Kapitel 2,Bölüm 2,अध्याय II,Bab II,Hoofdstuk II,ตอนที่ 2
+ch3_title,,Chapter III,Chapitre 3,Capitolo 3,Kapitel 3,Capítulo III,第三章,第三章,第三章,제3장,Глава 3,Capítulo 3,Kapitel 3,Bölüm 3,अध्याय III,Bab III,Hoofdstuk III,ตอนที่ 3
+ch4_title,,Chapter IV,Chapitre 4,Capitolo 4,Kapitel 4,Capítulo IV,第四章,第四章,第四章,제4장,Глава 4,Capítulo 4,Kapitel 4,Bölüm 4,अध्याय IV,Bab IV,Hoofdstuk IV,ตอนที่ 4
+ch5_title,,Chapter V,Chapitre 5,Capitolo 5,Kapitel 5,Capítulo V,第五章,第五章,第五章,제5장,Глава 5,Capítulo 5,Kapitel 5,Bölüm 5,अध्याय V,Bab V,Hoofdstuk V,ตอนที่ 5
+ch6_title,,Chapter VI,Chapitre 6,Capitolo 6,Kapitel 6,Capítulo VI,第六章,第六章,第六章,제6장,Глава 6,Capítulo 6,Kapitel 6,Bölüm 6,अध्याय VI,Bab VI,Hoofdstuk VI,ตอนที่ 6
+ch7_title,,Chapter VII,Chapitre 7,Capitolo 7,Kapitel 7,Capítulo VII,第七章,第七章,第七章,제7장,Глава 7,Capítulo 7,Kapitel 7,Bölüm 7,अध्याय VII,Bab VII,Hoofdstuk VII,ตอนที่ 7
+ch8_title,,Chapter VIII,Chapitre 8,Capitolo 8,Kapitel 8,Capítulo VIII,第八章,第八章,第八章,제8장,Глава 8,Capítulo 8,Kapitel 8,Bölüm 8,अध्याय VIII,Bab VIII,Hoofdstuk VIII,ตอนที่ 8
+ch9_title,,Chapter IX,Chapitre 9,Capitolo 9,Kapitel 9,Capítulo IX,第九章,第九章,第九章,제9장,Глава 9,Capítulo 9,Kapitel 9,Bölüm 9,अध्याय IX,Bab IX,Hoofdstuk IX,ตอนที่ 9
+ch10_title,,Chapter X,Chapitre 10,Capitolo 10,Kapitel 10,Capítulo X,第十章,第十章,第十章,제10장,Глава 10,Capítulo 10,Kapitel 10,Bölüm 10,अध्याय X,Bab X,Hoofdstuk X,ตอนที่ 10
+ch11_title,,Chapter XI,Chapitre 11,Capitolo 11,Kapitel 11,Capítulo XI,第十一章,第十一章,第十一章,제11장,Глава 11,Capítulo 11,Kapitel 11,Bölüm 11,अध्याय XI,Bab XI,Hoofdstuk XI,ตอนที่ 11
+ch12_title,,Chapter XII,Chapitre 12,Capitolo 12,Kapitel 12,Capítulo XII,第十二章,第十二章,第十二章,제12장,Глава 12,Capítulo 12,Kapitel 12,Bölüm 12,अध्याय XII,Bab XII,Hoofdstuk XII,ตอนที่ 12
+level_prelude_name,"This is the tutorial level of the game, which takes place before the title screen",Prelude,Prélude,Preludio,Einleitung,Preludio,序,序,序章,서장,Вводная часть,Prelúdio,Inledning,Giriş,भूमिका,Pendahuluan,Inleiding,เนื้อเรื่องนำ
+level_intro_name,,The Garden,Le jardin,Il giardino,Der Garten,El jardín,花园,花園,庭園,정원,Сад,O Jardim,Trädgården,Bahçe,द गार्डन (बगीचा),Taman,De Tuin,สวน
+level_intro_subtitle,"The name ""Ida"" should rhyme with ""Spider"". The Japanese translation was missing the A in Katakana.","Ida embarks on
+a quest for forgiveness","Ida se lance dans
+une quête de pardon","Ida intraprende un
+viaggio alla ricerca
+del perdono","Ida begibt sich auf die
+Suche nach Vergebung","Ida emprende
+una gesta de redención","艾达开始
+一段寻求宽恕的旅程","艾達開始
+一段尋求寬恕的旅程",許しへの旅立ち,"아이다는 용서를 구하는
+모험을 떠난다","Ида отправляется
+на поиски прощения","Ida embarca numa
+missão por perdão","Ida beger sig av på
+en jakt efter förlåtelse","Ida, bİr af dİleme 
+macerasına atılıyor","अइडा क्षमा के लिए एक
+खोज शुरू करती है","Ida memulakan perjalanan
+untuk mencari keampunan","Ida begint aan een
+zoektocht naar vergeving",ไอดาเริ่มต้นภารกิจเพื่อแลกเปลี่ยนกับการให้อภัย
+level_draggers_name,,Hidden Temple,Temple caché,Tempio nascosto,"Verborgener
+Tempel",Templo oculto,隐寺,隱寺,秘密の寺,감춰진 사원,Тайный храм,Templo Oculto,Dolt tempel,Gİzlİ Tapınak,गोपनीय मंदिर,Kuil tersembunyi,"Verborgen
+Tempel",วิหารลี้ลับ
+level_draggers_subtitle,The word 'Ida' on it's own should always be translated in Chinese - the phrase' Ida's dream' should remain in English in Chinese translations,"Ida has an
+unexpected meeting","Ida fait une
+rencontre inattendue","Ida fa un
+incontro inatteso","Ida hat eine
+unerwartete Begegnung","Ida tiene un
+encuentro inesperado","艾达有个
+不请之约","艾達有個
+不請之約",予期せぬ出会い,"예상치 못한 만남이
+아이다를 기다린다","Иде предстоит
+неожиданная встреча","Ida encontra
+o inesperado",Ida har ett oväntat möte,"İda beklenmeyen 
+bİrİ İle karşılaşıyor","अइडा की अप्रत्याशित रूप से भेंट
+होती है","Ida mengalami pertemuan
+yang tidak dijangka","Ida een onverwachte
+ontmoeting heeft",ไอดาพบคนรู้จักโดยบังเอิญ
+level_griprotate_name,,Water Palace,Palais aquatique,"Palazzo
+dell'acqua",Wasserpalast,"Palacio de 
+agua",水宫,水宮,水宮殿,물의 궁전,Дворец на воде,Palácio da Água,Vattenpalatset,Su Sarayı,जल महल,Istana Air,Waterpaleis,ปราสาทน้ำ
+level_griprotate_subtitle,The word 'Ida' on it's own should always be translated in Chinese - the phrase' Ida's dream' should remain in English in Chinese translations,"Ida discovers
+new ways to walk","Ida découvre de
+nouvelles façons de marcher","Ida scopre
+nuovi modi di camminare","Ida entdeckt neue
+Arten des Laufens","Ida descubre nuevas
+formas de caminar","艾达发现
+新的行走方式","艾達發現
+新的行走方式",新たな道の発見,"아이다는 새로운
+이동 방법을 발견한다","Ида учится
+ходить по-иному","Ida descobre
+novas formas de andar","Ida upptäcker nya
+sätt att gå på","Ida, yenİ 
+yollar keşfedİyor",अइडा चलने के नए तरीके खोजती है,"Ida menemui cara baharu
+untuk berjalan","Ida nieuwe manieren 
+ontdekt om te lopen",ไอดาค้นพบทางใหม่ให้เดิน
+level_spire_name,"A tall, pointy tower",The Spire,Le beffroi,La guglia,Die Turmspitze,La espina,尖塔,尖塔,尖塔,뾰족탑,Шпиль,O Pináculo,Spiran,Sİvrİ Kule,द स्पाइर (घुमावदार शिखर),Puncak Menara,De Torenspits,ยอดแหลมตึก
+level_spire_subtitle,The word 'Ida' on it's own should always be translated in Chinese - the phrase' Ida's dream' should remain in English in Chinese translations,"Ida encounters
+the bothersome
+crow people","Ida rencontre
+l'ennuyeux peuple
+des corneilles","Ida incontra
+il fastidioso
+popolo dei corvi","Ida begegnet dem
+lästigen
+Krähenvolk","Ida encuentra
+a los molestos
+Hombres Cuervo","艾达碰到
+讨厌的
+乌鸦人","艾達碰到
+討厭的
+烏鴉人","カラス人間との
+面倒な出会い","아이다는 성가신
+까마귀 종족과
+조우한다","Ида встречает
+назойливых
+людей-ворон","Ida encontra
+os incómodos
+homens-corvo","Ida möter det
+besvärliga kråkfolket","Ida, can sıkıcı 
+karga topluluğuyla 
+karşılaşıyor","अइडा को झंझटी क्रो व्यक्तियों
+का सामना करना पड़ता है","Ida terjumpa dengan orang
+gagak yang melemaskan","Ida de vervelende
+kraaimensen ontmoet",ไอดาเจอคนครึ่งกาน่ารำคาญ
+level_labyrinth_name,,The Labyrinth,Le labyrinthe,Il labirinto,Das Labyrinth,El laberinto,迷宫,迷宫,迷宮,미궁,Лабиринт,O Labirinto,Labyrinten,Labİrent,द लेबीरिंथ (भूलभुलैया),Labyrinth,Het Labyrint,เขาวงกต
+level_labyrinth_subtitle,The Totem is a character named for his similarity to a totem pole,"Ida meets
+the Totem,
+a friend","Ida rencontre
+le Totem,
+un ami","Ida incontra
+il Totem, 
+un amico","Ida trifft
+das Totem,
+einen Freund","Ida conoce
+al Tótem,
+un amigo","艾达遇见
+一个朋友，
+叫做图腾","艾達遇見
+一個朋友，
+叫做圖騰","友達トーテムとの
+出会い","아이다는 친구인
+토템을
+만나게 된다","Ида встречает
+дружественного
+Тотема","Ida encontra
+o Totem,
+um amigo","Ida möter Totem, en vän","Ida bİr dost
+olan Totem'le 
+buluşuyor","अइडा एक मित्र, टोटेम से मिलती
+है","Ida menemui Totem,
+seorang rakan","Ida de Totem ontmoet,
+een vriend",ไอดาเจอเพื่อนชื่อ 'โทเทม'
+level_keep_name,A place inhabited by many mischievious crows,The Rookery,La roquerie,"La colonia di
+corvi",Der Krähenhorst,La Pajarera,乌鸦巢,烏鴉巢,カラスの群生地,까마귀 소굴,Гнездовье,O Poleiro,Kråkkolonin,Karga Yuvası,द रूकरी (धोखेबाज),Rookery,De Huurkazerne,ฝูงอีกา
+level_keep_subtitle,,A throne lies vacant,Un trône est vacant,Un trono permane vuoto,Ein unbesetzter Thron,"Un trono
+permanece vacío",王位无人以继,王位無人以繼,空の玉座,왕좌는 비어 있다,Пустующий трон,Um trono jaz vago,En tron är tom,"Boş bİr taht 
+sahİbİnİ beklİyor",सिंहासन खाली रहता है,Takhta ditinggalkan kosong,Een troon vrij is,บัลลังก์อันว่างเปล่า
+level_insidebox_name,,The Box,La boîte,La scatola,Die Kiste,La caja,箱子,箱子,箱,상자,Коробка,A Caixa,Skrinet,Kutu,द बॉक्स,Kotak,De Doos,กล่อง
+level_insidebox_subtitle,,"There lie
+strange delights","D'étranges plaisirs
+s'y trouvent","Si trovano
+strane delizie","Seltsame Genüsse
+winken","Se esconden
+curiosas delicias","这里有奇异
+的惊喜","這裡有奇異
+的驚喜",奇妙な喜び,"이 안에 묘한 즐거움이
+들어 있다","Где ждут
+странные прелести","Lá jazem
+estranhos prazeres",Underliga njutningar ligger,"Burada tuhaf 
+hoşluklar yatıyor",वहां अजीब प्रसन्नता रहती है,"Terdapat kejutan menarik
+yang luar biasa","Vreemde lekkernijen
+liggen",มีความสุขใจอย่างแปลกประหลาด
+level_descent_name,A level where we are always going downwards,The Descent,La descente,La discesa,Der Abstieg,El descenso,斜坡,斜坡,下り坂,낮은 곳으로,Спуск,A Descida,Nedstigningen,İnİş,द डिसेंट (पीढ़ी),Penurunan,De Afdaling,ทางลง
+level_descent_subtitle,,"There is nobody
+left to 
+forgive us","Il ne reste plus
+personne pour
+nous pardonner","Non è rimasto
+nessuno a 
+perdonarci","Keiner kann
+uns mehr
+vergeben","Ya no hay nadie
+que pueda 
+perdonarnos","没有
+剩下可以
+原谅我们的人","沒有
+剩下可以
+原諒我們的人","もう誰も
+私たちを
+許せない","우리를 용서해줄
+사람은
+이제 아무도 없다","Нас уже
+некому
+простить","Não sobrou
+ninguém para
+nos perdoar","Det inte finns någon
+som kan förlåta oss","Bİzİ affedecek 
+hİç kİmse 
+kalmadı","हमें माफ करने के लिए कोई नहीं
+बचा है","Tiada sesiapa yang tinggal
+untuk mengampuni kita","Er niemand meer is
+om ons te vergeven",ไม่มีใครเหลืออยู่ให้ให้อภัยเราแล้ว
+level_zen_name,A place for looking at the sky and stars,Observatory,L'observatoire,Osservatorio,Sternwarte,Observatorio,观象台,觀象台,天文台,관측소,Обсерватория,Observatório,Observatoriet,Gözlemevİ,ऑब्जर्वेटरी (वेधशाला),Balai Cerap,Observatorium,หอสังเกตการณ์
+level_zen_subtitle,,"At journey's end
+What was not meant for us
+Is all returned","En fin de voyage
+Ce qui n'était pas pour nous
+Sera retourné","Alla fine del viaggio
+Ciò che non era destinato
+a noi Viene restituito","Am Ende der Reise
+wird zurückgegeben, was
+nicht für uns bestimmt war","Al final del viaje,
+lo que no era nuestro destino,
+será devuelto","在旅程的尽头
+那些本不属于我们的
+己全物归原主","在旅程的盡頭
+那些本不屬於我們的
+己全物歸原主","旅の終わり。
+私たちのものでなかったものを
+すべて元通りに。
+","여행이 끝나는 곳에서
+우리의 운명이 아닌 것들이
+모두 제자리를 찾아간다","В конце пути
+Вернется нам все то,
+Что было не для нас","No final da viagem
+o que não era nosso
+foi devolvido","Vid resans slut
+lämnas det som inte var
+menat för oss tillbaka","Yolculuğun sonunda
+Bİzİm İçİn olmayanların 
+Hepsİ İade edİldİ","यात्रा की समाप्ति पर जिसका
+हमारे लिए कोई मतलब नहीं था
+वह सभी वापस लौट आया है","Di akhir perjalanan ini Apa
+yang tidak dimaksudkan
+untuk kita semuanya
+dikembalikan","Aan het einde van de reis
+Wat niet voor ons bedoeld is
+Allemaal is teruggegeven","เมื่อการเดินทางสิ้นสุดลง
+สิ่งที่ไม่ใช่ของเราก็กลับคืนสู่เจ้าของ"
+resume_button,,Resume,Reprendre,Continua,Fortsetzen,Continuar,继续,繼續,再開,계속하기,Продолжить,Retomar,Fortsätt,Devam Et,पुनः शुरू करें,Teruskan,Hervatten,กลับ
+quit_level_button,,Quit,Quitter,Esci,Beenden,Salir,退出,退出,終了,끝내기,Выйти,Sair,Avsluta,Çıkış,छोड़ दें,Berhenti,Afsluiten,ออก
+camera_mode_button,,Camera,Caméra,Fotocamera,Kamera,Cámara,相机,相機,カメラ,카메라,Камера,Câmera,Kamera,Kamera,कैमरा,Kamera,Camera,กล้องถ่ายรูป
+quit_camera_mode_button,,Cancel,Annuler,Annulla,Abbrechen,Cancelar,取消,取消,キャンセル,취소,Отмена,Cancelar,Avbryt,İptal,निरस्त करें,Batal,Annuleren,ยกเลิก
+shutter_button,,Share,Partager,Condividi,Teilen,Compartir,分享,分享,シェアする,공유,Поделиться,Compartilhar,Dela,Paylaş,साझा करें,Kongsi,Delen,แบ่งปัน
+square_camera_aspect,,Square,Carré,Riquadro,Quadratisch,Cuadrado,正方,正方,スクエアモード,정사각형 모드,Квадрат,Quadrado,Fyrkantig,Kare,वर्गाकार,Segi Empat Sama,Vierkant,สี่เหลี่ยม
+normal_camera_aspect,,Normal,Normal,Normale,Normal,Normal,普通,普通,標準モード,일반 모드,Обычный,Normal,Normal,Normal,सामान्य,Biasa,Normaal,ปกติ
+reset_progress,,Reset Progress,Réinitialiser la partie,Azzera i progressi,Fortschritt zurücksetzen,Eliminar partida guardada,重置进度,重置進度,進行状況をリセット,초기화,Сбросить достижения,Reiniciar progresso,Återställ progress,İlerlemeyi Sıfırla,प्रोग्राम पुनः सेट करें,Tetapkan Semula Kemajuan,Herstel voortgang,รีเซ็ทความคืบหน้า
+music,,Music,Musique,Musica,Musik,Música,音乐,音樂,音楽,음악,Музыка,Música,Musik,Müzik,संगीत,Muzik,Muziek,เพลง
+loading,,Loading,Chargement,Caricamento,Laden …,Cargando...,载入中,載入中,ロード中,불러오는 중,Загрузка,A carregar,Laddar,Yüklenİyor,लोड करना,Sedang Muat,Laden...,กำลังโหลด
+tutorial_tap_to_move,The word 'Ida' on it's own should always be translated in Chinese - the phrase' Ida's dream' should remain in English in Chinese translations,"Tap the path
+to move Ida","Appuie sur le chemin
+pour déplacer Ida","Tocca il percorso
+per muovere Ida","Tippe den Weg an,
+um Ida zu bewegen","Toca el camino
+para mover a Ida","按下路径
+来移动艾达","按下路徑
+來移動艾達","道をタップすると
+アイダが移動","길을 두드려서 
+아이다를 움직이세요","Касайтесь тропы,
+чтобы перемещать Иду","Toque no caminho
+para mover a Ida","Klicka på stigen för
+att få Ida att röra
+på sig","Ida'yı ilerletmek için 
+yola hafifçe tıkla","अइडा को चलाने के लिए पाथ को टैप
+करें","Ketik laluan untuk
+menggerakkan Ida","Tik op het pad om
+Ida te verplaatsen",แตะที่ทางเดินเพื่อเคลื่อนย้ายไอดา
+tutorial_drag_to_rotate,,Hold and rotate,"Maintenir et
+pivoter","Tieni premuto
+e ruota",Halten und drehen,"Mantén
+pulsado y gira",按住并旋转,按住並旋轉,ホールドして回す,길게 눌러서 회전하세요,Держите и вращайте,Agarra e gira,"Håll ned och
+rotera",Tut ve döndür,रोके रखें तथा घुमाएं,Pegang dan putar,"Vasthouden
+en roteren",กดค้างและหมุน
+tutorial_complete_button,,Explore,Explorer,Esplora,Erkunden,Explora,探索,探索,探検する,탐색,Исследовать,Explorar,Utforska,Keşfet,खोजबीन करें,Teroka,Onderzoeken,สำรวจ
+level_complete,,Complete,Terminer,Completato,Abschliessen,Capítulo Completado,完成,完成,レベルクリア,완료,Глава Закончена,Completo,Avklarad,Tamamla,पूर्ण करें,Selesai,Voltooien,สำเร็จ
+level_subtitle_in_which,,in which,dans lequel,in cui,Was hier geschieht:,en el que,在此,在此,この章で起こること：,이곳에서...,в которой,em que,i vilket,İçİnde,किसमें,di mana,waarin,ในที่ซึ่ง
+loading_screen,,Loading,Chargement,Caricamento,Lade …,Cargando...,载入中,載入中,ロード中,불러오는 중,Загрузка,A carregar,Laddar,Yükleniyor,लोड करना,Sedang Muat,Laden,กำลังโหลด
+camera_aspect,,Aspect,Aspect,Aspetto,Format,Orientación,画面比例,畫面比例,アスペクト,비율,Формат,Aspecto,Utseende,Açı,पहलू,Aspek,Aspect,มุมมอง
+email_subject,,Monument Valley Game,Jeu Monument Valley,Monument Valley - Gioco,„Monument Valley“-Spiel,Monument Valley - Juego,纪念碑谷游戏,紀念碑谷遊戲,モニュメントバレー ,Monument Valley Game,Игра Monument Valley,Jogo Monument Valley,Monument Valley spel,Monument Valley Game,Monument Valley गेम,Permainan Monument Valley,Monument Valley Game,เกม Monument Valley
+share_message,Hash tag to be left in English. Rest translated.,Wish you were here #monumentvalleygame,J'aimerais que tu sois ici # monumentvalleygame,Vorrei che fossi qui #monumentvalleygame,"Ich wünschte, du wärst hier #monumentvalleygame",Ojalá estuvieras aquí #monumentvalleygame,希望你在这里,希望你在這裡,あなたもここに来てください #monumentvalleygame,당신과 #monumentvalleygame에서 함께하고 싶어요.,Сыграешь с нами? #monumentvalleygame,Queria te encontrar aqui #monumentvalleygame,Önskar att du vore här #monumentvalleygame,Keşke burada olsaydın #monumentvalleygame,काश तुम यहां होते #monumentvalleygame,Alangkah baiknya jika anda di sini #monumentvalleygame,Zou willen dat je hier was #monumentvalleygame,อยากให้คุณอยู่ที่นี่ #monumentvalleygame
+storyteller_1a,,"Long have these
+old bones waited
+in darkness.","Depuis bien longtemps,
+ces vieux os ont attendu
+dans les ténèbres.","Per lungo tempo hanno
+queste vecchie ossa
+atteso nell'oscurità.","Lange schon warten
+diese alten Gebeine
+in der Dunkelheit.","Mucho han esperado
+estos viejos huesos
+en la oscuridad.","朽骨暗夜
+候多时。","朽骨暗夜
+候多時。","私の古い骨は
+長い間
+暗闇の中で待っていた","이 오래된 자들은
+어둠 속에서
+오랫동안 기다렸노라","Давно уже эти
+старые кости
+ожидают во тьме.","Há muito que estes
+antigos ossos esperam
+na escuridão","Länge har denna 
+själ väntat
+i mörkret.","Bu yaşlı kemikler
+ne kadar da bekledi
+karanlıkta.","अंधेरे में प्रतीक्षा करते हुए
+ये पुरानी हड्डियां लंबी हो गयी हैं।","Sudah sekian lama
+tulang lama ini menanti
+di dalam kegelapan.","Deze oude botten
+hebben lang gewacht
+in de duisternis.","กระดูกโบราณเหล่านี้รอคอยอยู่
+ในความมืดมาแสนนาน"
+storyteller_1b,,"How far have
+you wandered,
+silent princess?","Depuis combien de
+temps erres-tu,
+princesse silencieuse ?","Quanto a lungo
+hai vagato,
+silenziosa principessa?","Wie weit bist du
+schon gewandert,
+stumme Prinzessin?","¿Cuán lejos
+has viajado,
+princesa silente?","沉默的公主，
+您已徘徊多远？","沈默的公主，
+您已徘徊多遠？","もの言わぬ姫よ、
+そなたはどのくらい
+彷徨ったのか？
+","침묵의 공주여,
+얼마나 오랫동안
+헤매었는가?","Далеко ли ты бывала
+в странствиях,
+молчаливая принцесса?","O quão longe
+caminhaste,
+silenciosa princesa?","Hur långt
+har du vandrat,
+tysta prinsessa?","Ne zamandır
+yollardasın,
+sessiz prenses?","मूक राजकुमारी, आपने कितनी दूर
+भ्रमण किया है?","Sejauh mana anda telah
+mengembara, puteri yang
+tidak berkata-kata?","Hoe ver heb je
+rondgezworven,
+stille prinses?","คุณเดินอย่างไม่รู้ทิศทางมาไกล
+แค่ไหนแล้ว เจ้าหญิงใบ้"
+storyteller_1c,,Why are you here?,Pourquoi es-tu ici ?,Perché sei qui?,Warum bist du hier?,¿Qué haces aquí?,不知您到此所为何事？,不知您到此所為何事？,なぜここに来た？,어째서 이곳에 있는가?,Почему ты здесь?,Por que estás aqui?,Varför är du här?,Neden buradasın?,आप यहां किस लिए हैं?,Mengapa anda di sini?,Waarom ben je hier?,คุณมาที่นี่ทำไม
+storyteller_2a,"Sacred geometry' refers to some secret knowledge or power, which we see in the game as geometric solids like cubes and pyramids.","Those who stole
+our sacred geometry
+have forgotten
+their true selves.","Ceux qui ont volé
+notre géométrie sacrée
+ont oublié
+leur vraie nature.","Coloro che hanno
+rubato la nostra sacra
+geometria hanno
+dimenticato il loro
+vero io.","Die Diebe unserer
+ehrwürdigen Geometrie
+haben ihr wahres
+Selbst vergessen.","Aquellos que robaron
+la sagrada geometría
+han olvidado
+su verdadero yo.","神圣几何
+的窃取者
+早已
+迷失自我。","神聖幾何
+的竊取者
+早已
+迷失自我。","神聖な幾何学模様を
+盗んだ者は
+真の姿を
+忘れてしまった","우리의 신성한 조각을 훔쳐간
+자들은 진정한 모습을
+잊어버리고 말았노라","Те, кто украл нашу
+священную геометрию,
+забыли, кто они есть
+на самом деле.","Aqueles que
+roubaram a nossa
+sagrada geometria
+esqueceram-se de si
+mesmos.","De som stal
+vår heliga geometri
+har glömt bort
+sitt sanna jag.","Onlar ki kutsal 
+geometrimizi çaldılar, 
+kendi gerçek 
+benliklerini unuttular.","जिन्होंने हमारी पवित्र
+ज्यामिति को चुराया वे उनकी
+सच्चाई की खुद भूल गए हैं।","Mereka yang mencuri
+geometri suci telah
+terlupa diri mereka
+yang sebenar.","Degenen die onze
+heilige geometrie
+gestolen hebben, zijn
+hun ware zelf vergeten.","บุคคลผู้ขโมยรูปทรงอันศักดิ์สิทธิ์
+ได้ลืมตัวตนที่แท้จริงของพวกเขาแล้ว"
+storyteller_2b,,"Cursed to walk
+these monuments
+are they.","Ils sont condamnés 
+à marcher parmi 
+ces monuments.","Essi sono condannati
+a percorrere
+questi monumenti.","Sie sind dazu verdammt,
+durch diese Monumente
+zu wandeln.","Condenados están
+a caminar por
+los monumentos.","在诅咒下，
+他们行走于
+这些纪念碑间。","在詛咒下，
+他們行走於
+這些紀念碑間。","呪われた彼らは
+モニュメントを
+彷徨い歩く
+","저주를 받아
+영원히 이 모뉴먼트를 헤매는
+자들이 그들이다","Они прокляты
+блуждать среди
+этих памятников.","Fadados a caminhar
+por estes
+monumentos.","De är fördömda till
+att irra runt bland
+dessa monument.","Bu anıtlar arasında
+dolanıp durmakla
+lanetlendiler.","इन स्मारकों के लिए जाना उनके
+लिए शापित है।","Mereka dihukum
+untuk melalui
+monumen ini.","Ze zijn vervloekt
+om over deze
+monumenten
+te lopen.","ผู้คนเหล่านี้ถูกสาปขณะเดินไปยัง
+อนุสรณ์"
+storyteller_2c,,"Foolish princess,
+have you forgotten too?","Princesse insensée,
+as-tu oublié toi aussi ?","Stolta principessa,
+hai forse dimenticato
+anche tu?","Hast du es
+auch vergessen,
+törichte Prinzessin?","Princesa incauta,
+¿también tú
+lo has olvidado?","愚蠢的公主呀，
+难道您也已忘却？","愚蠢的公主呀，
+難道您也已忘卻？","愚かな姫よ、そなたも
+忘れてしまったのか？","어리석은 공주여,
+그대도 잊고 말았는가?","Глупая принцесса,
+ты тоже все забыла?","Princesa tola,
+esqueceste também?","Dåraktiga prinsessa,
+har även du glömt?","Akılsız prenses,
+sen de mi unuttun?","नासमझ राजकुमारी, क्या आप भी
+भूल गयीं?","Puteri tidak bijak,
+kamu juga sudah
+terlupa juga?","Dwaze prinses,
+ben je het ook
+vergeten?",เจ้าหญิงโง่เง่า คุณลืมเหมือนกันเหรอ
+storyteller_3a,,"Long ages lie heavy
+on old bones
+in these buried halls.","De longs siècles pèsent
+sur de vieux os
+dans ces souterrains.","Lunghe ere gravano
+pesanti su vecchie
+ossa in queste sale
+sepolte.","Die Zeit lastet schwer
+auf den alten Gebeinen
+in diesen vergrabenen
+Hallen.","Pesan los años
+sobre los huesos
+en estas catacumbas.","朽骨已在掩埋
+的宅邸中躺了
+多久。","朽骨已在掩埋
+的宅邸中躺了
+多久。","埋められた古い骨に
+長い年月は
+重くしみる","이 매몰된 제단에서
+오래된 자들의 위로
+무구한 시간이 내려앉았노라","Долгие века старые
+кости лежали
+в этих тайных чертогах.","O tempo pesa
+nos velhos ossos
+destas catacumbas.","Många år vilar tungt
+över gamla själar
+i dessa begravda
+korridorer.","Ağırlaştırır uzun yıllar
+yaşlı kemikleri
+bu derin dehlizlerde.","इन दफन हालों में पुरानी
+हड्डियों पर लंबी उम्र भारी पड़ती है।","Masa yang panjang
+membebani tulang
+lama yang tertimbus
+dalam dewan-dewan ini.","De oude botten
+in deze begraven
+hallen liggen
+er al lang.","กระดูกโบราณที่ฝังอยู่
+ในโถงทางเดิน พวกนี้
+ผ่านยุคผ่านสมัยมานาน"
+storyteller_3b,,"Sacred geometry
+was our pride,
+our downfall.","La géométrie sacrée
+fut notre orgueil,
+notre chute.","La sacra geometria
+fu il nostro orgoglio,
+e la nostra rovina.","Ehrwürdige Geometrie
+war unser Stolz,
+unser Untergang.","La geometría sagrada
+fue nuestro orgullo
+y nuestra caída.","神圣几何,
+成也是它，
+败也是它。","神聖幾何,
+成也是它，
+敗也是它。","神聖な幾何学模様は
+我らの誇りであり
+我らの没落","신성한 조각은
+우리의 자랑이었으나
+우리를 몰락시켰다","Священная геометрия
+стала нашей гордостью
+и нашей погибелью.","A geometria sagrada
+foi o nosso orgulho,
+a nossa ruína.","Helig geometri
+var vår stolthet,
+vår undergång.","Kutsal geometri
+gururumuzdu,
+çöküşümüz oldu.","पवित्र ज्यामिति हमारा घमंड,
+हमारा पतन था।","Geometri suci adalah
+kebanggaan kami,
+juga kejatuhan kami.","Heilige geometrie
+was onze trots,
+onze ondergang.","รูปทรงอันศักดิ์สิทธิ์ 
+เป็นทั้งความภูมิใจและหายนะของพวกเรา"
+storyteller_3c,,"But forever will
+our monuments
+stand in this valley.","Mais pour toujours
+nos monuments se
+tiendront dans cette
+vallée.","Ma per sempre si
+ergeranno i nostri
+monumenti in
+questa valle.","Doch unsere
+Monumente werden
+ewig in diesem
+Tal stehen.","Mas los monumentos
+perdurarán para siempre
+en este valle.","但纪念碑将于
+此山谷中
+永垂不朽。","但紀念碑將於
+此山谷中
+永垂不朽。","だが永遠に
+我らのモニュメントが
+この谷にそびえたつよう","하지만 우리의
+모뉴먼트는
+이 계곡에서 영원하리니","Но наши памятники
+будут вечно стоять
+в этой долине.","Mas, para sempre,
+os nossos monumentos
+permanecerão no vale.","Men för evigt kommer
+våra monument
+att stå i denna dal.","Fakat bu vadideki
+anıtlarımız, 
+sonsuza dek 
+ayakta kalacak.","लेकिन हमारे स्मारक सदैव इस
+घाटी में बने रहेंगे।","Namun monumen kami
+akan berdiri teguh di
+lembah ini buat
+selama-lamanya.","Maar onze
+monumenten staan
+voor altijd
+in deze vallei.","แต่สิ่งที่เป็นอนุสรณ์เตือนใจเรา 
+จะคงอยู่ในหุบเขานี้ตลอดไป"
+credits_title,ustwo team credits,ustwo games,ustwo games,ustwo games,ustwo games,ustwo games,ustwo games,ustwo games,ustwo games,ustwo games,ustwo games,ustwo games,ustwo games,ustwo games,ustwo games,ustwo games,ustwo games,เกมจาก ustwo
+credits_thanks,special thanks credits,Special Thanks,Remerciements spéciaux,Ringraziamenti speciali,Besonderer Dank an,Agradecimientos especiales,特别鸣谢,特別鳴謝,特別協力,고마운 분들,Особая благодарность,Agradecimentos Especiais,Ett speciellt tack till,Özel Teşekkürler,विशेष धन्यवाद,Terima Kasih Khusus,Speciale dank,ขอบคุณเป็นอย่างยิ่ง
+credits_sound,,Sound Design,Conception sonore,Progettazione audio,Tongestaltung,Diseño de sonido,音效设计,音效設計,サウンドデザイン,사운드 디자인,Звуковой дизайн,Design de Som,Ljuddesign,Ses Tasarımı,साउंड डिजाइन,Reka Bentuk Bunyi,Geluid,ออกแบบเสียง
+credits_final_thanks,,Thank you for playing,Merci d'avoir joué,Grazie per aver giocato,Danke fürs Spielen,Gracias por jugar,感谢参与,感謝參與,プレイしていただき、ありがとうございます,플레이 해주셔서 감사합니다,Спасибо за игру,Obrigado por jogar,Tack för att du spelat,Oynadığınız için teşekkürler,खेलने के लिए धन्यवाद,Terima kasih kerana bermain,Bedankt voor het spelen,ขอบคุณที่มาเล่นเกมนี้
+settings_title,,Settings,Paramètres,Impostazioni,Einstellungen,Configuración,设置,設置,設定,설정,Настройки,Configurações,Inställningar,Ayarlar,सेटिंग,Tetapan,Instellingen,ตั้งค่า
+settings_resetprogress,,Reset Save Progress,Supprimer la partie sauvegardée,Cancella i progressi di gioco,Fortschritt zurücksetzen,Eliminar partida guardada,重置保存进度,重置保存進度,保存内容をリセット,저장한 게임 초기화,Сбросить сохраненные достижения,Reiniciar progresso salvo,Återställ Spara progress,Kayıtlı İlerlemeyİ Sıfırla,रक्षित प्रोग्राम पुनःसेट करें,Tetapkan Semula Kemajuan Disimpan,Reset Voortgang,รีเซ็ทบันทึกความคืบหน้า
+settings_resetconfirm,,Reset progress and start again?,Supprimer la partie et recommencer ?,Cancellare i progressi e ricominciare?,"Fortschritt zurücksetzen und neu
+starten?",¿Eliminar la partida y comenzar de nuevo?,重置进度并重新开始？,重置進度並重新開始？,リセットして最初からスタートしますか？,게임을 초기화하고 다시 시작할까요?,Сбросить достижения и начать заново?,Reiniciar progresso e recomeçar?,Återställ progress och börja om igen?,"İlerlemeyi sıfırlayıp baştan
+mı başlamak istiyorsun?","प्रोग्राम पुनः सेट करें तथा
+फिर से चालू करें?","Tetapkan semula kemajuan
+dan mulakan semula?","Reset voortgang en
+opnieuw opstarten?",รีเซ็ทความคืบหน้าและเริ่มใหม่
+settings_confirm_ok,,Reset,Supprimer,Conferma,Zurücksetzen,Eliminar,重置,重置,リセット,초기화,Сбросить,Reiniciar,Återställ,Sıfırla,पुनःसेट करें,Tetapkan semula,Reset,รีเซ็ท
+settings_confirm_cancel,,Cancel,Annuler,Annulla,Abbrechen,Cancelar,取消,取消,キャンセル,취소,Отмена,Cancelar,Avbryt,İptal,निरस्त करें,Batal,Annuleren,ยกเลิก
+settings_music,toggle music on/off,Music,Musique,Musica,Musik,Música,音乐,音樂,音楽,음악,Музыка,Música,Musik,Müzİk,संगीत,Muzik,Muziek,เพลง
+settings_sound,toggle sound on/off,Sound,Sonores,Suoni,Ton,Sonido,音效,音效,サウンド,사운드,Звук,Som,Ljud,Ses,ध्वनि,Bunyi,Geluid,เสียง
+info_by_ustwo,,by ustwo games,par ustwo games,di ustwo games,von ustwo games,de ustwo games,ustwo 游戏提供,ustwo 遊戲提供,ustwo games,ustwo games,ustwo games,por ustwo games,ustwo games,ustwo games,ustwo games,oleh permainan ustwo,door ustwo games,โดยเกมจาก ustwo
+info_credits,credits button,Credits,Crédits,Riconoscimenti,Mitwirkende,Créditos,制作团队,製作團隊,クレジット,만든 사람들,Авторы,Créditos,Medverkande,Katkıda Bulunanlar,क्रेडिट्स,Kredit,Credits,เครดิต
+storyteller_4a,,"This was
+the valley of men.","C'était
+la vallée des hommes.","Questa era
+la valle degli uomini.","Dies war
+das Tal der Menschen.","Este era
+el valle de los hombres.","山谷曾为
+人之居所。","山谷曾為
+人之居所。","ここは人の住む
+谷だった場所","이곳은
+인간들의 계곡이었다","Это была
+долина людей.","Este foi o
+vale dos homens.","Detta var
+människornas dal.","Burası insanların
+vadisiydi.",यह मनुष्यों की घाटी थी।,Ini lembah manusia.,"Dit was de vallei
+der mensheid.",นี่คือหุบเขาของมนุษย์
+storyteller_4b,,"Now all that remains
+are our monuments,
+stripped of their glories.","Tout ce qui reste
+désormais sont nos
+monuments, dépouillés
+de leur gloire.","Tutto ciò che resta
+ora sono i nostri
+monumenti, spogliati
+delle loro glorie.","Jetzt stehen nur noch
+unsere Monumente,
+ihres Ruhmes beraubt.","Ahora solo quedan
+los monumentos,
+despojados de su gloria.","而今，前人的辉煌，
+只化为
+纪念碑座。","而今，前人的輝煌，
+只化為
+紀念碑座。","残っているのは
+栄光をはぎ取られた
+モニュメントのみ","그들의 영광은 사라지고
+이제 남겨진 것은
+우리의 모뉴먼트뿐","Теперь здесь остались
+лишь наши памятники,
+лишенные былой славы.","Agora, restam apenas os
+nossos monumentos, as
+suas glórias removidas.","Nu är våra monument
+allt som finns kvar,
+utan deras forna prakt.","Şimdi geriye sadece
+görkemleri gitmiş 
+anılarımız kaldı.","अब जो कुछ बचा है वे हमारे
+स्मारक, उनके छीने गए गौरव हैं।","Yang tinggal kini
+hanyalah monumen
+kami, tanpa sebarang
+kegemilangannya.","Alles wat nu overblijft
+zijn onze monumenten,
+ontdaan van hun glorie.","ตอนนี้สิ่งที่เหลืออยู่เป็นอนุสรณ์
+เตือนใจของเรา ปอกลอกจาก
+ความรุ่งโรจน์ของพวกเขา"
+storyteller_4c,,"Thieving princess,
+why have you returned?","Princesse friponne,
+pourquoi es-tu revenue ?","Principessa ladra,
+perché hai fatto ritorno?","Diebische Prinzessin,
+warum bist du
+zurückgekehrt?","Princesa ladrona,
+¿por qué has vuelto?","窃贼公主，
+为何您又归来？","竊賊公主，
+為何您又歸來？","盗みを働く姫よ、
+そなたはなぜ戻ったのか？","다른 이의 물건을 탐하는 공주여,
+어찌하여 되돌아왔는가?","Принцесса-воровка,
+зачем ты вернулась?","Princesa ladra,
+por que voltaste?","Tjuvaktiga prinsessa,
+varför har du återvänt?","Hırsız prenses,
+neden geri döndün?","चोरी करने वाली राजकुमारी, आप
+क्यों वापस लौटी हो?","Puteri pencuri,
+mengapa kamu
+kembali?","Stelende prinses,
+waarom ben
+je terug?",เจ้าหญิงขี้ขโมย คุณกลับมาทำไมล่ะ
+quit_app_confirm_title,,Exit,Quitter,Esci,Beenden,Salir,退出,退出,終了,나가기,Выход,Sair,Avsluta,Çıkış,बाहर आएं,Keluar,Sluiten,ออกจากเกม
+quit_app_confirm_message,,Are you sure you want to exit?,Voulez-vous vraiment quitter ?,Desideri davvero uscire?,Spiel wirklich beenden?,¿Seguro que quieres salir?,您确定要退出吗？,您確定要退出嗎？,本当に終了しますか？,종료하시겠습니까?,Вы действительно хотите выйти?,Tem certeza de que deseja sair?,Är du säker att du vill avsluta?,Çıkmak istediğinizden emin misiniz?,"क्या आप आश्वस्त हैं तथा बाहर
+जाना चाहते हैं?",Adakah anda pasti anda mahu keluar?,Weet je zeker dat je af wilt sluiten?,คุณแน่ใจหรือว่าจะออกจากเกม
+quit_app_confirm_yes_button,,Yes,Oui,Sì,Ja,Sí,是,是,はい,예,Да,Sim,Ja,Evet,हां,Ya,Ja,ใช่
+quit_app_confirm_no_button,,No,Non,No,Nein,No,否,否,いいえ,아니요,Нет,Não,Nej,Hayır,नहीं,Tidak,Nee,ไม่ใช่
+gplus_signin,,Sign In,Connexion,Accedi,Anmelden,Iniciar sesión,登录,登錄,サインイン,로그인,Вход,Entrar,Logga in,Oturum Aç,साइन इन करें,Daftar Masuk,Aanmelden,ลงชื่อเข้าสู่ระบบ
+gplus_signout,,Sign Out,Déconnexion,Esci,Abmelden,Cerrar sesión,登出,登出,サインアウト,로그아웃,Выход,Sair,Logga ut,Oturumu Kapat,साइन आउट करें,Daftar Keluar,Afmelden,ออกจากระบบ
+gplus_status_out,,Sign in to Google Play,"Se connecter pour activer
+la sauvegarde Cloud","Accedi per abilitare il
+salvataggio sul cloud","Anmelden, um Cloud-
+Speicherung zu aktivieren","Inicia sesión para habilitar
+Guardado en la nube",登录开启云保存,登入開啟雲端存儲,サインインしてクラウドセーブを有効化,클라우드 저장을 사용하려면 로그인하세요.,"Выполните вход, чтобы 
+включить функцию Cloud Save","Entre para salvar
+na nuvem","Logga in för att
+aktivera Spara i moln","Buluta Kayıt'ı etkinleştirmek
+için oturum açın",गूगल प्ले के लिए साइन इन करें,Daftar masuk ke Google Play,Aanmelden bij Google Play,ลงชื่อเข้าสู่ระบบใน Google Play
+gplus_achievements,Button to GPGS achievements,Achievements,Réalisations,Obiettivi,Erfolge,Logros,成就,成就,アチーブメント,성취,Достижения,Conquistas,Utmärkelser,başarılar,उपलब्धियां,Pencapaian,Prestaties,ความสำเร็จ
+gplus_autosignin_cancel,,Not now,Plus tard,Non ora,Nicht jetzt,Ahora no,稍后,稍後,後で,나중에,Не сейчас,Agora não,Senare,Şimdi değil,अभी नहीं,Bukan sekarang,Niet nu,ไม่ใช่ตอนนี้
+gplus_signin_pending,,Signing In...,Connexion en cours,Connessione in corso,Anmelden…,Iniciando sesión...,登录中,登錄中,サインイン中,로그인,Логин…,Conectando...,Loggar in..,Bağlantı...,साइन इन करना...,Sedang Mendaftar Masuk...,Aanmelden...,กำลังลงชื่อเข้าใช้...
+gplus_status_in,not currently used,You are signed in,Vous êtes connecté( e),Hai effettuato l'accesso,Du bist angemeldet,Sesión iniciada,您已登录,您已登入,サインイン中です,로그인했습니다.,Вход выполнен,Você entrou,Du är inloggad,Oturum açmış bulunuyorsunuz,आपने साइन इन कर लिया है,Anda telah mendaftar masuk,Je bent aangemeld,คุณลงชื่อเข้าสู่ระบบแล้ว
+xbl_signin,,Sign In,Connexion,Accedi,Anmelden,Iniciar sesión,登录,登錄,サインイン,로그인,Вход,Entrar,Logga in,Oturum Aç,साइन इन करें,Daftar Masuk,Aanmelden,ลงชื่อเข้าสู่ระบบ
+xbl_signout,,Sign Out,Déconnexion,Esci,Abmelden,Cerrar sesión,登出,登出,サインアウト,로그아웃,Выход,Sair,Logga ut,Oturumu Kapat,साइन आउट करें,Daftar Keluar,Afmelden,ออกจากระบบ
+xbl_status_out,,Sign in to Xbox Live,Connectez-vous à Xbox Live,Accedere a Xbox LIVE,Melden Sie sich bei Xbox Live,Iniciar sesión en Xbox Live,登录Xbox Live,登入Xbox Live,Xbox Liveにサインインします,Xbox Live에 로그인,Войдите в Xbox Live,Inscreva-se em Xbox Live,Logga in på Xbox Live,Xbox Live oturum,एक्सबॉक्स लाइव में साइन,Log masuk ke Xbox Live,Meld u aan bij Xbox Live,ลงชื่อเข้าใช้ Xbox Live
+xbl_achievements,,Achievements,Réalisations,Obiettivi,Erfolge,Logros,成就,成就,アチーブメント,성취,Достижения,Conquistas,Utmärkelser,başarılar,उपलब्धियां,Pencapaian,Prestaties,ความสำเร็จ
+xbl_autosignin_cancel,,Not now,Plus tard,Non ora,Nicht jetzt,Ahora no,稍后,稍後,後で,나중에,Не сейчас,Agora não,Senare,Şimdi değil,अभी नहीं,Bukan sekarang,Niet nu,ไม่ใช่ตอนนี้
+merchandise_link,A link to our shop where players can buy print artwork and other merchandise,Prints / Merch,Reproductions/Articles,Stampe / Altri articoli,Drucke/Produkte,Láminas / Merchandising,印刷品 / 商品,印刷品 / 商品,プリント / グッズ,인쇄물 및 상품,Магазин,Impressões/produtos,Tryckalster/Varor,Baskılar / Eşyalar,प्रिंट्स/मर्च,Mencetak / Merch,Prints / Merch,พิมพ์ / ขาย
+camera_zoom_hint,Appears when you enter camera mode,Pinch to Zoom,Pince pour zoomer,Allontana le dita per ingrandire,"Verkleinern/Vergrößern:
+Auf- oder zuziehen",Pellizca para acercarte,指捏缩放,指捏縮放,ピンチしてズーム,두 손가락으로 확대/축소,"Для изменения масштаба
+сводите/разводите пальцы",Junte os dedos para zoom,Knip för att zooma,Zum yapmak için sıkıştırın,पिंच टु जूम,Cubit untuk zum,Knijpen om te zoomen,บีบเพื่อขยาย
+fan_link,"This is a web link to our fan community, mostly art by fans",Fanart,Fan art,Opere dei fan,Fan-Art,Fanart,粉丝作品,粉絲作品,ファンアート,팬아트,Фан-арт,Fanart,Fanart,Fanart,फैनार्ट,Fanart,Fanart,แฟนอาร์ท
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+quit_chapter_confirm_title,,Exit,Quitter,Esci,Beenden,Salir,退出,退出,終了,나가기,Выход,Sair,Avsluta,Çıkış,बाहर आएं,Keluar,Afsluiten,ออก
+quit_chapter_confirm_message,,Leave this chapter?,Quitter ce chapitre ?,Lasciare il capitolo?,Dieses Kapitel verlassen?,¿Abandonar este capítulo?,离开此章节？,離開此章節,この章から退出しますか？,이 챕터에서 나가시겠습니까?,Выйти из этой главы?,Sair deste capítulo?,Lämna detta kapitel?,Bölümden çıkılsın mı?,इस अध्याय को छोड़ें?,Tinggalkan bab ini?,Dit hoofdstuk verlaten?,ออกจากตอนนี้หรือไม่
+quit_chapter_confirm_yes_button,,Exit,Quitter,Esci,Beenden,Salir,退出,退出,終了,나가기,Выход,Sair,Avsluta,Çık,बाहर आएं,Keluar,Verlaten,ออก
+quit_chapter_confirm_no_button,,Cancel,Annuler,Annulla,Abbrechen,Cancelar,取消,取消,キャンセル,취소,Отмена,Cancelar,Avbryt,İptal et,निरस्त करें,Batal,Annuleren,ยกเลิก
+Store Text Intro,The word 'Ida' on it's own should always be translated in Chinese - the phrase' Ida's dream' should remain in English in Chinese translations,"In Monument Valley you will manipulate impossible architecture and guide a silent princess through a stunningly beautiful world.
+
+Monument Valley is a surreal exploration through fantastical architecture and impossible geometry. Guide the silent princess Ida through mysterious monuments, uncovering hidden paths, unfolding optical illusions and outsmarting the enigmatic Crow People.","Dans Monument Valley, vous manipulerez une architecture impossible et guiderez une princesse silencieuse dans un univers époustouflant.
+
+Monument Valley offre une exploration surréaliste d'une architecture fantastique à la géométrie impossible. Guidez Ida, la princesse silencieuse, à travers de mystérieux monuments : découvrez des chemins cachés, percez des illusions d'optique et déjouez les énigmes du Peuple des corneilles.
+","In Monument Valley manipolerai architetture impossibili e guiderai una principessa silenziosa attraverso un mondo meraviglioso.
+
+Monument Valley è un'esplorazione surreale attraverso fantastici elementi architettonici e geometrie impossibili. Guida la silenziosa principessa Ida attraverso misteriosi monumenti, scoprendo sentieri nascosti, svelando illusioni ottiche e battendo in astuzia l'enigmatico popolo dei corvi.","In Monument Valley nimmst du Einfluss auf unmögliche Architektur und steuerst eine stumme Prinzessin durch eine atemberaubend schöne Welt.
+
+Monument Valley ist eine surreale Entdeckungsreise durch wunderliche Architektur und unmögliche Geometrie. Steuere die stumme Prinzessin Ida durch mysteriöse Monumente, entdecke dabei verborgene Pfade und lege optische Illusionen offen, während du das rätselhafte Krähenvolk überlistest.","En Monument Valley, debes manipular arquitecturas imposibles y guiar a la princesa silenciosa por un mundo de belleza incomparable.
+
+Monument Valley es un viaje irreal por construcciones fantásticas y geometrías imposibles. Guía a la silenciosa princesa Ida por monumentos misteriosos, descubre senderos ocultos, revela ilusiones ópticas y burla a los enigmáticos Hombres Cuervo.
+","在《纪念碑谷》中，您将通过控制一些巧夺天工的建筑来帮助一位沉默的公主走出一个缤纷绚丽的世界。
+
+推荐在游戏时使用耳机。
+
+《纪念碑谷》将带来一次神奇建筑与奇妙几何体相结合的梦幻探险。通过探索隐藏小路、发现视力错觉以及击败神秘的乌鸦人来帮助沉默公主艾达走出纪念碑迷阵。","在《紀念碑谷》中，您將通過控制一些巧奪天工的建築來幫助一位沈默的公主走出一個繽紛絢麗的世界。
+
+推薦在遊戲時使用耳機。
+
+《紀念碑谷》將帶來一次神奇建築與奇妙幾何體相結合的夢幻探險。通過探索隱藏小路、發現視力錯覺以及擊敗神秘的烏鴉人來幫助沈默公主艾達走出纪念碑迷陣。","モニュメントバレーのすばらしく美しい世界の中、あなたは現実にはありえない建築物を操作して沈黙の姫を導くことになります。
+
+モニュメントバレーでは、空想上の建築物やありえない幾何学模様のはざまで超現実的な冒険が展開されます。神秘的なモニュメントの中で、沈黙の姫アイダを導いてください。隠れた道を探し出して錯覚を解き明かし、ミステリアスなカラス人間を知恵で打ち破りましょう。","여러분은 Monument Valley에서 불가사의한 건물의 길을 조작하여 침묵의 공주를 아름다운 세계로 이끄는 모험을 떠나게 됩니다.
+
+Monument Valley에는 환상적인 건물과 불가사의한 기하학 구조 속에서 벌어지는 초현실적 탐험이 담겨 있습니다. 침묵의 공주 아이다를 인도하여 신비한 모뉴먼트를 탐험하고 감춰진 길을 밝혀내세요. 또, 환각의 비밀을 밝혀내고 정체를 알 수 없는 까마귀 종족과의 두뇌 대결에서 승리하세요.","В игре Monument Valley вы будете производить действия с невероятными архитектурными сооружениями и вести молчаливую принцессу по потрясающе красивому миру.
+
+Monument Valley - это сюрреалистическое исследование фантастической архитектуры и невероятной геометрии. Ведите молчаливую принцессу Иду по таинственным памятникам, открывая скрытые тропы и обнаруживая оптические иллюзии, стремясь перехитрить загадочных людей-ворон.","Em Monument Valley você vai manipular arquiteturas impossíveis e guiar uma silenciosa princesa por um mundo incrivelmente fascinante.
+
+Monument Valley é uma exploração surreal pela arquitetura fantástica e geometria impossível. Guie a silenciosa princesa Ida por monumentos misteriosos, revelando caminhos ocultos, desvendando ilusões de óptica e com mais esperteza que o enigmático Povo Corvo.","I Monument Valley kommer du att manipulera omöjlig arkitektur och leda en tyst prinsessa genom en otroligt vacker värld.
+
+Monument Valley är en surrealistisk utforskning genom fantastisk arkitektur och omöjlig geometri. Led den tysta prinsessan Ida genom mystiska monument genom att blottlägga dolda stigar, avslöja optiska synvillor och överlista det enigmatiska Kråkfolket.","Monument Valley'de imkânsız bir mimari yapıyı ustalıkla manipüle edecek ve nefes kesici güzellikteki bu dünyada, sessiz bir prensese rehberlik edeceksiniz.
+
+Monument Valley, fantastik bir mimari yapı ve imkânsız bir geometriye sahip gerçeküstü bir keşif macerasıdır. Sessiz prenses Ida'ya gizemli anıtlar arasında ilerlemesi, gizli yolları keşfetmesi, görsel yanılsamaları çözmesi ve esrarengiz Karga Topluluğunu zekâsıyla alt etmesi için rehberlik et.","Monument Valley में आप चालाकी
+से असंभव वास्तुकला में हेरफेर करेंगे तथा असाधारण रूप से खूबसूरत दुनिया के
+माध्यम से मूक राजकुमारी का मार्गदर्शन करेंगे। Monument Valley  विलक्षण वास्तुकला तथा असंभव ज्यामिती के
+माध्यम से एक अद्भुत खोजबीन है। रहस्यपूर्ण स्मारकों, छिपे रास्तों को खोलने,
+दृष्टि भ्रम को हटाने तथा गूढ़ क्रो पीपल को चालाकी से हरा कर मूक राजकुमारी अइडा
+का मार्गदर्शन करें।","Dalam Monument Valley anda akan memanipulasi seni bina yang mustahil dan membimbing seorang puteri bisu melalui dunia yang sangat indah. Monument Valley adalah penerokaan sureal melalui seni bina yang amat menakjubkan dan geometri yang mustahil. Bimbing puteri Ida yang tidak bersuara ini melalui monumen misteri, menyingkap laluan tersembunyi, mendedahkan ilusi optik dan mengungguli Orang Crow yang penuh misteri.","In Monument Valley manipuleer je onmogelijke architectuur en leid je een stille prinses door een prachtige wereld. Monument Valley is een surrealistische ontdekkingstocht door fantastische architectuur en onmogelijke geometrie. Leid de stille princes Ida door mysterieuze monumenten, ontdek verborgen paden, ontvouw optische illusies en zorg dat je slimmer bent dan de enigmatische Kraai-mensen.",ใน Monument Valley นี้คุณจะได้จัดการสถาปัตยกรรมที่ไม่น่าเป็นไปได้ และพาเจ้าหญิงใบ้ผ่านโลกที่สวยงามจนต้องตะลึง Monument Valley เป็นการสำรวจเสมือนจริงผ่านสถาปัตยกรรมอันเยี่ยมยอดและรูปทรงที่ไม่น่าเป็นไปได้ นำทางเจ้าหญิงใบ้ผ่านอนุสรณ์อันน่าพิศวง ค้นหาทางเดินที่ซ่อนอยู่ เปิดเผยภาพลวงตาและเอาชนะผู้คนครึ่งกาอันเป็นปริศนาด้วยความฉลาด
+Store Text Quotes,* Worth translating the quotes in this as well.,"
+=======
+""One of the very finest hours, and the value of such a thing is incalculable"" - Kotaku
+
+""Brilliant design... stayed with me like a dream I didn't want to forget... 9/10"" - Polygon
+
+""Monument Valley stuns with its serenity... each screen is a work of art"" - Huffington Post
+
+""Almost impossibly gorgeous...  a feast for your senses... 5/5"" - Touch Arcade
+
+“Monument Valley is the most elegant game i have ever played”  - Tim Schafer
+=======","
+« Un moment inoubliable, et la valeur de ce genre de chose n'a pas de prix » - Kotaku
+
+« Un design brillant... qui est resté ancré en moi comme un rêve que je ne voulais pas oublier... 9/10 » - Polygon
+
+« Monument Valley frappe par sa sérénité... chaque scène est une œuvre d'art » - Huffington Post
+
+« D'une splendeur presque impossible...  un véritable festin pour tous les sens... 5/5 » - Touch Arcade
+
+« Monument Valley est le jeu le plus élégant auquel j'ai pu jouer » - Tim Schafer
+","
+""Una delle migliori ore mai trascorse... e questo ha un valore incalcolabile"" - Kotaku
+
+""Ha un design davvero brillante... Mi ha accompagnato come un sogno che non volevo dimenticare... 9/10"" - Polygon
+
+""Monument Valley ti colpisce per la serenità che ispira... Ogni schermata è un'opera d'arte"" Huffington Post
+
+""Stupendo in modo quasi impossibile... Una vera festa per i sensi... 5/5"" - Touch Arcade
+
+""Monument Valley è il gioco più elegante a cui abbia mai giocato"" Tim Schafer
+","
+""Eine absolute Sternstunde – der Wert eines solchen Moments ist unschätzbar"" - Kotaku
+
+""Geniales Design ... blieb mir in Erinnerung wie ein Traum, den ich nicht vergessen wollte ... 9/10"" - Polygon
+
+""Monument Valley besticht mit seiner Klarheit ... jeder Bildschirm ist ein Kunstwerk"" - Huffington Post
+
+""Fast unmöglich schön ... ein Fest für die Sinne ... 5/5"" - Touch Arcade
+
+""Monument Valley ist das eleganteste Spiel, das ich jemals gespielt habe""  - Tim Schafer
+
+","
+«Un momento de gloria. Y el valor de algo así es incalculable». - Kotaku
+
+«Un diseño brillante. Me acompañaba como un sueño que no quería olvidar. 9/10». - Polygon
+
+«Monument Valley impacta con su serenidad. Cada pantalla es una obra de arte». - Huffington Post
+
+«Es increíblemente hermoso. Un festín para los sentidos. 5/5». - Touch Arcade
+
+«Monument Valley es el juego más elegante que he jugado en mi vida». - Tim Schafer
+","
+“最美妙的时光之一，而这种美妙是无法衡量的“ - Kotaku
+
+“天才的设计…仿佛做了一场让我无法忘却的梦… 9/10” - Polygon
+
+“《纪念碑谷》以静取胜… 它的每个画面都是一件艺术品” - 赫芬顿邮报
+
+“难以置信的华丽… 您感官的盛宴… 5/5” - Touch Arcade
+
+“《纪念碑谷》是我玩过的最漂亮的游戏” - Tim Schafer
+"," 
+“最美妙的時光之一，而這種美妙是無法衡量的” - Kotaku
+
+“天才的設計......彷彿做了一場讓我無法忘卻的夢...9/10” - Polygon 
+
+“《紀念碑谷》以靜取勝......它的每個畫面都是一件藝術品” - 哈芬登郵報 
+
+“難以置信的華麗...您感官的盛宴... 5/5” - Touch Arcade
+
+“《紀念碑谷》是我玩過的最漂亮的遊戲” - Tim Schafer
+","
+「素晴らしいひととき。そんな時間の価値は計り知れないもの。」 - Kotaku
+
+「見事なデザイン…まるで忘れたくない夢のように記憶に残った…10点中9点」 - Polygon
+
+「モニュメントバレーでは、その平穏さに驚かされる…画面の一つ一つが芸術作品。」 - Huffington Post
+
+「信じられないほどゴージャス…感覚を満足させる作品…満点」 - Touch Arcade
+
+「モニュメントバレーは今までプレイした中でもっともエレガントなゲーム。」  - Tim Schafer
+","
+""가치를 가늠할 수 없을 정도로 멋진 게임"" - Kotaku
+
+""환상적으로 디자인된, 영원히 기억하고픈 꿈속을 거니는 경험... 9/10"" - Polygon
+
+""충격적으로 다가오는 평온한 느낌... Monument Valley의 장면 하나하나가 곧 예술 작품"" - Huffington Post
+ ""불가능할 정도로 훌륭한... 감각이 누릴 수 있는 최고의 향연... 5/5"" - Touch Arcade
+
+“Monument Valley는 내가 즐긴 게임 중 최고로 우아한 작품이다.”  - Tim Schafer
+","
+""Одна из самых приятных игр – просто неоценима"", - Kotaku
+
+""Блестящий дизайн...Эта игра словно сон, который не хочется забывать... 9 баллов из 10"", - Polygon
+
+""Игра Monument Valley поражает своим спокойствием... Каждый новый экран – произведение искусства"", - Huffington Post
+
+""Великолепна до невозможности... праздник чувств... 5 баллов из 5"", - Touch Arcade
+
+“Monument Valley – самая элегантная игра, в которую мне довелось играть”, - Tim Schafer
+","
+""Simplesmente sensacional, e o valor de algo assim é incalculável"" - Kotaku
+
+""Design brilhante... ficou comigo como um sonho que eu não quero esquecer... 9 de 10"" - Polygon
+
+""Monument Valley atordoa com sua serenidade... cada tela é uma obra de arte"" - Huffington Post
+
+""Quase impossivelmente lindo... um banquete para os sentidos... 5 de 5"" - Touch Arcade
+
+""Monument Valley é o jogo mais elegante que eu já joguei""  - Tim Schafer
+","
+""En av de allra finaste timmarna och värdet av detta är oberäkneligt"" - Kotaku
+
+""Briljant design... stannade hos mig som en dröm jag inte ville glömma... 9/10"" - Polygon
+
+""Monument Valley slår dig med häpnad med dess fridfullhet... varje skärm är ett konstverk"" - Huffington Post
+
+""Nästan omöjligt underbart... en fest för dina sinnen... 5/5"" - Touch Arcade
+
+“Monument Valley är det elegantaste spelet jag någonsin har spelat” - Tim Schafer
+
+","
+""En harika anlardan biri ve böyle bir şeyin değeri ölçülemez"" - Kotaku
+
+""Harika bir tasarım... unutmak istemediğim bir rüya gibi aklımda kaldı... 9/10"" - Polygon
+
+""Monument Valley dinginliğiyle sizi çarpıyor... her sahnesi bir sanat eseri"" - Huffington Post
+
+""Adeta inanılmaz ölçüde muhteşem...  duyularınız için tam bir ziyafet... 5/5"" - Touch Arcade
+
+“Monument Valley şimdiye kadar oynadığım en zarif oyun”  - Tim Schafer","सबसे बेहतरीन घंटों में से एक,
+तथा ऐसी चीज का मूल्य बेहिसाब है- कोटाकू ब्रिलिएंट डिजाइन- एक सपने की तरह मेरे
+साथ रहें मैं भूलना नहीं चाहता... 9/10—पॉलीगन
+Monument Valley अपनी सौम्यता से आश्चर्यचकित करती है... प्रत्येक स्क्रीन एक
+कलाकृति है – हफिंग्टन पोस्ट प्रायः असंभव रूप से भव्य ... आपकी चेतनाओं के लिए एक
+दावत है... 5/5 – टच आर्केड “ मैंने अब
+तक जितने गेम खेले हैं उनमें Monument Valley सबसे अधिक शिष्ट है” –टिम
+शाफेर ","""Antara waktu yang paling baik, dan nilainya tidak terhitung"" - Kotaku 
+
+""Reka Bentuk yang hebat ... kekal dalam ingatan saya seperti impian yang tidak sanggup saya lupakan ... 9/10"" - Polygon
+
+""Terpegun dengan Monument Valley yang begitu ketenangan ... setiap skrin adalah karya seni""- Huffington Post
+
+""Keindahannya hampir sesuatu yang mustahil ... santapan pancaindera anda ... 5/5"" - Touch Arcade
+
+""Monument Valley adalah permainan yang paling anggun yang pernah saya main"" - Tim Schafer
+
+","Een van de mooiste uurtjes, en de waarde van zoiets is niet te overzien - Kotaku
+
+Fantastisch ontwerp... bleef bij me als een droom die ik niet wilde vergeten... 9/10 - Polygon
+
+Monument Valley valt op dankzij de sereniteit... elk scherm is een kunstwerkje - Huffington Post
+
+Bijna onmogelijk prachtig... een feest voor je zintuigen... 5/5 - Touch Arcade
+
+Monument Valley is het meest elegante spel dat ik ooit gespeeld heb - Tim Schafer","เป็นหนึ่งในชั่วโมงที่ดีที่สุด และมีค่าเทียบเท่ากับสิ่งที่ประเมินค่าไม่ได้ - Kotaku
+
+เป็นการออกแบบที่งดงาม.... อยู่กับฉันเหมือนฝันที่ไม่อยากลืม... 9/10 - หลายด้านหลายมุม
+
+Monument Valley ทำให้เราตะลึงด้วยความราบรื่นของมัน... แต่ละหน้าคือผลงานศิลปะ - Haffington Post 
+
+งดงามอย่างไม่น่าเชื่อ.... เหมือนอาหารชั้นเลิศให้ประสาทสัมผัสคุณเลย... 5/5 - เกมอันน่าประทับใจ 
+
+Monument Valley เป็นเกมที่งดงามที่สุดที่ฉันเคยเล่นมา - Tim Schafer"
+Store Text Features,,"BEAUTIFUL
+
+Inspired by minimalist 3D design, optical illusions and palaces and temples from around the world, every monument is a unique, hand-crafted world to explore.
+
+
+EASY TO USE
+
+Twist and drag to reshape the world and help Ida to explore.  Designed to be easy for everyone to pick up, enjoy and complete.
+
+SOUND
+
+Audio reacts to your manipulation of the world to provide a surreal and beautiful soundscape.  Best experienced with headphones.","BEAU
+
+Inspiré par un design 3D minimaliste, des illusions d'optique ainsi que des palais et des temples du monde entier, chaque monument est un univers travaillé et unique à explorer.
+
+
+FACILE À UTILISER
+
+Faites tourner ou glisser votre doigt pour remodeler le monde et aider Ida à l'explorer.  Conçu pour que tout le monde puisse facilement le prendre en main, s'amuser et parvenir à la fin.
+
+SON
+
+Le son réagit à votre façon de manipuler le monde pour vous fournir une ambiance sonore surréaliste et agréable.  Un casque est recommandé pour une expérience optimale.","MAGNIFICO
+
+Ispirati da un design 3D minimalista, illusioni ottiche, palazzi e templi di tutto il mondo, ogni monumento è creato minuziosamente a mano e rappresenta un mondo unico da esplorare.
+
+FACILE DA USARE
+
+Ruota e trascina per rimodellare il mondo e aiutare Ida nella sua esplorazione. Progettato per essere facile da imparare, giocare e portare a termine per chiunque.
+
+SUONO
+
+L'audio reagisce alla tua manipolazione del mondo di gioco per offrirti un meraviglioso e surreale ambiente sonoro.  Si consiglia l'utilizzo di auricolari per un'esperienza ottimale.","WUNDERSCHÖN
+
+Die Monumente sind von minimalistischem 3D-Design, optischen Illusionen und Palästen und Tempeln aus aller Welt inspiriert. Jedes einzelne ist eine individuelle, handgefertigte Welt, die erforscht werden kann.
+
+BENUTZERFREUNDLICH
+
+Drehe und ziehe, um die Welt umzugestalten und Ida bei ihrer Erkundung zu helfen. Das Spiel ist für alle Spieler leicht lern- und abschließbar.
+
+TON
+
+Der Ton reagiert, wenn du die Welt beeinflusst, und bietet eine surreale und schöne Klanglandschaft, die mit Kopfhörern am besten zur Geltung kommt.","PRECIOSO
+
+Inspirado en el diseño tridimensional minimalista, las ilusiones ópticas y los palacios y templos de todo el mundo. Cada monumento es un mundo único y artesanal que explorar.
+
+FÁCIL DE USAR
+
+Gira y arrastra para dar forma al mundo y guiar a Ida por él.  Diseñado para que todos el mundo pueda disfrutarlo y completarlo.
+
+SONIDO
+
+El mundo reacciona a tus acciones con un entorno sonoro irreal y apasionante.  Se aconseja usar auriculares.","
+漂亮
+
+受到极简3D设计灵感、视力错觉和世界各地的宫殿庙宇的启发，每个纪念碑都是手工绘制并且独一无二。
+
+易上手
+
+旋转并拖拽就已可以改变形状来帮助艾达探索世界。游戏的设计让每个人都可以轻松上手、享受并且完成游戏。
+
+音效
+
+你对世界的操控会产生不同音效，进而产生一种奇妙而美丽的音景。使用耳机效果最佳。","漂亮
+
+受到極簡3D設計靈感、視力錯覺和世界各地的宮殿廟宇的啓發，每個紀念碑都是手工繪制並且獨一無二。
+
+易上手
+
+旋轉並拖拽就已可以改變形狀來幫助艾達探索世界。遊戲的設計讓每個人都可以輕鬆上手、享受並且完成遊戲。
+
+音效
+
+你對世界的操控會產生不同音效，進而產生一種奇妙而美麗的音景。使用耳機效果最佳。","美しい世界
+
+探検するモニュメントは、ミニマリストの3Dデザイン、目の錯覚、世界の宮殿や寺院などから影響を受けており、それぞれユニークで手作りの世界になっています。
+
+
+簡単なプレイ
+
+ツイストやドラッグで世界を変形させてください。そして、アイダの冒険を導いてください。誰でも簡単にゲームを理解し、楽しんで達成できるようにデザインされています。
+
+サウンド
+
+ゲームサウンドは、あなたがその世界を操作するのに対応して超現実的で美しいサウンドスケープを奏でます。ヘッドフォンによる最高の音楽体験をお勧めします。","
+아름다운 세계
+극도로 간결한 3D 디자인, 시각적 환상, 전 세계의 궁전과 사원에 영감을 받아 태어난 모든 모뉴먼트는 독특하며 손으로 빚어낸 모험의 세계입니다.
+
+
+간편한 조작
+
+비틀고 끌어다 놓는 동작만으로 세상의 모습을 바꾸고 아이다의 모험을 도울 수 있습니다. 누구나 쉽게 접근하고 즐기며 플레이 할 수 있게 만들었습니다.
+
+환상적인 사운드
+
+플레이어의 조작에 반응하여 환상적이고 아름다운 음향의 세계가 펼쳐집니다. 헤드폰을 착용하면 최고의 사운드를 만끽할 수 있습니다.","КРАСОТА
+
+Каждый памятник сочетает идеи минималистских трехмерных конструкций, оптические иллюзии и элементы реальных дворцов и храмов. Эти уникальные миры ручной работы ждут своих исследователей.
+
+
+ПРОСТОТА
+
+Поворачивайте и перемещайте все вокруг, меняйте мир и помогайте Иде его исследовать. Все сделано так, чтобы каждый мог получать удовольствие от игры и с легкостью ее проходить.
+
+ЗВУК
+
+Красивые сюрреалистические звуковые ландшафты создаются в ответ на ваши действия. Лучше всего они воспринимаются в наушниках.","LINDO
+
+Inspirado em um design minimalista 3D, ilusões de óptica e palácios e templos de todo o mundo, cada monumento é único, artesanalmente feito para explorar.
+
+FÁCIL DE USAR
+
+Gire e arraste para remodelar o mundo e ajude Ida a explorar. Criado para ser fácil de entender, curtir e terminar.
+
+SOM
+
+O áudio reage à sua manipulação do mundo para gerar um belo e surreal som ambiente. A experiência com fones de ouvido é surpreendente.","VACKERT
+
+Med inspiration hämtad från minimalistisk 3D-design, optiska synvillor, palats och tempel från hela världen är varje monument en unik, handgjord värld att utforska.
+
+
+LÄTT ATT ANVÄNDA
+
+Vrid och dra för att omskapa världen och hjälpa Ida att utforska. Spelet är designat för att vara lätt för vem som helst att plocka upp, njuta av och klara av.
+
+LJUD
+
+Ljudet reagerar på din manipulering av världen för att ge ett surrealistiskt och vackert ljudlandskap. Upplevs bäst med hörlurar.","GÜZEL
+
+Minimalist 3D tasarımdan, görsel illüzyonlardan ve dünyanın dört bir tarafındaki saray ve tapınaklardan ilham alan her bir anıt, keşfedilmeyi bekleyen benzersiz ve el yapımı bir dünyadır. 
+
+KULLANIMI KOLAY
+
+Dünyaya yeniden şekil vermek ve İda’ya yardımcı olmak için şekilleri döndür ve sürükle. Herkes tarafından kolayca kavranacak, zevk alınacak ve tamamlanacak şekilde tasarlanmıştır.
+
+SES
+
+Gerçeküstü ve çok güzel bir ses ortamı sunulması için sesler dünyayı manipüle etmene göre tepki verir. En iyi sonuç için kulaklık kullanılması önerilir.","न्यूनतावादी 3डी डिजाइन द्वारा
+प्रेरित ब्यूटीफुल, दृष्टिभ्रम तथा विश्व भर के महल और मंदिर, प्रत्येक स्मारक
+विशिष्ट, दस्तकारी की दुनिया की छानबीन करने के लिए है। दुनिया को नया रूप देने के
+लिए प्रयोग करने में आसान ट्विस्ट तथा ड्रैग करें और छानबीन करने में अइडा की मदद
+करें। प्रत्येक के लिए चुनने, आनंद लेने तथा पूरा करने के लिए आसान बनाने हेतु
+डिजाइन किया गया है। अद्भुत और खूबसूरत ध्वनि परिदृश्य प्रदान करने के लिए साउंड
+ऑडियो आपकी दुनिया की चालबाजी के लिए प्रतिक्रिया देता है। हेडफोन से सर्वश्रेष्ठ
+अनुभूति।","KEINDAHAN diilhamkan oleh reka bentuk 3D minimalis, ilusi optik dan istana serta kuil-kuil di seluruh dunia, setiap monumen, adalah dunia unik yang dihasilkanuntuk diterokai. 
+
+MUDAH DIGUNAKAN Pulas dan seret untuk membentuk semula dunia dan membantu Ida meneroka. Direka agar mudah digunakan, dinikmati dan dilengkapkan oleh semua orang. 
+
+Audio BUNYI bertindak balas terhadap manipulasi dunia ini oleh anda untuk menghasilkan landskap bunyi yang sureal dan indah. PEngalaman terbaik boleh didapati melalui fon kepala.","PRACHTIG
+
+Geïnspireerd door minimalistisch 3D ontwerp, optische illusies en paleizen en tempels van over de hele wereld, elk monument is een unieke, handgemaakte wereld om te ontdekken.
+
+EENVOUDIG TE GEBRUIKEN
+
+Draai en sleep om de wereld opnieuw te vormen en Ida te helpen dingen te ontdekken. Ontworpen zodat het voor iedereen makkelijk is om een surrealistisch en prachtig geluidslandschap te maken. Het beste te ervaren met een koptelefoon.",ความสวยงาม ได้แรงบันดาลใจจากการออกแบบ 3D แบบเรียบง่าย ภาพลวงตาและปราสาทกับวิหารทั่วโลก อนุสรณ์ทุกอันจะมีลักษณะเฉพาะ และโลกที่สร้างด้วยมืออันน่าสำรวจ ใช้งานง่าย เพียงบิดและลากเพื่อเปลี่ยนรูปร่างโลกและช่วยไอดาสำรวจ ถูกออกแบบมาให้เล่นง่ายสำหรับทุกคนให้หยิบขึ้นมา สนุกและสำเร็จ เสียง เสียงตอบสนองไปตามการจัดการกับโลกของคุณ ให้เสียงที่สวยงามและเหมือนในจินตนาการ ใช้หูฟังเพื่อประสบการณ์ที่ดีที่สุด
+Store Text Features - iOS,,"iCloud
+
+Synchronize your game across all your devices.","iCloud
+
+Synchronisez votre jeu entre tous vos appareils.","iCloud
+
+Sincronizza il gioco su tutti i tuoi dispositivi.","iCloud
+
+Synchronisiere dein Spiel für alle Geräte.","iCloud
+
+Sincroniza el juego en todos tus dispositivos.","支持 iCloud
+
+可在你的所有设备间同步游戏进度。","支持 iCloud
+
+可在你的所有設備間同步遊戲進度。","iCloud
+
+すべてのデバイスでゲームを同期させる事ができます。","iCloud
+
+다른 장치로 바꾼 후에도 이전에 진행한 게임을 그대로 이어 즐기세요.","iCloud
+
+Синхронизируйте игру на всех своих устройствах.","iCloud
+
+Sincronize seu jogo com todos os seus dispositivos.","iCloud
+
+Synkronisera spelet på alla dina enheter.","iCloud
+
+Oyununu tüm cihazların için senkronize et.","आईक्लाउड आपके गेम को आपके सभी
+उपकरणों के लिए समकालिक करता है।",iCloud Menyegerak permainan anda pada semua peranti anda.,iCloud synchroniseert je spel op al je apparaten.,iCloud เชื่อมต่อเกมที่คุณเล่นในอุปกรณ์ทั้งหมดของคณ
+Store Text Warning - iOS,,** Monument Valley is designed for iPhone 4 and above.  It is NOT compatible with iPod Touch 4th Generation.,** Monument Valley est conçu pour l'iPhone 4 et versions ultérieures.  Il N'est PAS compatible avec l'iPod Touch de 4e génération.,** Monument Valley è progettato per iPhone 4 e superiori.  NON è compatibile con iPod Touch di quarta generazione,** Monument Valley wurde für iPhone 4 und höher entwickelt. Es ist NICHT kompatibel mit iPod Touch der 4. Generation.,** Monument Valley está diseñado para iPhone 4 y modelos superiores.  NO es compatible con iPod Touch de 4ª generación.,注意：《纪念碑谷》适用于 iPhone 4 及以上机型。iPod Touch 第4代不能运行此游戏。,注意：《紀念碑谷》適用於 iPhone 4 及以上機型。iPod Touch 第4代不能運行此遊戲。,** モニュメントバレーは、iPhone 4S 以降のデバイスを対象に作られています。iPhone 4、iPod Touch 第4世代には対応していません。,** Monument Valley는 iPhone 4S 이상에서 동작합니다. iPhone 4 또는 iPod Touch 4세대에서 호환되지 않습니다.,** Игра Monument Valley предназначена для iPhone 4 и выше. Она НЕ совместима с iPod Touch 4-го поколения.,"AVISO: o Monument Valley é desenvolvido para iPhone 4 e acima. Ele NÃO é compatível com iPod Touch 4ª Geração.
+
+Fones de ouvido recomendados.
+
+Compatível com iCloud.",** Monument Valley är utformat för iPhone 4 och nyare modeller. Det är INTE kompatibelt med fjärde generationens iPod Touch.,** Monument Valley iPhone 4 ve üstü için tasarlanmıştır. iPod Touch 4th Generation ile uyumlu DEĞİLDİR ,"** Monument Valley को आईफोन 4 तथा
+इससे उच्च श्रेणी के लिए डिजाइन किया गया है। यह आईपोड टच फोर्थ जनरेशन के साथ
+संगत नहीं है।",** Monument Valley direka untuk iPhone 4 dan lebih tinggi. Ia TIDAK serasi dengan iPod Touch Generasi Ke-4.,** Monument Valley is ontworpen voor iPhone 4 en hoger. Het is NIET compatibel met iPod Touch 4e generatie.,** Monument Valley ออกแบบมาสำหรับ iPhone 4 ขึ้นไป และไม่รองรับ iPod Touch รุ่นที่ 4
+Store Text Features - Google Play,,"CLOUD SAVE
+
+Synchronize your game across all your devices.","SAUVEGARDE CLOUD
+
+Synchroniser votre partie sur tous vos appareils.","SALVATAGGIO SUL CLOUD
+
+Sincronizza il gioco su tutti i tuoi dispositivi.","CLOUD-SPEICHERUNG
+
+Synchronisiere dein Spiel auf allen Geräten.","GUARDAR EN LA NUBE
+
+Sincroniza el juego en todos tus dispositivos.","云保存
+
+在您所有的设备中同步游戏。","雲端存儲
+
+在您所有的設備中同步遊戲。","クラウドセーブ
+
+全デバイスでゲームを同期する","클라우드 저장
+
+모든 장치에서 게임을 동기화합니다.","CLOUD SAVE
+
+Синхронизировать игру на всех Ваших устройствах.","SALVAR NA NUVEM
+
+Sincroniza o jogo em todos os seus dispositivos.","SPARA I MOLN
+
+Synkronisera ditt spel över alla dina enheter.","BULUTA KAYIT
+
+Oyununuzu bütün cihazlarınızda senkronize edin.","क्लाउड सेव आपके गेम को आपके
+सभी उपकरणों के लिए समकालिक करता है।","CLOUD SAVE
+Menyegerak permainan anda pada semua peranti anda.","CLOUD OPSLAAN
+
+Synchroniseer je spel op al je apparaten.",บันทึกด้วยคลาวด์เพื่อให้คุณเล่นในอุปกรณ์ทั้งหมดของคุณได้อย่างต่อเนื่อง
+Store Text Tablet Support,,"TABLET SUPPORT
+
+Monument Valley is optimized for both tablets and phones.","SUPPORT TABLETTE 
+
+Monument Valley est optimisée pour les tablettes et les téléphones.","SUPPORTO PER TABLET
+
+Monument Valley è ottimizzato per tablet e smartphone.","TABLET UNTERSTÜTZUNG
+
+Monument Valley ist für Tablets und Handys optimiert.","COMPATIBLE CON TABLETS
+
+Monument Valley está optimizado tanto para tablets como para teléfonos.","支援平板电脑
+
+纪念碑谷已优化适用于平板电脑和手机","支援平板電腦
+
+紀念碑谷已優化適用於平板電腦和手機","タブレットサポート
+
+モニュメントバレーはタブレットとスマホ向けに最適化されています。","타블렛 지원
+
+Monument Valley는 타플렛과 폰에 최적화되어 있습니다.","Поддержка планшетов 
+
+Monument Valley оптимизирована для планшетов и телефонов.","SUPORTE EM TABLETS
+
+Monument Valley está optimizado para tablets e smartphones                  ","TABLET SUPPORT
+
+Monument Valley är optimerat för både tablets och smartphones.
+
+","TABLET DESTEK 
+
+Monument Valley tablet ve telefonlar için optimize edilmiştir.","टेबलेट सपोर्ट मॉन्यूमेंट
+वैली टेबलेट और फोन दोनों के लिए अनुकूलतम है।","SOKONGAN TABLET
+Monument Valley dioptimumkan untuk kedua-dua tablet dan telefon.","TABLET ONDERSTEUNING
+
+Monument Valley is geoptimaliseerd voor zowel tablets als telefoons.",รองรับการใช้งานผ่านแท็บเล็ต Monument Valley นั้นออกแบบให้ใช้ได้ทั้งกับแท็บเล็ตและมือถือ
+Store Text - Design Award,,** Winner of Apple Design Award 2014 **,** Vainqueur du design Apple Award 2014 ** ,** Vincitore dell'Apple Design Award 2014 ** ,** Gewinner des Apple Design Award 2014 ** ,** Ganador del Apple Design Award 2014 ** ,** 2014年度苹果设计奖得主 ** ,** 2014年度蘋果設計獎得主 ** ,**アップルデザイン賞2014を受賞しました** ,** 애플 디자인 어워드 2014 수상작 ** ,** Победитель Apple Design Award 2014 ** ,** Vencedor da Apple Design Award 2014 ** ,** Vinnare av Apple Design Award 2014 ** ,** Apple Tasarım Ödülü 2014 kazanan ** ,"** एपल
+डिजाइन अवार्ड 2014 के विजेता **",** Pemenang Anugerah Reka Bentuk Apple 2014 **,** Winnaar van de Apple Design Award 2014 **,**ผู้ชนะรางวัลการออกแบบของ Apple ประจำปี 2014**
+Store Text - Apple Puzzle Games Sale Promo,,50% off for a limited time as part of the App Store's Puzzle Games Sale promotion!,50% de réduction pour une durée limitée dans le cadre de l'App Store Jeux Puzzle Vente promotion! ,"50% di sconto per un periodo limitato, come parte della promozione Puzzle Games sull'App Store! ",50% Rabatt für eine begrenzte Zeit als Teil der App Store Werbeaktion für Puzzle-Spiele! ,¡50% de descuento por tiempo limitado como parte de la promoción Juegos de Puzzle de la App Store! ,响应App Store益智游戏特价优惠 - 限时半价中！,響應App Store益智遊戲特價優惠 - 限時半價中！,App Storeパズルゲーム販売促進の一環として、期間限定50％割引！,"앱스토어 퍼즐 게임 프로모션, 제한된 기간 동안 50% 할인! ",Временные скидки на 50% в рамках продвижения игр-пазлов на App Store ,"50% de desconto por um tempo limitado, como parte da promoção de venda da App Store Jogos de Puzzle! ",50% rabatt under en begränsad tid som en del av App Store Pusselspel Försäljning marknadsföring! ,"App Store Zeka Oyunları Satış tanıtım parçası olarak, sınırlı bir süre için% 50 indirim! ","एप स्टोर के पज़ल गेम्स की
+बिक्री प्रचार के भाग के रूप में सीमित
+समय के लिए 50% o छूट",50 % o untuk masa yang terhad sebagai sebahagian daripada promosi Jualan Permainan Teka-teki promosi App Store!,"50 % o ff voor een beperkte tijd, als onderdeel van de App Store\'s Puzzle Games Uitverkoop promotie!",50 % off ในเวลาจำกัดมาร่วมเป็นส่วนหนึ่งของการส่งเสริมการขายลดราคาเกมปริศนาใน App Store
+Store Text - Google Summer Promo,,50% off for a limited time as part of the Google Play Summer Sale!,50% de réduction pour une durée limitée dans le cadre du Google Play Summer Sale!,50% di sconto per un periodo limitato come parte dei Saldi Estivi su Google Play Store!,50% Rabatt für eine begrenzte Zeit als Teil des Google Play Sommerschlussverkaufs!,"¡50% de descuento por tiempo limitado, como parte de las Rebajas de Verano de Google Play!",响应Google Play夏季大特卖 - 限时半价中！,響應Google Play夏季大特賣 - 限時半價中！,Google Playサマーセールの一環として、期間限定50％割引！,"구글 플레이 여름 세일 프로모션, 제한된 기간 동안 50% 할인! ","Временные скидки на 50% на летней распродаже в Google Play
+","50% de desconto por um tempo limitado, como parte do Google Play Summer Sale!",50% rabatt under en begränsad tid som en del av Google Play Sommarrea!,Sınırlı bir süre için% 50 indirim Google parçası olarak Yaz İndirimi oynayın!,"गूगल प्ले समर सेल के एक भाग के
+रूप में सीमित समय के लिए 50% o छूट",50 % o untuk masa yang terhad sebagai sebahagian daripada Jualan Google Play Musim Panas!,"50 % o ff voor een beperkte tijd, als onderdeel van de Google Play Summer Uitverkoop!",50 % off ในเวลาจำกัดมาร่วมเป็นส่วนหนึ่งของการลดหระหน่ำซัมเมอร์เซลส์ใน Google Play
+Google Play Promo Text,MAX 80 CHARACTERS,An illusory adventure of impossible architecture and forgiveness,Une aventure illusoire d'architecture impossible et de pardon,Un'avventura illusoria all'insegna del perdono e di architetture impossibili,Ein illusionäres Abenteuer um unmögliche Architektur und die Suche nach Vergebung.,Una aventura fantástica de arquitectura imposible y redención,一场不可能建筑与宽恕的迷幻冒险,一場不可能建築與寬恕的迷幻冒險,現実にはありえない建築物で許しを求める幻想的な冒険,비현실적인 공간에서 용서를 찾아 떠나는 환상적인 모험,Иллюзорное приключение о невообразимой архитектуре и великодушии,Uma aventura ilusória de arquitetura impossível e de perdão,Ett illusoriskt äventyr av omöjlig arkitektur och förlåtelse,İmkânsız bir mimari yapı ve affedilişten oluşan görsel bir macera ,"असंभव वास्तुकला और क्षमा का
+एक  भ्रामक साहसिक कार्य",Pengembaraan ilusi tentang seni bina mustahil dan pengampunan,Een illusoire avontuur van onmogelijke architectuur en vergeving,การผจญภัยลวงตาของสถาปัตยกรรมอันเป็นไปไม่ได้และการให้อภัย
+ch1_achievement,Original achievements,Completed Prelude,Prélude terminé,Preludio completato,Abgeschlossen: Einführung,Completaste Preludio,已完成《序》,已完成《序》,「序章」をクリア,서장' 완료,Вводная часть пройдена,Completou Prelúdio,Inledningen avslutad,Giriş bölümü tamamlandı,प्रील्यूड (भूमिका) पूर्ण,Telah Melengkapkan Pengenalan,Inleiding Voltooid,จบตอนเนื้อเรื่องนำ
+ch2_achievement,Original achievements,Completed The Garden,Le jardin terminé,Il giardino completato,Abgeschlossen: Der Garten,Completaste El Jardín,已完成《花园》,已完成《花園》,「庭園」をクリア,정원' 완료,Сад пройден,Completou O Jardim,Trädgården avslutad,Bahçe bölümü tamamlandı,द गार्डन (बगीचा) पूर्ण,Telah Melengkapkan Taman,De Tuin Voltooid,จบตอนในสวน
+ch3_achievement,Original achievements,Completed Hidden Temple,Temple caché terminé,Tempio nascosto completato,Abgeschlossen: Verborgener Tempel,Completaste Templo Oculto,已完成《阴寺》,已完成《陰寺》,「秘密の寺」をクリア,감춰진 사원' 완료,Тайный храм пройден,Completou Templo Oculto,Det dolda templet avslutat,Gizli Tapınak bölümü tamamlandı,हिडन टैंपल (गोपनीय मंदिर) पूर्ण,Telah Melengkapkan Kuil Tersembunyi,Verborgen Tempel Voltooid,จบตอนวิหารลี้ลับ
+ch4_achievement,Original achievements,Completed Water Palace,Palais aquatique terminé,Palazzo dell'acqua completato,Abgeschlossen: Wasserpalast,Completaste Palacio de las Aguas,已完成《水宫》,已完成《水宮》,「水宮殿」をクリア,물의 궁전' 완료,Дворец на воде пройден,Completou Palácio da Água,Vattenpalatset avslutat,Su Sarayı bölümü tamamlandı,वाटर पैलेस (जल महल) पूर्ण,Telah Melengkapkan Istana Air,Waterpaleis Voltooid,จบตอนปราสาทน้ำ
+ch5_achievement,Original achievements,Completed The Spire,Le beffroi terminé,La guglia completato,Abgeschlossen: Die Turmspitze,Completaste La Atalaya,已完成《尖塔》,已完成《尖塔》,「尖塔」をクリア,뾰족탑' 완료,Шпиль пройден,Completou O Pináculo,Tornet avslutat,Sivri Kule bölümü tamamlandı,द स्पाइर (घुमावदार शिखर) पूर्ण,Telah Melengkapkan Puncak Menara,De Torenspits Voltooid,จบตอนยอดแหลมตึก
+ch6_achievement,Original achievements,Completed The Labyrinth,Le labyrinthe terminé,Il labirinto completato,Abgeschlossen: Das Labyrinth,Completaste El Laberinto,已完成《迷宫》,已完成《迷宮》,「迷宮」をクリア,미궁' 완료,Лабиринт пройден,Completou O Labirinto,Labyrinten avslutad,Labirent bölümü tamamlandı,द लैबरिंथ (भूलभुलैया) पूर्ण,Telah Melengkapkan Labyrinth,Het Labyrint Voltooid,จบตอนเขาวงกต
+ch7_achievement,Original achievements,Completed The Rookery,La roquerie terminé,La colonia di corvi completato,Abgeschlossen: Der Krähenhorst,Completaste La Pajarera,已完成《乌鸦巢》,已完成《烏鴉巢》,「カラスの群生地」をクリア,까마귀 소굴' 완료,Гнездовье пройдено,Completou O Puleiro,Kråkkolonin avslutad,Karga Yuvası bölümü tamamlandı,द रुकरी (धोखेबाज) पूर्ण,Telah Melengkapkan Rookery,De Huurkazerne Voltooid,จบตอนฝูงอีกา
+ch8_achievement,Original achievements,Completed The Box,La boîte terminé,La scatola completato,Abgeschlossen: Die Kiste,Completaste La Caja,已完成《箱子》,已完成《箱子》,「箱」をクリア,상자' 완료,Коробка пройдена,Completou A Caixa,Skrinet avslutat,Kutu bölümü tamamlandı,द बॉक्स पूर्ण,Telah Melengkapkan Kotak,De Doos Voltooid,จบตอนกล่อง
+ch9_achievement,Original achievements,Completed The Descent,La descente terminé,La discesa completato,Abgeschlossen: Der Abstieg,Completaste El Descenso,已完成《斜坡》,已完成《斜坡》,「下り坂」をクリア,낮은 곳으로' 완료,Спуск пройден,Completou A Descida,Nedstigningen avslutad,İniş bölümü tamamlandı,द डिसेंट (पीढ़ी) पूर्ण,Telah Melengkapkan Penurunan,De Afdaling Voltooid,จบตอนทางลง
+ch10_achievement,Original achievements,Completed The Observatory,L'observatoire terminé,L'osservatorio completato,Abgeschlossen: Observatorium,Completaste Observatorio,已完成《观象台》,已完成《觀像台》,「天文台」をクリア,관측소' 완료,Обсерватория пройдена,Completou Observatório,Observatoriet avslutat,Gözlemevi bölümü tamalandı,द ऑब्जर्वेटरी (वेधशाला) पूर्ण,Telah Melengkapkan Balai Cerap,Het Observatorium Voltooid,จบตอนหอสังเกตการณ์
+ap1_achievement,Forgotten Shores achievements,Completed The Chasm,L'abîme terminé,L'Abisso completato,Abgeschlossen: Die Kluft,Completaste La Sima,已完成《深坑》,已完成《深坑》,「深い溝」をクリア,깊은 수렁 완료,Пропасть пройдена,Completou O Talismã,Avgrunden avslutad,Uçurum bölümü tamamlandı,कैज्म (गहरी खाई) पूर्ण,Telah Melengkapkan Jurang,De Afgrond Voltooid,จบตอนหุบเหว
+ap2_achievement,Forgotten Shores achievements,Completed The Serpent Lake,Le lac du serpent terminé,Il Lago del Serpente completato,Abgeschlossen: Der Schlangensee,Completaste El Lago de la Sierpe,已完成《毒蛇之湖》,已完成《毒蛇之湖》,「蛇の湖」をクリア,뱀의 호수 완료,Змеиное озеро пройдена,Completou O lago da serpente,Ormsjön avslutad,Yılan gölü bölümü tamamlandı,सर्प झील पूर्ण,Telah Melengkapkan Tasik Ular,Het Slangenmeer Voltooid,จบตอนทะเลสาบงู
+ap3_achievement,Forgotten Shores achievements,Completed The Thief,Le voleur terminé,Il Ladro completato,Abgeschlossen: Der Dieb,Completaste El Ladrón,已完成《小偷》,已完成《小偷》,「泥棒」をクリア,도둑 완료,Вор пройдена,Completou O Ladrão,Tjuven avslutad,Hırsız bölümü tamamlandı,थीफ (चोर) पूर्ण,Telah Melengkapkan Pencuri,De Dief Voltooid,จบตอนหัวขโมย
+ap4_achievement,Forgotten Shores achievements,Completed Halcyon Court,La cour de la tranquilité terminé,La Corte Tranquilla completato,Abgeschlossen: Der Hof des Glücks,Completaste Claustro Tranquilo,已完成《静谧庭院》,已完成《靜謐庭院》,「ハルシオンの庭園」をクリア,평온한 법정 완료,Двор зимородка пройдена,Completou Pátio pacífico,Fridens gård avslutad,Huzur avlusu bölümü tamamlandı,हेल्सीअन कोर्ट (निचली अदालत) पूर्ण,Telah Melengkapkan Mahkamah Halcyon,Halcyon Hof Voltooid,จบตอนศาลอันเงียบสงบ
+ap5_achievement,Forgotten Shores achievements,Completed The Lost Falls,Les chutes perdues terminé,Le Cascate Perdute completato,Abgeschlossen: Die verlorenen Fälle,Completaste Las Cataratas Perdidas,已完成《迷失瀑布》,已完成《迷失瀑布》,「失われた滝」をクリア,잃어버린 폭포 완료,Затерянные водопады пройдена,Completou As cataratas perdidas,De förlorade fallen avslutad,Kayıp Şelaleler bölümü tamamlandı,द लॉस्ट फाल्स पूर्ण,Telah Melengkapkan Air Terjun Hilang,De Verloren Watervallen Voltooid,จบตอนน้ำตกที่สาบสูญ
+ap6_achievement,Forgotten Shores achievements,Completed The Citadel of Deceit,La citadelle de la tromperie terminé,La Cittadella dell'Inganno completato,Abgeschlossen: Die Zitadelle der List,Completaste La Ciudadela del Engaño,已完成《幻像城堡》,已完成《幻像城堡》,「虚構の砦」をクリア,속임수의 요새 완료,Крепость лжи пройдена,Completou A fortaleza do engano,Borgen av svek avslutad,Aldatma Hisarı bölümü tamamlandı,सिटाडेट ऑफ डिसीट (छल का गढ़) पूर्ण,Telah Melengkapkan Kubu Penipuan,De Citadel van Bedrog Voltooid,จบตอนป้อมปราการแห่งความหลอกลวง
+ap7_achievement,Forgotten Shores achievements,Completed The Oubliette,L'oubliette terminé,La Prigione completato,Abgeschlossen: Der Kerker,Completaste La Celda,已完成《密牢》,已完成《密牢》,「秘密地下牢」をクリア,비밀 지하 감옥 완료,Подземная темница пройдена,Completou A masmorra,Hålan avslutad,Zindan bölümü tamamlandı,उब्लियट पूर्ण,Telah Melengkapkan Oubliette,De Oubliette Voltooid,จบตอนคุกลับในปราสาท
+ap8_achievement,Forgotten Shores achievements,Completed Nocturne,Nocturne terminé,Notturno completato,Abgeschlossen: Nocturne,Completaste Nocturno,已完成《夜曲》,已完成《夜曲》,「夜曲」をクリア,야상곡 완료,Ноктюрн пройдена,Completou Noturno,Nocturne avslutad,Noktürn bölümü tamamlandı,रात्रि गीत पूर्ण,Telah Melengkapkan Noktun,Nachtrijk Voltooid,จบตอนบทเพลงยามค่ำคืน
+blue_achievement,"Ida's Dream Achievement - ""Ida's Dream"" always in English",Completed Ida's Dream,Ida's Dream terminé,Ida's Dream completato,Abgeschlossen: Ida's Dream,Completaste Ida's Dream,已完成《Ida's Dream》,已完成《Ida's Dream》,「Ida's Dream」をクリア,Ida's Dream 완료,Ida's Dream пройдена,Completou Ida's Dream,Ida's Dream avslutad,Ida's Dream tamamlandı,Ida's Dream पूर्ण,Telah Melengkapkan Ida's Dream,Ida's Dream Voltooid,จบตอน Ida's Dream
+save_to_gallery_success,,Screenshot captured,Capturé d'écran,Screenshot catturato,Screenshot erfasst,Imagen capturada,画面已撷取,畫面已擷取,保存しました,스크린샷이 캡처되었습니다,Скриншот захвачен,Capturas de tela capturada,Skärmdump fångas,Ekran Görüntüsü yakalandı,स्क्रीनशॉट ले लिया,Tangkapan skrin ditangkap,Screenshot gemaakt,บันทึกภาพหน้าจอแล้ว
+save_to_gallery_failed,,Save failed,Enregistrer échoué,Salvataggio fallito,Speichern gescheitert,Fallo al guardar,储存失败,儲存失敗,保存に失敗しました,저장하지 못 했습니다,Сохранить не удалось,Salve falhou,Spara misslyckades,Save başarısız oldu,रक्षित करना विफल,Penyimpanan gagal,Opslaan mislukt,การบันทึกล้มเหลว
+save_to_gallery_ok,,OK,OK,OK,OK,OK,好的,好的,OK,확인,ОК,OK,OK,TAMAM,ठीक है,OK,OK,ตกลง
+art_runtime_detected,,"This feature is not yet compatible with the ART runtime. 
+Please switch to the Dalvik runtime to continue.","Cette fonction n'est pas compatible avec ART exécution. 
+S'il vous plaît passer à l'exécution Dalvik pour continuer.","Questa funzione non è compatibile con runtime ART. 
+Si prega di passare alla fase di esecuzione Dalvik per continuare.","Diese Funktion ist nicht mit der ART-Laufzeit kompatibel. 
+Bitte wechsle zur Dalvik Laufzeit um fortzufahren.","Esta función no es compatible con ART. 
+Por favor, cambia a Dalvik para continuar.","此功能不兼容ART runtime, 请切换到Dalvik runtime以继续","此功能不兼容ART runtime, 請切換到Dalvik runtime以繼續","この機能は、ARTランタイムと互換性がありません。 
+続けるにはDalvikランタイムに切り替えてください。","이 기능은 ART 런타임과 호환되지 않습니다. 
+Dalvik 런타임으로 전환하시기 바랍니다.","Эта функция не совместима с ART runtime. Пожалуйста, переключитесь на Dalvik runtime чтобы продолжить.","Esta função não é compatível com a ART de execução. 
+Por favor mudar para o tempo de execução Dalvik para continuar.","Den här funktionen är inte kompatibel med ART runtime. 
+Vänligen växla till Dalvik runtime för att fortsätta.","Bu özellik ART çalışma ile uyumlu değildir.
+Devam etmek için Dalvik çalışma geçiş yapın.","यह विशेषता अभी ART
+रनटाइम के साथ संगत नहीं है। कृपया
+जारी रखने के लिए डाल्विक
+रनटाइम में परिवर्तित करें।","Ciri ini blum lagi serasi dengan
+masa jalan ART. Sila beralih ke
+masa jalan Dalvik untuk meneruskan.","Deze functie is nog niet compatibel
+met de ART runtime. Schakel over
+naar de Dalvik runtime om door te gaan.",คุณลักษณะนี้ไม่สามารถทำงานร่วมกับรันไทม์ ART  กรุณาเปลี่ยนเป็น รันไทม์ Dalvik เพื่อเล่นต่อ
+ok,,OK,OK,OK,OK,OK,好的,好的,OK,확인,ОК,OK,OK,TAMAM,ठीक है,OK,OK,ตกลง
+low_memory_warning,,"Warning: This device has less RAM than Monument Valley was designed for. 
+You may experience problems running the game.","Avertissement: Cet appareil a moins de RAM que Monument Valley a été conçu pour. 
+Vous pouvez rencontrer des problèmes pour lancer le jeu.","Attenzione: Questo dispositivo ha meno RAM di quanto Monument Valley necessita. 
+È possibile che si verifichino problemi durante l'esecuzione del gioco.","Warnung: Dieses Gerät hat weniger RAM als für Monument Valley vorgesehen ist. 
+Während des Spiels können Probleme auftreten.","Advertencia: Monument Valley fue diseñado para dispositivos con más RAM que este. 
+Es posible que experimentes problemas al ejecutar el juego.","警告：本装置内存低於纪念碑谷的需求量， 
+运行遊戏时可能会遇到问题。","警告：本裝置內存低於紀念碑谷的需求量， 
+運行遊戲時可能會遇到問題。","警告：このデバイスは、モニュメントバレーの設計よりも少ないRAMを内蔵しています。 
+ゲームの実行中に問題が発生する可能性があります。","경고: Monument Valley를 실행하기 위한 충분한 RAM을 가지고 있지 않습니다. 그러므로 게임을 실행하는 동안, 문제가 발생할 수 있습니다.","Предупреждение: Это устройство имеет меньше оперативной памяти чем необходимо для Monument Valley. 
+У вас могут возникнуть проблемы с запуском игры.","Aviso: Este dispositivo tem menos RAM que Monument Valley foi projetado para. 
+Você pode ter problemas de executar o jogo.","Varning: Den här enheten har mindre RAM än Monument Valley var avsedd för. 
+Det kan uppstå problem kör spelet.","Uyarı: Bu ​​cihaz Monument Valley için tasarlanmış daha az RAM bulunuyor. 
+Sen oyun çalıştıran sorunlarla karşılaşabilirsiniz.","चेतावनी: इस
+उपकरण में वह RAM कम है जिसके
+लिए Monument Valley को डिजाइन किया
+गया था। आपको गेम को चलाने में
+समस्याएं महसूस हो सकती हैं।","Amaran: Peranti ini mempunyai kurang
+RAM yang diperlukan berdasarkan rekaan
+Monument Valley. Anda mungkin mengalami
+masalah menjalankan permainan ini.","Waarschuwing: dit apparaat heeft
+minder RAM dan waar Monument Valley
+voor ontworpen is. Het kan zijn dat u
+problemen heeft met het draaien
+van het spel.","คำเตือน: อุปกรณ์นี้มีหน่วยความจำต่ำกว่าที่ Monument Valley
+ออกแบบไว้ คุณอาจพบปัญหาระหว่างเล่นเกม"
+storyteller_5a,Should be written in the same ancient tone as previous 'Storyteller' dialogue.,"How many monuments
+have you restored?
+How many
+still lie ahead?","Combien de monuments
+as tu restauré?
+Combien t'en reste t-il?","Quanti monumenti hai
+ripristinato? Quanti
+altri rimangono?","Wie viele Monumente
+hast du rekonstruiert?
+Wie viele liegen 
+noch vor dir?","¿Cuántos monumentos
+has restaurado?
+¿Cuántos quedan
+todavía por delante?","您已回复了多少个纪念碑？
+有多少个还在前方？","您已回復了多少個紀念碑？
+有多少個還在前方？
+
+             ","これまでに幾つの
+モニュメントを修復した？
+あと幾つ、残っている？","얼마나 많은 모뉴먼트를 
+복구하려 하는가? 남은 
+모뉴먼트는 몇개인가?","Сколько монументов
+ты уже восстановила?
+И сколько ещё тебе 
+предстоит?","Quantos monumentos
+restauraste? E quantos 
+ainda por encontrar?","Hur många monument
+har ni återställt?
+Hur många
+återstår?","kaç tane anıtı yeniden
+inşa ettiniz, kaç tane 
+daha kaldi?","कितने स्मारकों को आपने बहाल कर
+लिया है? कितनों को अभी आगे और
+करना है?","Berapa banyak monumen
+yang telah anda pulihkan?
+Berapa ramai masih
+berada di hadapan?","Hoeveel monumenten
+heb je hersteld?
+Hoeveel zijn er
+nog te gaan?","อนุสรณ์เตือนใจ
+มากแค่ไหนที่คุณแก้ไขมันได้
+แล้วอีกมากแค่ไหนที่รออยู่ล่ะ"
+storyteller_5b,,"Forgetful princess
+Confuses past, present
+and future","La princesse distraite
+confond le passé, le
+présent et le futur","La principessa 
+smemorata confonde
+il passato, il presente
+e il futuro","Vergessliche Prinzessin,
+bringst Vergangenheit,
+Gegenwart und Zukunft
+durcheinander.","Princesa olvidadiza
+que confunde pasado,
+presente y futuro","善忘的公主
+混淆过去、现在
+和未来。","善忘的公主
+混淆過去、現在
+和未來。","忘れっぽい姫は
+過去、現在そして
+未来を混同している","침묵의 공주는 과거와 현재, 
+그리고 미래를 혼돈하고 있도다.","Забывчивая принцесса,
+путает прошлое,
+будущее и настоящее.","Princesa esquecida 
+Confunde passado, 
+presente e futuro","Glömska prinsessa 
+Förvirrar dåtid, nutid 
+och framtid.","Unutkan prenses geçmiş,
+şimdi ve geleceği
+birbirine karıştırıyor","भुलक्कड़ राजकुमारी अतीत,
+वर्तमान और भविष्य के बारे में भ्रमित है","Puteri pelupa Keliru
+tentang masa lalu,
+masa kini dan
+masa hadapan","Vergeetachtige prinses
+Verwart verleden,
+heden en toekomst","เจ้าหญิงขี้ลืมสับสนระหว่างอดีต
+ปัจจุบันและอนาคต"
+storyteller_5c,,"When all
+Sacred Geometry
+is returned
+so too
+shall be your crown","Lorsque toute la
+Géométrie Sacrée sera
+redonnée, ta couronne
+devrait aussi l'être","Quando tutta la Sacra
+Geometria sará restituita,
+lo sará anche
+la tua corona","Erst wenn die gesamte
+ehrwürdige Geometrie
+zurückgebracht wurde,
+wirst auch du deine
+Krone zurückerhalten.","Cuando toda
+la Geometría Sagrada
+sea devuelta
+así también
+lo será tu corona","当所有
+神圣几何
+被归还之时
+也将是
+您的皇冠被归还的时候。","當所有
+神聖幾何
+被歸還之時
+也將是
+您的皇冠被歸還的時候。","神聖な幾何学模様が
+全て戻されたとき、
+そなたの王冠も
+戻されるであろう","모든 신성한 조각들이 
+모아질때 너의 왕관이 
+돌아오리니.","Когда вернёшь
+священную геометрию,
+вернёшь и свою корону","Quando toda a
+Geometria Sagrada
+for retornada, tambem
+a tua coroa o será","När all
+helig geometri
+återlämnas,
+så skall också din krona.","Tüm kutsal geometri iade
+edildiği zaman tacın da 
+sana iade edilecek","जब सभी सेक्रेड जिओमेट्री
+(पवित्र ज्यामिति) वापस आ जाती है
+इसलिए ताज भी आपका हो जाएगा।","Apabila semua
+Geometri Suci
+dipulangkan, demikian
+jugalah mahkota kamu","Als alle Heilige
+Geometrie teruggegeven
+is, gebeurt dat
+ook met je kroon","เมื่อรูปทรงอันศักดิ์สิทธิ์กลับคืนมา
+บัลลังก์ของคุณก็จะกลับมาเช่นกัน"
+exp1_title,,Appendix i,Appendice i,Appendice I,Addendum I,APÉNDICE i,附录一,附錄一,付録一,부록 1장,Аппендикс i,Apêndice i,APPENDIX i,Kaynakça i,परिशिष्ट i,Lampiran i,Bijlage i,ภาคผนวก 1
+exp2_title,,Appendix ii,Appendice ii,Appendice II,Addendum II,APÉNDICE ii,附录二,附錄二,付録二,부록 2장,Аппендикс ii,Apêndice ii,APPENDIX ii,Kaynakça ii,परिशिष्ट ii,Lampiran ii,Bijlage ii,ภาคผนวก 2
+exp3_title,,Appendix iii,Appendice iii,Appendice III,Addendum III,APÉNDICE iii,附录三,附錄三,付録三,부록 3장,Аппендикс iii,Apêndice iii,APPENDIX iii,Kaynakça iii,परिशिष्ट iii,Lampiran iii,Bijlage iii,ภาคผนวก 3
+exp4_title,,Appendix iv,Appendice iv,Appendice IV,Addendum IV,APÉNDICE iv,附录四,附錄四,付録四,부록 4장,Аппендикс iv,Apêndice iv,APPENDIX iv,Kaynakça iv,परिशिष्ट iv,Lampiran iv,Bijlage iv,ภาคผนวก 4
+exp5_title,,Appendix v,Appendice v,Appendice V,Addendum V,APÉNDICE v,附录五,附錄五,付録五,부록 5장,Аппендикс v,Apêndice v,APPENDIX v,Kaynakça v,परिशिष्ट v,Lampiran v,Bijlage v,ภาคผนวก 5
+exp6_title,,Appendix vi,Appendice vi,Appendice VI,Addendum VI,APÉNDICE vi,附录六,附錄六,付録六,부록 6장,Аппендикс vi,Apêndice vi,APPENDIX vi,Kaynakça vi,परिशिष्ट vi,Lampiran vi,Bijlage vi,ภาคผนวก 6
+exp7_title,,Appendix vii,Appendice vii,Appendice VII,Addendum VII,APÉNDICE vii,附录七,附錄七,付録七,부록 7장,Аппендикс vii,Apêndice vii,APPENDIX vii,Kaynakça vii,परिशिष्ट vii,Lampiran vii,Bijlage vii,ภาคผนวก 7
+exp8_title,,Appendix viii,Appendice viii,Appendice VIII,Addendum VIII,APÉNDICE viii,附录八,附錄八,付録八,부록 8장,Аппендикс viii,Apêndice viii,APPENDIX viii,Kaynakça viii,परिशिष्ट viii,Lampiran viii,Bijlage viii,ภาคผนวก 8
+level_volcano_name,,The Chasm,L'abîme,L'Abisso,Die Kluft,La Sima,深坑,深坑,深い溝,깊은 수렁,Пропасть,O Talismã,Avgrunden,Uçurum,कैज्म (गहरी खाई),Jurang,De Afgrond,หุบเหว
+level_twister_name,,"The
+Serpent Lake","Le lac
+du serpent","Il Lago 
+del Serpente","Der
+Schlangensee","El Lago
+de la Sierpe",毒蛇之湖,毒蛇之湖,蛇の湖,뱀의 호수,Змеиное озеро,"O lago
+da serpente",Ormsjön,Yılan gölü,सर्प झील,Tasik Ular,"Het
+Slangenmeer",ทะเลสาบงู
+level_thief_name,,The Thief,Le voleur,Il Ladro,Der Dieb,El Ladrón,小偷,小偷,泥棒,도둑,Вор,O Ladrão,Tjuven,Hırsız,थीफ (चोर),Pencuri,De Dief,หัวขโมย
+level_waterways_name,Halcyon refers to peace or tranquility,Halcyon Court,"La cour de
+la tranquilité","La Corte
+Tranquilla","Der Hof
+des Glücks","Claustro
+Tranquilo",静谧庭院,靜謐庭院,"ハルシオンの
+庭園",평온한 법정,Двор зимородка,Pátio pacífico,Fridens gård,Huzur avlusu,हेल्सीअन कोर्ट (निचली अदालत),"Mahkamah
+Halcyon",Halcyon Hof,ลานอันเงียบสงบ
+level_crush_name,,The Lost Falls,"Les chutes
+perdues","Le Cascate
+Perdute","Die verlorenen
+Fälle","Las Cataratas 
+Perdidas",迷失瀑布,迷失瀑布,失われた滝,잃어버린 폭포,"Затерянные
+водопады","As cataratas
+perdidas","De förlorade
+fallen",Kayıp Şelaleler,द लॉस्ट फाल्स,"Air Terjun
+Hilang","De Verloren
+Watervallen",น้ำตกที่สาบสูญ
+level_reintro_name,,"The Citadel
+of Deceit","La citadelle de
+la tromperie","La Cittadella 
+dell'Inganno","Die Zitadelle
+der List","La Ciudadela 
+del Engaño",幻像城堡,幻像城堡,虚構の砦,속임수의 요새,Крепость лжи,"A fortaleza
+do engano",Borgen av svek,Aldatma Hİsarı,सिटाडेट ऑफ डिसीट (छल का गढ़),Kubu Penipuan,"De Citadel
+van Bedrog",ป้อมปราการแห่งความหลอกลวง
+level_nsided_name,,The Oubliette,L'oubliette,La Prigione,Der Kerker,La Celda,密牢,密牢,秘密地下牢,비밀 지하 감옥,"Подземная
+темница ",A masmorra,Hålan,Zİndan,उब्लियट,Oubliette,De Oubliette,คุกลับในปราสาท
+level_rebuild_name,,Nocturne,Nocturne,Notturno,Nocturne,Nocturno,夜曲,夜曲,夜曲,야상곡,Ноктюрн,Noturno ,Nocturne,Noktürn,रात्रि गीत,Noktun,Nachtrijk,บทเพลงยามค่ำคืน
+original_title,"The description for the 'original' Monument Valley games, before the expansion pack",Original,Original,Originale,Original,Original,原作,原作,原作,원래의,"Оригинальные 
+главы",Original,Original,Orjinal,मूल,Asal,Origineel,ต้นแบบ
+expansion_title,,• FORGOTTEN SHORES •,• FORGOTTEN SHORES •,• FORGOTTEN SHORES •,• FORGOTTEN SHORES •,• FORGOTTEN SHORES •,被遗忘的海岸,被遺忘的海岸,• FORGOTTEN SHORES •,• FORGOTTEN SHORES •,• FORGOTTEN SHORES •,• FORGOTTEN SHORES •,• FORGOTTEN SHORES •,• FORGOTTEN SHORES •,• FORGOTTEN SHORES •,• FORGOTTEN SHORES •,• FORGOTTEN SHORES •,• FORGOTTEN SHORES •
+expansion_title_undecorated,,FORGOTTEN SHORES,FORGOTTEN SHORES,FORGOTTEN SHORES,FORGOTTEN SHORES,FORGOTTEN SHORES,被遗忘的海岸,被遺忘的海岸,FORGOTTEN SHORES,FORGOTTEN SHORES,FORGOTTEN SHORES,FORGOTTEN SHORES,FORGOTTEN SHORES,FORGOTTEN SHORES,FORGOTTEN SHORES,FORGOTTEN SHORES,FORGOTTEN SHORES,FORGOTTEN SHORES
+expansion_title2,,Lost Chapters,Chapitres Perdus,Capitoli Persi,Verlorene Kapitel,Capítulos Perdidos,失落章节,失落章節,失われた章,완료하지 못한 장들,Пропавшие главы,Capítulos perdidos,Förlorade kapitel,Kayıp bölümler,खोए अध्याय,Bab Yang Hilang,Verloren Hoofdstukken,ตอนที่หายไป
+expansion_subtitle,,8 New Chapters,8 nouveaux chapitres,8 nuovi capitoli,8 neue Kapitel,8 Nuevos Capítulos,八个新章节,八個新章節,8つの新たな章,8개의 새로운 장,8 новых глав,8 novos capiitulos,8 nya kapitel, 8 yeni bölüm,8 नए अध्याय,8 Bab Baharu,8 Nieuwe Hoofdstukken,8 ตอนใหม่
+redsuits_title,,Ida's (RED) Dream,Ida's (RED) Dream,Ida's (RED) Dream,Ida's (RED) Dream,Ida's (RED) Dream,Ida's (RED) Dream,Ida's (RED) Dream,Ida's (RED) Dream,Ida's (RED) Dream,Ida's (RED) Dream,Ida's (RED) Dream,Ida's (RED) Dream,Ida's (RED) Dream,Ida's (RED) Dream,Ida's (RED) Dream,Ida's (RED) Dream,Ida's (RED) Dream
+level_windmill_name,,"Ida's
+(RED)
+Dream","Ida's
+(RED)
+Dream","Ida's
+(RED)
+Dream","Ida's
+(RED)
+Dream","Ida's
+(RED)
+Dream","Ida's
+(RED)
+Dream","Ida's
+(RED)
+Dream","Ida's
+(RED)
+Dream","Ida's
+(RED)
+Dream","Ida's
+(RED)
+Dream","Ida's
+(RED)
+Dream","Ida's
+(RED)
+Dream","Ida's
+(RED)
+Dream","Ida's
+(RED)
+Dream","Ida's
+(RED)
+Dream","Ida's
+(RED)
+Dream","Ida's
+(RED)
+Dream"
+redsuits_subtitle,,"One Final Chapter to Fight AIDS
+Available from now through December 7","Le chapitre final pour combattre le Sida
+Disponible maintenant et jusqu'au 7 Décembre","Un ultimo capitolo per combattere l'AIDS
+é disponibile da adesso fino al 7 Dicembre","Ein letztes Kapitel im Kampf gegen AIDS
+Erhältlich ab sofort bis zum 7. Dezember","Un último capítulo para combatir el SIDA
+Disponible desde ahora hasta el 7 de diciembre","一个最后的章节来帮助对抗爱滋病
+即日起开放下载至十二月七日。
+
+","一個最後的章節來幫助對抗愛滋病
+即日起開放下載至十二月七日。
+
+","AIDSと闘う運動を支援するため、最終章
+が本日から12月7日まで公開されます。","에이즈 없는 세상을 만드는데 동참하는 마지막 장을 지금부터 
+12월 7일까지 제한된 기간동안 만나볼 수 있습니다.","Последняя глава за борьбу за поколение
+без СПИДа теперь доступна до 7 Декабря   ","Um ultimo capítudo para lutar contra a sida
+Disponível agora e até 7 de Dezembro","Ett sista kapitel för att bekämpa aids
+Finns från och med nu till 7 December","Son bir bolum daha AIDS'le Savaş icin 
+7 aralığa kadar mevcut bulunmaktadır ","अब 7 दिसम्बर से फाइट एड्स के
+लिए एक अंतिम अध्याय उपलब्ध","Satu Bab Akhir untuk Memerangi
+AIDS Tersedia dari sekarang
+hingga 7 Disember","Een Laatste Hoofdstuk In de strijd
+tegen AIDS beschikbaar vanaf
+nu tot 7 december","หนึ่งตอนสุดท้ายเพื่อช่วยต่อสู้กับโรคเอ
+ดส์ (AIDS) เล่นได้แล้วตั้งแต่ตอนนี้ถึง
+7 ธันวาคม"
+redsuits_moreinfo,More info button,More Info,Plus d'informations,Maggiori informazioni,Weitere Informationen,Más Información,更多信息,更多信息,さらに詳しく,더보기,Информация,Mais informação,Mer info,Daha fazla bilgi,और अधिक जानकारी,Maklumat Lanjut,Meer Informatie,ข้อมูลเพิ่มเติม
+iap_purchase_failed,,Purchase failed,Achat refusé,Transazione fallita,Der Kauf ist fehlgeschlagen,Transacción fallida,购买失败,購買失敗,購入に失敗しました,구매 실패,Покупка не удалась,Erro na compra,Köp misslyckades,Satın alma başarısız,खरीद विफल,Pembelian gagal,Aankoop is mislukt,การซื้อล้มเหลว
+iap_purchase_success,,Purchase successful,Achat accepté,Acquisto effettuato,Der Kauf war erfolgreich,Compra realizada con éxito,购买成功,購買成功,購入に成功しました,구매 완료,Покупка подтверждена ,Compra bem sucedida,Köp lyckades,Satın alma başarılı,खरीद सफल,Berjaya membeli,Aankoop succesvol,การซื้อสำเร็จ
+iap_restore,,Restore purchases,Restaurer achats,Ripristina acquisto,Käufe wiederherstellen,Restaurar compras,恢复购买,回複購買,購入を復元しています・・・,구매 복구,Восстановить покупки,Restaurar compras,Återupprätta köp,Satın alınanları yeniden yükle,खरीद बहाल करें,Pulihkan pembelian,Herstel aankopen,คืนค่าการซื้อ
+iap_restoring,,Restoring...,En train de restaurer...,Ripristinando...,Einen Moment …,Restaurando...,回复中...,回複中...,復元しています・・・,복구중...,Восстановление…,A restaurar ...,Återupprättar,Yeniden yükleniyor...,बहाल कर रहा...,Sedang memulihkan...,Herstellen...,กำลังคืนค่า...
+iap_fail,,Restore failed,Restauration échouée,Ripristino fallito,"Die Wiederherstellung
+ist fehlgeschlagen.",Fallo al restaurar,回复失败,回複失敗,復元に失敗しました,복구 실패,"Восстановление
+не удалось","Falha no processo
+de restauro","Återupprättning
+misslyckades","Yeniden yükleme
+başarısız",बहाल करना विफल,Pemulihan gagal,Herstellen is mislukt,การคืนค่าผิดพลาด
+iap_success,,Purchases restored,Achats restaurés,Acquisto ripristinato,Käufe wiederhergestellt,Compras restauradas,购买已回复,購買已回複,購入が復元されました,구매 복구 완료,Покупки восстановлены,Compras restauradas,Köp återupprättat,Satın alınanlar başarıyla yüklendi,खरीद बहाल,Pembelian dipulihkan,Aankopen hersteld,คืนค่าการซื้อแล้ว
+iap_noconnection,No internet connection found,No Connection,Pas de connection,Nessuna connessione,Keine Verbindung,Sin Conexión,无连接,無連接,ネットワーク接続がありません,인터넷 연결 상태가 좋지 않습니다.,,Sem ligação,Ingen uppkoppling,İnternet bağlantısı yok,कोई कनेक्शन नहीं,Tiada Sambungan,Geen Verbinding,ไม่มีการเชื่อมต่อ
+iap_redsuits_description,"(RED) is the name of a charity. All languages must use ""Ida's (RED) Dream"" in English as the tile of the content","Ida's (RED) Dream is one
+special, final chapter of
+Monument Valley.
+100% of your purchase
+goes to our partner (RED)
+to fight for an
+AIDS free generation.","Ida's (RED) Dream est spécial,
+c'est le chapitre final de Monument
+Valley. 100% de votre achat est reversé
+à notre partenaire (RED), pour lutter
+contre le Sida.","Ida's (RED) Dream é un
+capitolo speciale, l'ultimo di
+Monument Valley. Il 100% del
+tuo aquisto verrá devoluto
+alla fondazione (RED), per lottare
+verso una societá libera dall'AIDS.","Ida's (RED) Dream ist ein besonderes,
+finales Monument Valley Kapitel. 
+100% deines Kaufs geht zu Gunsten 
+unseres Partners (RED) für den Kampf
+um eine Generation ohne AIDS. ","Ida's (RED) Dream es
+un capítulo especial, el
+último de Monument Valley.
+El 100% del dinero recaudado
+irá a parar a (RED)
+para luchar por una
+generación libre de SIDA","Ida's (RED) Dream 是《纪念碑谷》
+一个特别的、最后的章节。
+所有款项将全数捐给我们
+的伙伴(RED)来帮助对抗爱滋病。","Ida's (RED) Dream是《紀念碑谷》
+一個特別的、最後的章節。
+所有款項將全數捐給我們
+的伙伴(RED)來幫助對抗愛滋病。","Ida's (RED) Dreamはモニュメントバレーの
+特別な最終章です。この章の売り上げ
+はAIDSの撲滅を目指して活動する
+私たちのパートナー(RED)へ100％
+寄付されます。","Ida's (RED) Dream장은 
+특별한 모뉴먼트밸리의 마지막 장입니다. 
+구매하신 모든 금액은 100% 에이즈 구호 단체인 
+레드(RED) 캠페인에 후원되며, 이 기금은 
+모두 에이즈 없는 세상을 만드는데 함께합니다.","Специальная последняя глава
+Monument Valley  - Ida's (RED) Dream.
+100% с продаж идёт к нашим партнёрам
+(RED) на борьбу за поколение без СПИДа  ","O sonho vermelho da Ida é um capítulo
+especial, o ultimo de Monument Valley.
+100% da sua compra vai para o nosso
+parceiro (RED) para lutar por uma
+geração livre de sida.","Ida's (RED) Dream är ett 
+speciellt, sista kapitel av 
+Monument Valley. 
+100% av ditt köp 
+går till vår partner (RED) 
+för att kämpa för en 
+AIDS-fri generation.","İda'nın Kırmızı Rüyası, Monument
+Valley'nin son özel bölümü. Satışın
+100%'ü AIDS'ten yoksun bir nesil
+icin ortağimiz (RED)'e gitmektedir.","Ida's (RED) Dream, Monument Valley का एख विशिष्ट,
+अंतिम अध्याय है। आपकी खरीद का
+100% o हमारे साझीदार (रेड) को
+एड्स मुक्त पीढ़ी के लिए मुकाबला
+करने हेतु जाता है।","Impian (MERAH) Ida adalah bab
+terakhir yang istimewa untuk
+Monument Valley. 100 % of pembelian
+anda pergi ke rakan niaga kami (MEARAH)
+untuk berusaha merealisasikan
+generasi yang bebas daripada AIDS.","Ida's (RODE) Droom is een speciaal,
+laatste hoofdstuk van Monument Valley.
+100% ovan je aankoop gaat naar onze
+partner (RED) om te strijden voor een
+AIDS-vrije generatie.",ความฝัน (RED) ของไอดาเป็นตอนสุดท้ายที่พิเศษตอนหนึ่งของ Monument Valley  100 % of เงินที่ได้รับจากการซื้อของคุณจะนำไปให้พันธมิตรของเรา (RED) ร่วมช่วยต่อสู้เพื่อยุคปลอดโรคเดอส์ (AIDS)
+iap_redsuits_button_description," All languages must use ""Ida's (RED) Dream"" in English as the tile of the content",Buy Ida's (RED) Dream,Acheter Ida's (RED) Dream,Compra Ida's (RED) Dream,Ida's (RED) Dream kaufen,Compra Ida's (RED) Dream,购买 Ida's (RED) Dream,購買 Ida's (RED) Dream,Ida's (RED) Dreamを購入,Ida's (RED) Dream장 구매하기,Купить Ida's (RED) Dream,Comprar Ida's (RED) Dream,Köp Ida's (RED) Dream, İda'nın Kırmızı Rüyası'nı satın al,"आईडीए के (रेड)
+ड्रीम को खरीदें",Beli Impian (MERAH) Ida,Koop Ida's (RODE) Droom.,ซื้อความฝัน (RED) ของไอดา
+Expansion Store Text,,"""Forgotten Shores"": Eight new chapters of adventure and illusion available now as a separate purchase.","""Forgotten Shores"": 8 nouveaux chapitres d'aventure et d'illusion disponibles maintenant comme achat séparé.","""Forgotten Shores"": Sono ora disponibili otto nuovi capitoli all'insegna delle illusioni e dell'avventura. In vendita separatamente.",„Forgotten Shores“: Acht neue Kapitel voller Abenteuer und Illusion sind jetzt separat zum Kauf erhältlich.,"""Forgotten Shores"": Ocho nuevos capítulos de aventura e ilusiones ópticas ya disponibles. De venta por separado.",《被遗忘的海岸》；八个充满冒险与幻像的全新章节现已提供独立下载。,《被遺忘的海岸》；八個充滿冒險與幻像的全新章節現已提供獨立下載。,「Forgotten Shores」：8つの新しい冒険と幻想の章が別途購入できます,잃어버린 물가: 8개의 새 모험과 환영의 장들을 지금 구매하실 수 있습니다.,"""Forgotten Shores"": Восемь новых глав приключений и илюзий теперь доступны как отдельная покупка","""Forgotten Shores"": oito novos capítulos de aventura e ilusão já disponivel como compra em separado","""Forgotten Shores"": Åtta nya kapitel med äventyr och illusioner, tillgängligt nu som ett separat köp."," ""Forgotten Shores"": sekiz yeni macera ve ilüzyon dolu bölüm ayrıca satın alınabilir","Forgotten Shores:
+साहसिक कार्य के आठ नए अध्याय तथा भ्रम जाल अब एक अलग खरीद के रूप में उपलब्ध।",Persisir yang Dilupakan: Lapan bab baru pengembaraan dan ilusi kini boleh didapati sebagai pembelian yang berasingan.,Vergeten Kusten: Acht nieuwe hoofdstukken vol avontuur en illusie nu beschikbaar als aparte aankoop.,เกาะที่ถูกลืม: 8 ตอนใหม่ของการผจญภัยและภาพลวงตาเปิดให้แยกซื้อได้แล้ววันนี้
+tutorial_drag_to_move,,"Hold and
+move",Tenir et déplacer,Tieni premuto e sposta,Halten und bewegen,"Mantén pulsado 
+y arrastra",按住后移动,按住後移動,ホールドして動かす,길게 눌러 움직이세요.,Держите и двигайте,Segurar e mover,Tryck och flytta,Tut ve hareket ettir,होल्ड करें तथा चलें,Tahan dan bergerak,Vasthouden en bewegen,กดค้างและย้าย
+redsuits_check," All languages must use ""Ida's (RED) Dream"" in English as the tile of the content","If you purchased Monument Valley between November 24 and December 8, your donation includes Ida's (RED) Dream. Please sign in to iTunes to redeem this offer","Si vous acheté Monument Valley entre le 24 Novembre et le 8 Décembre, votre achat inclut Le Rêve D'Ida. Connectez vous sur iTunes pour bénéficier de cette offre.","Se hai comprato Monument Valley tra il 24 Novembre e l'8 Dicembre, la tua donazione include Il Sogno Rosso di Ida. Accedi ad iTunes per beneficiare di quest'offerta.","Wenn du Monument Valley zwischen dem 24. November und dem 8. Dezember gekauft hast, beinhaltet deine Spende Idas (RED) Dream. Bitte logge dich bei iTunes ein um dieses Angebot einzulösen. ","Si has comprado Monument Valley entre el 24 de noviembre y el 8 de diciembre, tu donación incluye Ida's (RED) Dream. Por favor, ingresa en iTunes para canjear esta oferta.",如果您于十一月二十四日至十二月八日期间购买了《纪念碑谷》，您的捐款将包括 Ida's (RED) Dream。请登入iTunes来领取此优惠。,如果您於十一月二十四日至十二月八日期間購買了《紀念碑谷》，您的捐款將包括 Ida's (RED) Dream。請登入iTunes來領取此優惠。,11月24日から12月8日の間にモニュメントバレーを購入して頂くと、あなたの寄付にはIda's (RED) Dreamも含まれます。この特典をご利用するには、iTunesにログインして下さい。,11월 24일부터 12월 8일 사이에 구매하시는 분들은 구매하신 금액에 특별히 Ida's (RED) Dream장이 포함됩니다. 아이튠즈에 로그인 하시어 리딤하시는 것을 잊지 마세요.,"Если вы приобрели Monumen Valley с 24 Ноября по 8 Декабря, в ваше пожертвование  включен Ida's (RED) Dream. Зайдите в iTunes чтобы открыть эту главу","Se comprar Monument Valley entre os dias de 24 de nivembro e 8 de dezembro, a sua donaçaão inclui ""O sonho vermelho da Ida"". Por favor entre na sua conta de iTunes para redimir esta oferta.",Om du köpte Monument Valley mellan den 24 November och den 8 December så ingår Ida's (RED) Dream i din donation. Logga in på iTunes för att ta del av detta erbjudande.,"Eğer Monument Valley'i 24 Kasım ve 8 Aralık tarihleri arasında satın aldıysanız, bağışınız İda'nın Kırmızı Rüyası'nı da içermektedir. Lütfen bu tekliften yararlanmak için iTunes kaydınızı kullanın.","यदि आपने 24 नवंबर और 8 दिसम्बर
+के बीच में Monument Valley को खरीदा है, तो
+आपके योगदान में Ida's (RED) Dream
+शामिल होता है। इस पेशकश का भुगतान
+पाने के लिए कृपया आईट्यून्स के लिए साइन इन
+करें।","Jika anda telah membeli
+Monument Valley antara 24 November
+dengan 8 Disember, sumbangan
+anda termasuk Impian (MERAH) Ida.
+Sila daftar masuk ke iTunes
+untuk menebus tawaran ini","Als je Monument Valley tussen 24
+november en 8 december hebt gekocht,
+dan is je donatie inclusief Ida's (RODE)
+Droom. Meld je aan bij iTunes om
+gebruik te maken van dit aanbod","หากคุณซื้อ Monument Valley ระหว่างวันที่ 
+24 พฤศจิกายนและ 8 ธันวาคม 
+การบริจาคของคุณจะรวมถึงความฝัน (RED)
+ ของไอดาด้วย กรุณาลงชื่อเข้าใช้ใน 
+iTunes เพื่อแลกข้อเสนอนี้"
+new_chapters,,New chapters available,Nouveaux chapitres disponibles,Nuovi capitoli disponibili,Neue Kapitel erhältlich,Nuevos capítulos disponibles,全新章节现已推出,全新章節現已推出,新しい章があります,새로운 모험들을 만나보세요.,Добавлены новые главы,Novos capítulos disponíveis,Nya kapitel tillgängliga,Yeni bölümler mevcuttur,नए अध्याय उपलब्ध,Bab baharu yang tersedia,Nieuwe hoofdstukken beschikbaar,มีตอนใหม่แล้ว
+expansionend_message,,"Goodbye for now.
+We'll meet again
+at Land's End.",,"Si vous acheté Monument Valley entre le 24 Novembre et le 8 Décembre, votre don inclut Le Rêve D'Ida. Connectez vous sur iTunes pour bénéficier de cette offre.",,,"暂时再见了。
+我们会再见面
+在地之角。","暫時再見了。
+我們會再見面
+在地之角。",さようなら。Land's End でまた会いましょう。,,,Adeus por agora. Reencontramo-nos no Fim da Terra.,,Simdilik hoşçakalın. Land's End'de tekrar görüşmek üzere.,"अभी के लिए अलविदा। हम फिर
+लैंड्स एंड में मिलेंगे।","Selamat tinggal buat masa ini.
+Kita berjumpa lagi di Land's End.","Vaarwel voor nu. We zien elkaar
+weer bij het Landuiteinde.","ตอนนี้ลาก่อน เราจะเจอกันอีกครั้งที่
+สุดขอบแผ่นดิน"
+endscreen_upsell,,"Play 8 new chapters in
+Forgotten Shores",Nouveaux chapitres disponibles,Gioca gli 8 nuovi capitoli di Spiagge Dimenticate,Neue Kapitel erhältlich,Nuevos capítulos disponibles,"体验《被遗忘的海岸》
+八个全新的章节！","體驗《被遺忘的海岸》
+八個全新的章節！",新しい章があります,새로운 모험들을 만나보세요.,Добавлены новые главы,Joga 8 novos capítulos em Encostas Esquecidas,Nya kapitel tillgängliga,Unutulmuş Kıyılar'da 8 yeni bölümü oynayın,Forgotten Shores में 8 नए अध्याय खेलें,"Bermain 8 bab baharu dalam
+Persisir Yang Dilupakan","Speel 8 nieuwe hoofdstukken in
+Vergeten Kusten",เล่น 8 ตอนใหม่ในเกาะที่ถูกลืม
+check_availability,,Check availability,Vérifier la disponibilité,Controlla disponibilità,Verfügbarkeit prüfen,Comprobar disponibilidad,检查有效性,檢查有效性,空室状況を確認,Ida's (RED) Dream장이 가능한지 체킹하고 있습니다.,Проверить доступность,Verificar disponibilidade,Visa tillgänglighet,kullanilabilirliğini kontrol et,उपलब्धता को जांचें,Semak ketersediaan,Controleer beschikbaarheid,ตรวจสอบการมีอยู่ของบริการ
+play_redsuits,,Play,Jouer,Gioca,Jetzt spielen,Jugar,开始游戏,開始遊戲,遊ぶ,시작,Старт,Jogar,Spela,Oyna,खेलें,Main,Spelen,เล่น
+redsuits_end," All languages must use ""Ida's (RED) Dream"" in English as the tile of the content","Thank you for playing
+Ida's (RED) Dream
+and helping to fight
+for an AIDS free
+generation.","Merci d'avoir joué
+Ida's (RED) Dream
+et d'avoir aidé la création
+d'une génération sans sida.","Grazie per aver giocato
+Ida's (RED) Dream
+e aver aiutato la lotta per
+un futuro senza AIDS.","Danke für’s Spielen von
+Ida’s (RED) Dream
+und für deine Hilfe im
+Kampf um eine 
+Generation frei von AIDS. ","Gracias por jugar a
+Ida's (RED) Dream
+y ayudarnos a luchar
+por una generación
+libre de SIDA.","感谢您支持 Ida's (RED) Dream 
+来资助对抗爱滋的慈善活动。","感謝您支持 Ida's (RED) Dream
+來資助對抗愛滋的慈善活動。","Ida's (RED) Dream
+を遊んでくれて
+ありがとうございました。","Ida's (RED) Dream장을 
+플레이하시고, AIDS를 
+없애기 위해 도움을 주셔서 
+감사합니다.","Спасибо за игру в
+Ida's (RED) Dream
+и вашу поддержку за
+борьбу за поколение
+без СПИДа","Obrigado por jogar
+Ida's (RED) Dream
+e ajudar na luta por uma
+geração livre de sida.","Tack för att du spelar
+Ida's (RED) Dream
+och hjälper till i kampen
+för en aidsfri generation.","İda'nın Kırmızı Rüyası'nı
+oynadığın ve AIDS'ten
+yoksun bir nesil (RED)
+yardım kampanyasını
+desteklediğin için tesekkür ederiz.","Ida's (RED) Dream को खेलने तथा
+एड्स मुक्त पीढ़ी के लिए मुकाबला
+करने में मदद करने के लिए धन्यवाद।","Terima kasih kerana bermain
+Impian (MERAH) Ida dan membantu
+usaha merealisasikan generasi yang
+bebas daripada AIDS.","Bedankt voor het spelen van Ida's
+(RODE) Droom en uw hulp in de
+strijd voor een AIDS-vrije generatie.","ขอบคุณที่เล่นตอนความฝัน (RED) 
+ของไอดาและช่วยต่อสู้เพื่อยุคปลอด AIDS"
+GOTY,There is a correct terminology from Apple for this,Apple Game of the Year 2014,,,,,苹果2014年度最佳游戏,蘋果2014年度最佳遊戲,2014年度 アップル・ゲーム・オブ・ザ・イヤー,,,,,,वर्ष 2014 का एपल गेम,Permainan Apple Tahun 2014,Apple Spel van het Jaar 2014,แอปเกมแห่งปี 2014 ของ Apple
+blue_title,Localise only in Chinese,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream
+level_windmill_blue_name,Localise only in Chinese,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream,Ida's Dream
+blue_end,"Please leave ""Ida's Dream"" in English and pay attention to line breaks","Thanks for playing Ida's Dream. 
+ 
+This chapter was originally
+created for charity.
+ 
+If you enjoyed this journey
+please support a worthy
+cause close to you.","Merci d'avoir joué à Ida's Dream.
+ 
+Ce chapitre a originalement été
+crée pour une œuvre de charité.
+ 
+Si vous avez aimé ce voyage,
+donnez à une cause 
+qui vous est chère.","Grazie per aver giocato 
+a Ida's Dream.
+ 
+Questo capitolo è stato
+originariamente creato per
+beneficenza.
+ 
+Se questo viaggio ti è piaciuto, 
+fai un dono per una 
+causa che ti è cara.","Danke, dass du Ida's
+Dream gespielt hast. 
+ 
+Dieses Kapitel war ursprünglich
+für einen gemeinnützigen
+Zweck vorgesehen. 
+ 
+Wenn dir diese Reise gefallen hat, 
+helfe einer gemeinnützigen
+Organisation in deiner Nähe.","Gracias por jugar a Ida's Dream.
+ 
+Este capítulo fue originalmente
+creado para una obra benéfica.
+ 
+Si has disfrutado de esta travesía, 
+por favor apoya una causa 
+cercana a ti.","感谢你玩 Ida's Dream。
+ 
+这个章节专为
+慈善做宣传。
+ 
+如果你喜欢此章节，
+请就近大力支持
+来鼓励我们吧","感謝你玩 Ida's Dream。
+ 
+這個章節專為
+慈善做宣傳。
+ 
+如果你喜歡此章節，
+請就近大力支持
+來鼓勵我們吧。","Ida's Dreamをプレイして頂き
+ ありがとうございます。
+ 
+本チャプターは当初チャリティーの
+ために作成されました。
+ 
+もしこの冒険を楽しんで頂け
+ましたら、身近な慈善行為を
+サポートしてください。","Ida's Dream을 플레이 
+ 해주셔서 감사합니다.
+ 
+이 챕터는 본래 자선 기금을 
+위해 만들어졌습니다.
+ 
+이 여행이 즐거우셨다면
+주변에 가치 있는 일에 많은
+관심과 도움을 부탁합니다.","Спасибо за игру в Ida's Dream. 
+ 
+Эта глава была первоначально
+создана для благотворительности. 
+ 
+Если Вам понравилось это
+путешествие, пожалуйста,
+распространите информацию
+о проблеме в Вашем окружении.","Obrigado por jogar Ida`s Dream.
+ 
+Este capítulo foi criado
+originalmente para
+a caridade.
+ 
+Se você gostou desta viagem, 
+por favor ajude uma causa 
+de valor perto de você.","Tack för att du spelar Ida's Dream.
+ 
+Detta kapitel var ursprungligen 
+skapat för välgörenhet.
+ 
+Om du tyckte om denna resa, 
+vänligen stötta en värdig 
+sak nära dig.","Ida's Dream oynadığınız için
+teşekkür ederiz.
+ 
+Bu bölüm aslında bir yardım 
+kampanyası için geliştirildi.
+ 
+Yolculuğunuzdan keyif aldıysanız,
+lütfen sizin için değerli olan
+bir yardım kampanyasına katkıda
+bulunun.","Ida's Dream खेलने के लिए धन्यवाद।
+ 
+यह अध्याय मूल रूप से परोपकार के लिए बनाया गया था।
+ 
+यदि आपको इस यात्रा में आनंद आया है तो कृपया अपने नज़दीकी
+योग्य कार्य के लिए समर्थन दें।","Terima kasih kerana bermain
+Ida's Dream.
+ 
+Bab ini pada asasnya 
+diciptakan untuk kebajikan.
+ 
+Jika anda seronok dalam
+pelayaran ini sila beri sokongan
+kepada perkara-perkara kebajikan
+disekitar anda.","Bedankt dat je Ida's Dream
+gespeeld hebt.
+ 
+Dit hoofdstuk was oorspronkelijk
+voor liefdadigheidsdoeleinden
+ontwikkeld.
+ 
+Als deze reis je bevallen is, 
+help dan alsjeblieft een 
+liefdadigheidsorganisatie bij jou
+in de buurt.","ขอบคุณที่คุณเล่น Ida's Dream
+ 
+โดยแรกเริ่ม ตอนนี้ถูก
+สร้างขึ้นมาเพื่อการกุศล
+ 
+ถ้าคุณพึงพอใจกับการเดินทางนี้
+กรุณาช่วยสนับสนุนและรณรงค์
+สิ่งต่างๆ ที่อยู่รอบตัวคุณ"
+,Store description addition,Ida's Dream now available.,Ida's Dream est maintenant disponible.,Ida's Dream è ora disponibile,Ida's Dream jetzt erhältlich,Ida's Dream está ahora disponible,Ida's Dream 可以玩了。,Ida's Dream 可以玩了。,「Ida's Dream」 発売中。,Ida's Dream 사용 가능,Ida's Dream теперь доступна,Ida`s Dream está disponível agora.,Ida's Dream är nu tillgänglig.,Ida's Dream çıktı!,Ida's Dream अब उपलब्ध है।,Ida's Dream kini tersedia.,Ida's Dream is nu beschikbaar.,สามารถเล่น Ida's Dream ได้แล้ว
+blue_update_text,"""Ida's Dream"" always in English","Ida's Dream now available for all! 
+ 
+A chapter previously created as part of an exclusive charity promotion, Ida's Dream is now free and available for all players.","Ida's Dream est maintenant disponible pour tous !
+ 
+Un chapitre crée préalablement pour la promotion exclusive d'une œuvre de charité, Ida's Dream est maintenant gratuit et disponible pour tous les joueurs.","Ida's Dream è ora disponibile per tutti!
+ 
+Ida's Dream - un capitolo creato precedentemente come parte di una promozione esclusiva - è ora gratuito e disponibile per tutti i giocatori.","Ida's Dream jetzt erhältlich für alle!
+ 
+Ursprünglich für einen gemeinnützigen Zweck vorgesehen, ist Ida's Dream jetzt kostenlos für alle Spieler erhältlich.","¡Ida's Dream está disponible para todo el mundo!
+ 
+Ida's dream, un capítulo previamente creado como parte de una exclusiva promoción benéfica, está ahora disponible para todos los jugadores, totalmente gratis.","现在大家可玩 Ida's Dream 了！
+ 
+由于上一章节专为慈善活动打造，Ida's Dream 现在向所有玩家免费开放。","現在大家可玩 Ida's Dream 了！
+ 
+上一章節為慈善宣傳，Ida's Dream 現在向所有玩家免費開放。","「Ida's Dream」 は全ての方向けに発売中。
+ 
+ 
+前回チャリティーの一環として限定で作成されたチャプター。Ida'sDreamは現在無料で全てのプレイヤーに公開中。","이제 Ida's Dream 은 모두가 사용 가능합니다!
+ 
+ 
+이전에 자선 기금을 돕기 위해 특별히 제작되었던 챕터인 Ida's Dream 이 이제는 무료로 모두가 플레이 할 수 있습니다.","Ida's Dream теперь доступна для всех!
+ 
+Будучи главой, первоначально созданной как часть эксклюзивной благотворительной кампании, Ida's Dream теперь бесплатна и доступна для всех игроков.","Ida's Dream está disponível para todos agora!
+ 
+Um capítulo criado previamente como parte de uma promoção exclusiva para caridade, Ida's Dream está gratuito e disponível para todos os jogadores agora.","Ida's Dream är nu tillgänglig för alla!
+ 
+Ett kapitel som tidigare skapats som en del av en exklusiv välgörenhetskampanj, finns nu Ida's Dream gratis och är tillgänglig för alla spelare.","Ida's Dream tüm oyuncular için çıktı
+ 
+Özel bir yardım kampanyası kapsamında daha evvel bir bölüm geliştirildi, Ida's Dream artik bedava ve tüm oyuncular için çıktı!","Ida's Dream अब सभी के लिए उपलब्ध है!
+ 
+पहले से एक विशेष परोपकार प्रचार के भाग के रूप में बनाया एक अध्याय , Ida's Dream अब सभी खिलाड़ियों के लिए नि: शुल्क उपलब्ध है।","Ida's Dream kini tersedia untuk semua!
+ 
+Bab sebelumnya telah diciptakan sebagai sebahagian promosi kebajikan eksklusif, Ida's Dream kini adalah percuma dan tersedia untuk semua pemain.","Ida's Dream is nu voor iedereen beschikbaar!
+ 
+Een hoofdstuk oorspronkelijk ontwikkeld voor een exclusieve liefdadigheidspromotie, Ida's Dream is nu gratis beschikbaar voor alle spelers.","สามารถเล่น Ida's Dream ได้ทั้งหมดแล้ว!
+ 
+ตอนก่อนหน้านี้ถูกสร้างขึ้นเพื่อเป็นส่วนหนึ่งของการส่งเสริมการกุศลพิเศษ ตอนนี้ ผู้เล่นทุกคนสามารถเล่น Ida's Dream ได้ฟรีแล้ว"
+feature_not_available,For iOS demo build,Feature not enabled for this demo,Fonction non activée pour cette démo,Caratteristica non abilitato per questa demo,Funktion nicht für diese Demo aktiviert,Característica no habilitada para esta demo,功能未启用本演示,功能未啟用本演示,このデモのために有効になっていない機能,이 데모 를 사용할 수 없습니다 기능,Функция не включена для этой демонстрации,Recurso não ativado para esta demo,Feature inte aktiverat för denna demo,Bu demo için etkin değil özelliği,इस प्रदर्शन के लिए सक्षम नहीं फ़ीचर,Ciri-ciri tidak diaktifkan untuk demo ini,Functie niet ingeschakeld voor deze demo,คุณลักษณะที่ ไม่ได้ เปิดใช้งานสำหรับ การสาธิตนี้
+demo_startup_text,For iOS demo build,This version of Monument Valley has been created specifically for demonstration purposes,Cette version de Monument Valley a été créée spécifiquement à des fins de démonstration,Questa versione di Monument Valley è stato creato appositamente per scopo dimostrativo,Diese Version des Monument Valley wurde speziell zu Demonstrationszwecken erstellt,Esta versión de Monument Valley ha sido creada específicamente para fines de demostración,这个版本的 Monument Valley 已创建专门为示范的目的,這個版本的 Monument Valley 已創建專門為示範的目的,Monument Valley のこのバージョンでは、デモンストレーションの目的のために特別に作成されています,Monument Valley 이 버전의 데모 용으로 특별히 제작 된,Эта версия Monument Valley была создана специально для демонстрационных целей,Esta versão do Monument Valley foi criado especificamente para fins de demonstração,Denna version av Monument Valley har skapats speciellt för demonstrationsändamål,Monument Valley bu sürümü gösteri amaçlı özel olarak oluşturulmuş olan,Monument Valley के इस संस्करण में प्रदर्शन प्रयोजनों के लिए विशेष रूप से बनाया गया है,Versi Monument Valley telah dicipta khusus untuk tujuan demonstrasi,Deze versie van Monument Valley is speciaal gemaakt voor demonstratiedoeleinden,รุ่นของ Monument Valley นี้ได้รับการ สร้างขึ้นเฉพาะสำหรับ วัตถุประสงค์ในการสาธิต
+share_message_underground,Hash tag to be left in English. Rest translated.,Wish you were here #monumentvalleygame #actuallyfree,J'aimerais que tu sois ici # monumentvalleygame #actuallyfree,Vorrei che fossi qui #monumentvalleygame #actuallyfree,"Ich wünschte, du wärst hier #monumentvalleygame #actuallyfree",Ojalá estuvieras aquí #monumentvalleygame #actuallyfree,希望你在这里 #actuallyfree,希望你在這裡 #actuallyfree,あなたもここに来てください #monumentvalleygame #actuallyfree,당신과 #monumentvalleygame에서 함께하고 싶어요. #actuallyfree,Сыграешь с нами? #monumentvalleygame #actuallyfree,Queria te encontrar aqui #monumentvalleygame #actuallyfree,Önskar att du vore här #monumentvalleygame #actuallyfree,Keşke burada olsaydın #monumentvalleygame #actuallyfree,काश तुम यहां होते #monumentvalleygame #actuallyfree,Alangkah baiknya jika anda di sini #monumentvalleygame #actuallyfree,Zou willen dat je hier was #monumentvalleygame #actuallyfree,อยากให้คุณอยู่ที่นี่ #monumentvalleygame #actuallyfree
+world_select_mv_title,,Monument Valley,Monument Valley,Monument Valley,Monument Valley,Monument Valley,纪念碑谷,紀念碑谷,Monument Valley,Monument Valley,Monument Valley,Monument Valley,Monument Valley,Monument Valley,Monument Valley,Monument Valley,Monument Valley,Monument Valley
+world_select_mv_subtitle,,A quest for forgiveness,En quête de pardon,"Un viaggio alla
+ricerca del perdono","Eine Suche nach
+Vergebung",Una gesta de redención,一段寻求宽恕的旅程,一段尋求寬恕的旅程,許しを探し求める旅,용서를 향한 여정,Путь к прощению,Uma busca por perdão,En jakt efter förlåtelse,Bİr bağışlanma macerası,मुक्ति की तलाश,"Pemburuan mencari
+keampunan","Een zoektocht naar
+vergeving",ภารกิจเพื่อแลกเปลี่ยนกับการให้อภัย
+world_select_fs_title,,FORGOTTEN SHORES,FORGOTTEN SHORES,FORGOTTEN SHORES,FORGOTTEN SHORES,FORGOTTEN SHORES,被遗忘的海岸,被遺忘的海岸,FORGOTTEN SHORES,FORGOTTEN SHORES,FORGOTTEN SHORES,FORGOTTEN SHORES,FORGOTTEN SHORES,FORGOTTEN SHORES,FORGOTTEN SHORES,FORGOTTEN SHORES,FORGOTTEN SHORES,FORGOTTEN SHORES
+world_select_fs_subtitle,,"Eight more magical
+chapters","Huit nouveaux
+chapitres magiques","Altri otto capitoli
+magici","Acht weitere magische
+Kapitel","Ocho capítulos más
+llenos de magia",八个全新的魔幻章节,八個全新的魔幻章節,"魔法のような章が
+8つ追加",마법의 챕터 8개 추가,"Еще восемь волшебных
+глав","Oito novos capítulos
+mágicos",Åtta magiska kapitel till,Büyüleyİcİ sekİz bölüm daha,8 और जादुई चैप्टर,Lapan lagi bab magikal,"Acht aanvullende
+magische hoofdstukken",บทแห่งมนตราเพิ่มขึ้น 8 ตอน
+world_select_dream_subtitle,,A STANDALONE ADVENTURE,"UNE AVENTURE À
+PART ENTIÈRE","UN'AVVENTURA A
+SÉ STANTE","EIN EIGENSTÄNDIGES
+ABENTEUER","UNA AVENTURA
+ORIGINAL",一场独一无二的奇幻旅程,一場獨一無二的奇幻旅程,独自の冒険,독립적인 모험,ОТДЕЛЬНОЕ ПРИКЛЮЧЕНИЕ,UMA AVENTURA SOLITÁRIA,ETT FRISTÅENDE ÄVENTYR,BAĞIMSIZ BİR MACERA,एक स्टैंडअलोन रोमांच,PENGEMBARAAN KENDIRI,"EEN OPZICHZELFSTAAND
+AVONTUUR",การผจญภัยแบบสแตนด์อโลน
+world_select_mv2_title,,Monument Valley 2,Monument Valley 2,Monument Valley 2,Monument Valley 2,Monument Valley 2,纪念碑谷2,紀念碑谷2,Monument Valley 2,Monument Valley 2,Monument Valley 2,Monument Valley 2,Monument Valley 2,Monument Valley 2,Monument Valley 2,Monument Valley 2,Monument Valley 2,Monument Valley 2
+world_select_mv2_subtitle,Displayed as the subtitle beside the upsell entry of MV2 in the World Select Menu,"A new story of
+beauty and impossibility","Un nouveau conte
+d'impossibilité et de beauté","Una nuova storia di 
+bellezza e impossibilità","Eine neue Erzählung voll
+von Schönheit und Illusion.","Una nueva historia
+de belleza imposible",一个美丽和不可思议的新故事,一個美麗和不可思議的新故事,美と超現実の新しい物語,아름답고 환상적인 이야기,"Новая история о
+красоте и невозможном","Uma história de
+beleza e ilusão","En ny berättelse om det
+vackra och det omöjliga","Güzellİk ve yanılsama
+hİkayesİ",सुन्दरता और छल की कहानी,Kisah kecantikan dan ilusi,"Een nieuw verhaal over
+onmogelijkheid en pracht",เรื่องราวแห่งความงามและภาพมายา
+more_games_link,A link that points out to the ustwo games developer page with all of our other apps,More from ustwo games,Plus de jeux de ustwo games,Altri giochi di ustwo games,Mehr von ustwo games,Más juegos de ustwo games,"更多来自ustwo games
+",更多來自ustwo games,ustwo gamesの他の作品,다른 게임,Другие игры ustwo games ,mais jogos,Mer från ustwo games ,Daha Çok Oyun,ustwo games ,"ustwo games
+",Meer van ustwo games,เกมอื่น ๆ
+Store Text - Tags,,"escher,isometric,art,impossible,architecture,explore,illusion,crow,ida,geometry,whale,trail","escher,isométrique,art,impossible,l'architecture,découverte,l'illusion,corneille,ida,whale,trail","escher,isometrico,arte,impossibile,architettura,esplorare,illusione,corvo,ida,geometria,whale,trail","escher,isometrische,Kunst,unmöglich,Architektur,erforschen,Illusion,krähe,ida,Geometrie,whale.trail","escher,isométrico,arte,imposible,arquitectura,exploración,ilusión,cuervo,ida,geometría,whale,trail","escher,等距,美术,不可能的,建筑,探索,幻象,乌鸦,ida,几何,whale,trail. ","等距,美術,不可能的,建築,探索,幻象,烏鴉,幾何,escher,ida,whale,trail","escher,等大の,芸術,不可能,建築,探索する,幻覚,カラス,ida,幾何学,whale,trail","escher,아이소 메트릭,예술,불가능,건축,탐험,환상,까마귀,IDA,형상,whale,trail","escher,изометрической,искусство,невозможно,архитектура,исследовать,иллюзия,Ida,ида,whale,trail","escher,isométrica,arte,impossível,arquitetura,explorar,ilusão,corvo,ida,geometria,whale,trail","escher,isometriska,konst,omöjlig,arkitektur,utforska,illusion,kråka,ida,geometri,whale,trail","escher,İzometrik,Sanat,İmkansız,Mimari,Keşfet,İllüzyon,Karga,ida,geometri,whale,trail",,,,
+level_select_anniversary,,"FIFTH
+ANNIVERSARY","CINQUIÈME
+ANNIVERSAIRE","QUINTO
+ANNIVERSARIO",WIR WERDEN 5,"Quinto
+Aniversario",五周年,五週年,5周年記念,"다섯 번째 기념일
+","ПЯТЫЙ
+ЮБИЛЕЙ","QUINTO
+ANIVERSÁRIO",FEMÅRSJUBILEUM,"Beşinci
+yıldönümü","पांचवीं
+वार्षिक","KEJADIAN
+KELIMAN","VIJFDE
+VERJAARDAG",ครบรอบปีที่ห้า
+settings_party,,Party,Fête,Festa,Party,Fiesta,派对,派對,お祝い,파티,Вечеринка,Festa,Kalas,Parti. ,पार्टी,Parti,Feest,พรรค
+5th Anniversary Promotion Text,"There is a strict character limit of 170! If need be, only translate the first sentence!","Join Princess Ida this April in our special 5th Anniversary Edition, packed with birthday surprises!
+
+Don't miss out - the party's over on May 1st.","En avril, rejoins la princesse Ida dans notre 5ème édition anniversaire, avec des cadeaux surprises !
+
+Ne la râtez-pas - la fête se termine le 1er mai.","Segui la Principessa Ida questo Aprile per l'edizione speciale del nostro 5° anniversario, piena di sorprese di compleanno!
+
+Non perderla - termina il 1° Maggio.","Kommt vorbei und feiert mit uns und Prinzessin Ida unseren 5ten Geburtstag, mit vielen Überraschungen! 
+
+Vorbei ist die Party am 1. May.","¡Acompaña a la Princesa Ida este Abril en nuestra edición especial del quinto aniversario de Monument Valley, que incluye sorpresas de cumpleaños!
+
+No te lo pierdas, la fiesta termina el 1 de Mayo","今年4月与Ida公主一同庆祝我们的5周年纪念版，充满生日惊喜！
+
+万勿错过 - 派对将在5月1日结束。","今年4月與Ida公主一同慶祝我們的5週年紀念版，充滿生日驚喜！
+
+萬勿錯過 - 派對將在5月1日結束。","この4月、5周年を記念したスペシャルエディションでアイダ姫と一緒にお祝いしましょう！バースデーサプライズもありますよ。
+
+お見逃しなく。パーティーは5月1日に終了します。","이번 4 월 특별 기념 5 주년 기념 생일 파티에 생일 축하 행사가 가득한 Ida 공주와 함께하십시오!
+
+놓치지 마세요 - 5 월 1 일에 끝난 파티.","Присоединяйтесь к принцессе Иде в апреле этого года в специальном выпуске, посвященном 5-й годовщине, где вас ждут сюрпризы!
+
+Не пропустите - вечеринка заканчивается 1 мая.","Junta-te à Princesa Ida este Abril na nossa edição especial, repleta de surpresas de aniversário!
+
+Não percas - a festa termina dia 1 de Maio.","Följ med prinsessan Ida under April, i vår jubileumsutgåva med massor av födelsedagsöverraskningar! 
+
+Missa den inte - festen är över den 1 Maj.","Prenses İda’nın doğum günü sürprizleriyle dolu beşinci jübilesine davetlisiniz. 
+
+Kaçırmayın. Parti 1 Mayıs’ta sona eriyor.","जन्मदिन आश्चर्य के साथ पैक हमारे विशेष 5 वीं वर्षगांठ संस्करण में इस अप्रैल में राजकुमारी इडा शामिल हों!
+
+पहली मई को पार्टी खत्म नहीं हुई।","Sertai Ida pada bulan April ini dalam Edisi Ulang Tahun ke-5 kami yang istimewa, penuh dengan kejutan hari jadi!
+
+Jangan ketinggalan - parti itu berakhir pada 1 Mei.","Doe mee met prinses Ida in april in onze speciale vijfde Verjaardag Editie, boordevol feestelijke verrassingen!
+
+Mis het niet - op 1 mei is het feest weer voorbij","เข้าร่วม Princess Ida ในเดือนเมษายนนี้ในวันครบรอบปีที่ 5 ฉบับพิเศษของเราเต็มไปด้วยความประหลาดใจวันเกิด
+
+อย่าพลาด - ปาร์ตี้จบลงในวันที่ 1 พฤษภาคม"
+license_fail_title,,License Check Failed,Échec de la vérification de la licence,Verifica della licenza non riuscita,Die Lizenzprüfung ist fehlgeschlagen,Error en la verificación de licencia,许可检查失败,許可檢查失敗,ライセンスチェック失敗,라이선스 확인 실패,Не удалось проверить лицензию,Falha na Verificação de Licença,Licenskontrollen misslyckades,Lisans Kontrolü Başarısız Oldu,लाइसेंस जांच विफल रहा,Semakan Lesen Gagal,Licentiecontrole mislukt,การตรวจสอบการอนุญาตล้มเหลว
+license_fail_message,,Unable to validate license. Check if you have network connection and have purchased this game from Google Play Store,Impossible de valider la licence. Vérifiez que vous êtes connecté au réseau et que vous avez acheté ce jeu sur Google Play,Non è stato possibile verificare la licenza. Controlla la tua connessione di rete e l'acquisto di questo gioco da Google Play.,"Ihre Lizenz konnte nicht validiert werden. Überprüfen Sie, ob Sie über eine Netzwerkverbindung verfügen und dieses Spiel bei Google-Play gekauft haben.",No es posible validar la licencia. Comprueba si tienes conexión a intenet y y si has adquirido el juego de Google Play,无法验证许可。检查您是否具有网络连接并已从谷歌应用商店购买这款游戏。,無法驗證許可。檢查您是否具有網路連接並已從Google Play購買這款遊戲。,ライセンスを確認できませんでした。ネットワーク接続とGoogle Playからこのゲームを購入したことを確認してください。,라이선스를 인증할 수 없습니다. 네트워크가 연결되었는지 그리고 이 게임을 Google Play에서 구입하셨는지 확인하시기 바랍니다.,"Не удалось подтвердить лицензию. Проверьте, есть ли у вас подключение к сети и купили ли вы эту игру на Google Play",Não é possível validar a licença. Verifique se tem conexão à rede e se comprou este jogo no Google Play,Det gick inte att bekräfta licensen. Kontrollera om du har nätverksanslutning och har köpt detta spel från Google Play,Lisans doğrulanamıyor. Ağ bağlantınız olup olmadığını ve bu oyunu Google Play'den satın alıp almadığınızı kontrol edin,लाइसेंस सत्यापित करने में असमर्थ। जांचें कि क्या आपके पास नेटवर्क कनेक्शन है और इस गेम को Google Play से खरीदा है,Tidak dapat menentusahkan lesen. Sekiranya anda mempunyai sambungan rangkaian dan telah membeli permainan ini daripada Google Play,Kan licentie niet valideren. Controleer of je een netwerkverbinding hebt en dit spel hebt gekocht via Google Play,ไม่สามารถตรวจสอบการอนุญาตได้ ตรวจสอบหากว่าคุณมีการเชื่อมต่อเครือข่ายและได้ซื้อเกมนี้จาก Google Play
+license_fail_retry,,Retry,Réessayer,Riprova,Nochmals versuchen,Volver a intentar,重试,重試,再試行,재시도,Повтор,Tente novamente,Försök igen,Tekrar Dene,पुनः प्रयास करें,Cuba semula,Opnieuw proberen,ลองใหม่
+IDS_Message,IDS - DO NOT LOCALISE,"Important Notice
+
+Hello Monument Valley friends,
+We launched a new Chinese version of Monument Valley.
+In order to continue to receive updates for this game, you must now download the new version of the app:
+纪念碑谷 (Monument Valley)
+
+Your existing purchases and save game will be transferred to the new app via iCloud.
+
+Details:
+1. Click [Download Now] to go to App Store to download the new version
+2. Start the game when download is completed
+3. All data will be migrated from the old version to the new one after you start the game
+4. Please DO NOT delete the old version before the migration is completed. Please make sure your internet works properly during the migration.
+5. You can delete the old version when migration is completed.
+
+Please join our official QQ group: 331371981 if you meet any problem or difficulties.","重要公告
+
+纪念碑谷的朋友们你们好，
+我们上了一个全新的中文版纪念碑谷。
+为了持续收到更新内容，你必须下载新的版本：
+纪念碑谷 (Monument Valley)
+
+你所有的购买记录和游戏进度都将通过 iCloud 转移到新的版本。
+
+具体操作步骤：
+1.点击立刻下载按钮，前往应用商店下载最新版本。
+2.下载安装成功后，启动最新版本。
+3.启动最新版本后，自动进行新旧版本之间的数据转移。
+4.在数据转移完成前，请勿删除当前旧版本。迁移过程中请保持网络顺畅。
+5.在数据转移完成后，可删除旧版本，仅保留新版本。
+
+如果您有任何问题或遇到任何困难，请加入官方QQ群：331371981","重要公告
+
+纪念碑谷的朋友们你们好，
+我们上了一个全新的中文版纪念碑谷。
+为了持续收到更新内容，你必须下载新的版本：
+纪念碑谷 (Monument Valley)
+
+你所有的购买记录和游戏进度都将通过 iCloud 转移到新的版本。
+
+具体操作步骤：
+1.点击立刻下载按钮，前往应用商店下载最新版本。
+2.下载安装成功后，启动最新版本。
+3.启动最新版本后，自动进行新旧版本之间的数据转移。
+4.在数据转移完成前，请勿删除当前旧版本。迁移过程中请保持网络顺畅。
+5.在数据转移完成后，可删除旧版本，仅保留新版本。
+
+如果您有任何问题或遇到任何困难，请加入官方QQ群：331371981","重要公告
+
+纪念碑谷的朋友们你们好，
+我们上了一个全新的中文版纪念碑谷。
+为了持续收到更新内容，你必须下载新的版本：
+纪念碑谷 (Monument Valley)
+
+你所有的购买记录和游戏进度都将通过 iCloud 转移到新的版本。
+
+具体操作步骤：
+1.点击立刻下载按钮，前往应用商店下载最新版本。
+2.下载安装成功后，启动最新版本。
+3.启动最新版本后，自动进行新旧版本之间的数据转移。
+4.在数据转移完成前，请勿删除当前旧版本。迁移过程中请保持网络顺畅。
+5.在数据转移完成后，可删除旧版本，仅保留新版本。
+
+如果您有任何问题或遇到任何困难，请加入官方QQ群：331371981","重要公告
+
+纪念碑谷的朋友们你们好，
+我们上了一个全新的中文版纪念碑谷。
+为了持续收到更新内容，你必须下载新的版本：
+纪念碑谷 (Monument Valley)
+
+你所有的购买记录和游戏进度都将通过 iCloud 转移到新的版本。
+
+具体操作步骤：
+1.点击立刻下载按钮，前往应用商店下载最新版本。
+2.下载安装成功后，启动最新版本。
+3.启动最新版本后，自动进行新旧版本之间的数据转移。
+4.在数据转移完成前，请勿删除当前旧版本。迁移过程中请保持网络顺畅。
+5.在数据转移完成后，可删除旧版本，仅保留新版本。
+
+如果您有任何问题或遇到任何困难，请加入官方QQ群：331371981","重要公告
+
+纪念碑谷的朋友们你们好，
+我们上了一个全新的中文版纪念碑谷。
+为了持续收到更新内容，你必须下载新的版本：
+纪念碑谷 (Monument Valley)
+
+你所有的购买记录和游戏进度都将通过 iCloud 转移到新的版本。
+
+具体操作步骤：
+1.点击立刻下载按钮，前往应用商店下载最新版本。
+2.下载安装成功后，启动最新版本。
+3.启动最新版本后，自动进行新旧版本之间的数据转移。
+4.在数据转移完成前，请勿删除当前旧版本。迁移过程中请保持网络顺畅。
+5.在数据转移完成后，可删除旧版本，仅保留新版本。
+
+如果您有任何问题或遇到任何困难，请加入官方QQ群：331371981","重要公告
+
+纪念碑谷的朋友们你们好，
+我们上了一个全新的中文版纪念碑谷。
+为了持续收到更新内容，你必须下载新的版本：
+纪念碑谷 (Monument Valley)
+
+你所有的购买记录和游戏进度都将通过 iCloud 转移到新的版本。
+
+具体操作步骤：
+1.点击立刻下载按钮，前往应用商店下载最新版本。
+2.下载安装成功后，启动最新版本。
+3.启动最新版本后，自动进行新旧版本之间的数据转移。
+4.在数据转移完成前，请勿删除当前旧版本。迁移过程中请保持网络顺畅。
+5.在数据转移完成后，可删除旧版本，仅保留新版本。
+
+如果您有任何问题或遇到任何困难，请加入官方QQ群：331371981","重要公告
+
+纪念碑谷的朋友们你们好，
+我们上了一个全新的中文版纪念碑谷。
+为了持续收到更新内容，你必须下载新的版本：
+纪念碑谷 (Monument Valley)
+
+你所有的购买记录和游戏进度都将通过 iCloud 转移到新的版本。
+
+具体操作步骤：
+1.点击立刻下载按钮，前往应用商店下载最新版本。
+2.下载安装成功后，启动最新版本。
+3.启动最新版本后，自动进行新旧版本之间的数据转移。
+4.在数据转移完成前，请勿删除当前旧版本。迁移过程中请保持网络顺畅。
+5.在数据转移完成后，可删除旧版本，仅保留新版本。
+
+如果您有任何问题或遇到任何困难，请加入官方QQ群：331371981","重要公告
+
+纪念碑谷的朋友们你们好，
+我们上了一个全新的中文版纪念碑谷。
+为了持续收到更新内容，你必须下载新的版本：
+纪念碑谷 (Monument Valley)
+
+你所有的购买记录和游戏进度都将通过 iCloud 转移到新的版本。
+
+具体操作步骤：
+1.点击立刻下载按钮，前往应用商店下载最新版本。
+2.下载安装成功后，启动最新版本。
+3.启动最新版本后，自动进行新旧版本之间的数据转移。
+4.在数据转移完成前，请勿删除当前旧版本。迁移过程中请保持网络顺畅。
+5.在数据转移完成后，可删除旧版本，仅保留新版本。
+
+如果您有任何问题或遇到任何困难，请加入官方QQ群：331371981","重要公告
+
+纪念碑谷的朋友们你们好，
+我们上了一个全新的中文版纪念碑谷。
+为了持续收到更新内容，你必须下载新的版本：
+纪念碑谷 (Monument Valley)
+
+你所有的购买记录和游戏进度都将通过 iCloud 转移到新的版本。
+
+具体操作步骤：
+1.点击立刻下载按钮，前往应用商店下载最新版本。
+2.下载安装成功后，启动最新版本。
+3.启动最新版本后，自动进行新旧版本之间的数据转移。
+4.在数据转移完成前，请勿删除当前旧版本。迁移过程中请保持网络顺畅。
+5.在数据转移完成后，可删除旧版本，仅保留新版本。
+
+如果您有任何问题或遇到任何困难，请加入官方QQ群：331371981","重要公告
+
+纪念碑谷的朋友们你们好，
+我们上了一个全新的中文版纪念碑谷。
+为了持续收到更新内容，你必须下载新的版本：
+纪念碑谷 (Monument Valley)
+
+你所有的购买记录和游戏进度都将通过 iCloud 转移到新的版本。
+
+具体操作步骤：
+1.点击立刻下载按钮，前往应用商店下载最新版本。
+2.下载安装成功后，启动最新版本。
+3.启动最新版本后，自动进行新旧版本之间的数据转移。
+4.在数据转移完成前，请勿删除当前旧版本。迁移过程中请保持网络顺畅。
+5.在数据转移完成后，可删除旧版本，仅保留新版本。
+
+如果您有任何问题或遇到任何困难，请加入官方QQ群：331371981","重要公告
+
+纪念碑谷的朋友们你们好，
+我们上了一个全新的中文版纪念碑谷。
+为了持续收到更新内容，你必须下载新的版本：
+纪念碑谷 (Monument Valley)
+
+你所有的购买记录和游戏进度都将通过 iCloud 转移到新的版本。
+
+具体操作步骤：
+1.点击立刻下载按钮，前往应用商店下载最新版本。
+2.下载安装成功后，启动最新版本。
+3.启动最新版本后，自动进行新旧版本之间的数据转移。
+4.在数据转移完成前，请勿删除当前旧版本。迁移过程中请保持网络顺畅。
+5.在数据转移完成后，可删除旧版本，仅保留新版本。
+
+如果您有任何问题或遇到任何困难，请加入官方QQ群：331371981","重要公告
+
+纪念碑谷的朋友们你们好，
+我们上了一个全新的中文版纪念碑谷。
+为了持续收到更新内容，你必须下载新的版本：
+纪念碑谷 (Monument Valley)
+
+你所有的购买记录和游戏进度都将通过 iCloud 转移到新的版本。
+
+具体操作步骤：
+1.点击立刻下载按钮，前往应用商店下载最新版本。
+2.下载安装成功后，启动最新版本。
+3.启动最新版本后，自动进行新旧版本之间的数据转移。
+4.在数据转移完成前，请勿删除当前旧版本。迁移过程中请保持网络顺畅。
+5.在数据转移完成后，可删除旧版本，仅保留新版本。
+
+如果您有任何问题或遇到任何困难，请加入官方QQ群：331371981","重要公告
+
+纪念碑谷的朋友们你们好，
+我们上了一个全新的中文版纪念碑谷。
+为了持续收到更新内容，你必须下载新的版本：
+纪念碑谷 (Monument Valley)
+
+你所有的购买记录和游戏进度都将通过 iCloud 转移到新的版本。
+
+具体操作步骤：
+1.点击立刻下载按钮，前往应用商店下载最新版本。
+2.下载安装成功后，启动最新版本。
+3.启动最新版本后，自动进行新旧版本之间的数据转移。
+4.在数据转移完成前，请勿删除当前旧版本。迁移过程中请保持网络顺畅。
+5.在数据转移完成后，可删除旧版本，仅保留新版本。
+
+如果您有任何问题或遇到任何困难，请加入官方QQ群：331371981","重要公告
+
+纪念碑谷的朋友们你们好，
+我们上了一个全新的中文版纪念碑谷。
+为了持续收到更新内容，你必须下载新的版本：
+纪念碑谷 (Monument Valley)
+
+你所有的购买记录和游戏进度都将通过 iCloud 转移到新的版本。
+
+具体操作步骤：
+1.点击立刻下载按钮，前往应用商店下载最新版本。
+2.下载安装成功后，启动最新版本。
+3.启动最新版本后，自动进行新旧版本之间的数据转移。
+4.在数据转移完成前，请勿删除当前旧版本。迁移过程中请保持网络顺畅。
+5.在数据转移完成后，可删除旧版本，仅保留新版本。
+
+如果您有任何问题或遇到任何困难，请加入官方QQ群：331371981","重要公告
+
+纪念碑谷的朋友们你们好，
+我们上了一个全新的中文版纪念碑谷。
+为了持续收到更新内容，你必须下载新的版本：
+纪念碑谷 (Monument Valley)
+
+你所有的购买记录和游戏进度都将通过 iCloud 转移到新的版本。
+
+具体操作步骤：
+1.点击立刻下载按钮，前往应用商店下载最新版本。
+2.下载安装成功后，启动最新版本。
+3.启动最新版本后，自动进行新旧版本之间的数据转移。
+4.在数据转移完成前，请勿删除当前旧版本。迁移过程中请保持网络顺畅。
+5.在数据转移完成后，可删除旧版本，仅保留新版本。
+
+如果您有任何问题或遇到任何困难，请加入官方QQ群：331371981","重要公告
+
+纪念碑谷的朋友们你们好，
+我们上了一个全新的中文版纪念碑谷。
+为了持续收到更新内容，你必须下载新的版本：
+纪念碑谷 (Monument Valley)
+
+你所有的购买记录和游戏进度都将通过 iCloud 转移到新的版本。
+
+具体操作步骤：
+1.点击立刻下载按钮，前往应用商店下载最新版本。
+2.下载安装成功后，启动最新版本。
+3.启动最新版本后，自动进行新旧版本之间的数据转移。
+4.在数据转移完成前，请勿删除当前旧版本。迁移过程中请保持网络顺畅。
+5.在数据转移完成后，可删除旧版本，仅保留新版本。
+
+如果您有任何问题或遇到任何困难，请加入官方QQ群：331371981"
+IDS_DownloadNow,IDS - DO NOT LOCALISE,Download Now,立刻下载,立刻下载,立刻下载,立刻下载,立刻下载,立刻下载,立刻下载,立刻下载,立刻下载,立刻下载,立刻下载,立刻下载,立刻下载,立刻下载,立刻下载,立刻下载
+IDS_MaybeLater,IDS - DO NOT LOCALISE,Maybe Later,晚点再来,晚点再来,晚点再来,晚点再来,晚点再来,晚点再来,晚点再来,晚点再来,晚点再来,晚点再来,晚点再来,晚点再来,晚点再来,晚点再来,晚点再来,晚点再来
+settings_antialiasing,,Anti Aliasing,Anticrénelage,Anti Aliasing,Anti Aliasing,Anti Aliasing,抗锯齿,抗鋸齒,アンチエイリアス,안티에일리어싱,Сглаживание,Anti-aliasing,Kantutjämning,Kenar Yumuşatma,एंटीलियासिंग,Anti Aliasing,Anti-aliasing,ลบรอยหยัก
+settings_resolution,,Resolution,Résolution,Risoluzione,Auflösung,Resolución,分辨率,解像度,解像度,해상도,Разрешение,Resolução,Upplösning,Çözünürlük,संकल्प,Resolusi,Resolutie,ความละเอียดของภาพ
+settings_language,,Language,Langue,Lingua,Sprache,Idioma,语言,語言,言語,언어,Язык,Lingua,Språk,Dİl,भाषा,Bahasa,Taal,ภาษา
+quit_game_question,,Quit game?,Quitter la partie ?,Vuoi uscire dal gioco?,Spiel beenden?,¿Salir del juego?,退出游戏？,退出遊戲？,ゲームをやめますか？,게임을 나가시겠습니까?,Выйти из игры?,Sair do jogo?,Avsluta spelet?,Oyundan çık?,खेल छोड़ दे?,Berhenti dari permainan?,Spel afsluiten?,ออกจากเกม?
+confirm_quit_game,,Quit,Quitter,Esci,Beenden,Salir,退出,退出,やめる,나가기,Выйти,Sair,Avsluta,Çık,छोड़ो,Berhenti,Afsluiten,ออก
+camera_zoom_hint_mouse,,Scroll to zoom,Faire défiler pour zoomer,Scorri per zoomare,Zum Zoomen scrollen,Haz Zoom con la rueda del ratón,滚动以缩放,滾動以縮放,スクロールしてズーム,스크롤하여 확대/축소,Прокрутите для увеличения,Amplia com a roda do rato,Skrolla för att zooma,Yakınlaştırmak/uzaklaştırmak İçİn kaydır,ज़ूम करने के लिए स्क्रॉल करें,Tatal untuk zum,Scrol om te zoomen,ใช้ล้อเลื่อนเพื่อซูม
+world_select_title,,Contents,Contenu,Contenuto,Inhalte,Contenidos,目录,目錄,コンテンツ,콘텐츠,Содержание,Conteúdo,Innehåll,İçİndekİler,सामग्री,Kandungan,Inhoud,เนื้อหา
+credits_ustwogames_names,DO NOT LOCALISE,"Ken Wong
+Michael Anderson
+Fen Beatty
+Catherine Couturier
+David Fernández Huerta
+Abigail Flores
+Daniel Gray
+Rohit Kapoor
+Kirsty Keatch
+John Lau
+Adrienne Law
+Van Le
+Neil McFarland
+Manesh Mistry
+Peter Pashley
+Cédrine Pradier
+Julie Quach
+Will Sykes
+Jonathan Topf
+Gianluca Vatinno","Ken Wong
+Michael Anderson
+Fen Beatty
+Catherine Couturier
+David Fernández Huerta
+Abigail Flores
+Daniel Gray
+Rohit Kapoor
+Kirsty Keatch
+John Lau
+Adrienne Law
+Van Le
+Neil McFarland
+Manesh Mistry
+Peter Pashley
+Cédrine Pradier
+Julie Quach
+Will Sykes
+Jonathan Topf
+Gianluca Vatinno","Ken Wong
+Michael Anderson
+Fen Beatty
+Catherine Couturier
+David Fernández Huerta
+Abigail Flores
+Daniel Gray
+Rohit Kapoor
+Kirsty Keatch
+John Lau
+Adrienne Law
+Van Le
+Neil McFarland
+Manesh Mistry
+Peter Pashley
+Cédrine Pradier
+Julie Quach
+Will Sykes
+Jonathan Topf
+Gianluca Vatinno","Ken Wong
+Michael Anderson
+Fen Beatty
+Catherine Couturier
+David Fernández Huerta
+Abigail Flores
+Daniel Gray
+Rohit Kapoor
+Kirsty Keatch
+John Lau
+Adrienne Law
+Van Le
+Neil McFarland
+Manesh Mistry
+Peter Pashley
+Cédrine Pradier
+Julie Quach
+Will Sykes
+Jonathan Topf
+Gianluca Vatinno","Ken Wong
+Michael Anderson
+Fen Beatty
+Catherine Couturier
+David Fernández Huerta
+Abigail Flores
+Daniel Gray
+Rohit Kapoor
+Kirsty Keatch
+John Lau
+Adrienne Law
+Van Le
+Neil McFarland
+Manesh Mistry
+Peter Pashley
+Cédrine Pradier
+Julie Quach
+Will Sykes
+Jonathan Topf
+Gianluca Vatinno","Ken Wong
+Michael Anderson
+Fen Beatty
+Catherine Couturier
+David Fernández Huerta
+Abigail Flores
+Daniel Gray
+Rohit Kapoor
+Kirsty Keatch
+John Lau
+Adrienne Law
+Van Le
+Neil McFarland
+Manesh Mistry
+Peter Pashley
+Cédrine Pradier
+Julie Quach
+Will Sykes
+Jonathan Topf
+Gianluca Vatinno","Ken Wong
+Michael Anderson
+Fen Beatty
+Catherine Couturier
+David Fernández Huerta
+Abigail Flores
+Daniel Gray
+Rohit Kapoor
+Kirsty Keatch
+John Lau
+Adrienne Law
+Van Le
+Neil McFarland
+Manesh Mistry
+Peter Pashley
+Cédrine Pradier
+Julie Quach
+Will Sykes
+Jonathan Topf
+Gianluca Vatinno","Ken Wong
+Michael Anderson
+Fen Beatty
+Catherine Couturier
+David Fernández Huerta
+Abigail Flores
+Daniel Gray
+Rohit Kapoor
+Kirsty Keatch
+John Lau
+Adrienne Law
+Van Le
+Neil McFarland
+Manesh Mistry
+Peter Pashley
+Cédrine Pradier
+Julie Quach
+Will Sykes
+Jonathan Topf
+Gianluca Vatinno","Ken Wong
+Michael Anderson
+Fen Beatty
+Catherine Couturier
+David Fernández Huerta
+Abigail Flores
+Daniel Gray
+Rohit Kapoor
+Kirsty Keatch
+John Lau
+Adrienne Law
+Van Le
+Neil McFarland
+Manesh Mistry
+Peter Pashley
+Cédrine Pradier
+Julie Quach
+Will Sykes
+Jonathan Topf
+Gianluca Vatinno","Ken Wong
+Michael Anderson
+Fen Beatty
+Catherine Couturier
+David Fernández Huerta
+Abigail Flores
+Daniel Gray
+Rohit Kapoor
+Kirsty Keatch
+John Lau
+Adrienne Law
+Van Le
+Neil McFarland
+Manesh Mistry
+Peter Pashley
+Cédrine Pradier
+Julie Quach
+Will Sykes
+Jonathan Topf
+Gianluca Vatinno","Ken Wong
+Michael Anderson
+Fen Beatty
+Catherine Couturier
+David Fernández Huerta
+Abigail Flores
+Daniel Gray
+Rohit Kapoor
+Kirsty Keatch
+John Lau
+Adrienne Law
+Van Le
+Neil McFarland
+Manesh Mistry
+Peter Pashley
+Cédrine Pradier
+Julie Quach
+Will Sykes
+Jonathan Topf
+Gianluca Vatinno","Ken Wong
+Michael Anderson
+Fen Beatty
+Catherine Couturier
+David Fernández Huerta
+Abigail Flores
+Daniel Gray
+Rohit Kapoor
+Kirsty Keatch
+John Lau
+Adrienne Law
+Van Le
+Neil McFarland
+Manesh Mistry
+Peter Pashley
+Cédrine Pradier
+Julie Quach
+Will Sykes
+Jonathan Topf
+Gianluca Vatinno","Ken Wong
+Michael Anderson
+Fen Beatty
+Catherine Couturier
+David Fernández Huerta
+Abigail Flores
+Daniel Gray
+Rohit Kapoor
+Kirsty Keatch
+John Lau
+Adrienne Law
+Van Le
+Neil McFarland
+Manesh Mistry
+Peter Pashley
+Cédrine Pradier
+Julie Quach
+Will Sykes
+Jonathan Topf
+Gianluca Vatinno","Ken Wong
+Michael Anderson
+Fen Beatty
+Catherine Couturier
+David Fernández Huerta
+Abigail Flores
+Daniel Gray
+Rohit Kapoor
+Kirsty Keatch
+John Lau
+Adrienne Law
+Van Le
+Neil McFarland
+Manesh Mistry
+Peter Pashley
+Cédrine Pradier
+Julie Quach
+Will Sykes
+Jonathan Topf
+Gianluca Vatinno","Ken Wong
+Michael Anderson
+Fen Beatty
+Catherine Couturier
+David Fernández Huerta
+Abigail Flores
+Daniel Gray
+Rohit Kapoor
+Kirsty Keatch
+John Lau
+Adrienne Law
+Van Le
+Neil McFarland
+Manesh Mistry
+Peter Pashley
+Cédrine Pradier
+Julie Quach
+Will Sykes
+Jonathan Topf
+Gianluca Vatinno","Ken Wong
+Michael Anderson
+Fen Beatty
+Catherine Couturier
+David Fernández Huerta
+Abigail Flores
+Daniel Gray
+Rohit Kapoor
+Kirsty Keatch
+John Lau
+Adrienne Law
+Van Le
+Neil McFarland
+Manesh Mistry
+Peter Pashley
+Cédrine Pradier
+Julie Quach
+Will Sykes
+Jonathan Topf
+Gianluca Vatinno","Ken Wong
+Michael Anderson
+Fen Beatty
+Catherine Couturier
+David Fernández Huerta
+Abigail Flores
+Daniel Gray
+Rohit Kapoor
+Kirsty Keatch
+John Lau
+Adrienne Law
+Van Le
+Neil McFarland
+Manesh Mistry
+Peter Pashley
+Cédrine Pradier
+Julie Quach
+Will Sykes
+Jonathan Topf
+Gianluca Vatinno"
+settings_on,E.g. Music = On,On,Activé,Acceso,Ein,Activado,开,開,オン,켜짐,Вкл.,Ligado,På,Açık,चालू,Hidupkan,Aan,เปิด
+settings_off,E.g. Music = Off,Off,Désactivé,Spento,Aus,Desactivado,关,關,オフ,꺼짐,Откл.,Desligado,Av,Kapalı,बंद,Matikan,Uit,ปิด
+Language,The name of each language in that language,English,Français,Italiano,Deutsch,Español,简体中文,繁體中文,日本語,한국어,Русский,Português,Svenska,Türkçe,हिन्दी,Melayu,Nederlands,ไทย
+social_facebook,,Facebook,Facebook,Facebook,Facebook,Facebook,Facebook,Facebook,Facebook,Facebook,Facebook,Facebook,Facebook,Facebook,फेसबुक,Facebook,Facebook,Facebook
+social_tumblr,,Tumblr,Tumblr,Tumblr,Tumblr,Tumblr,Tumblr,Tumblr,Tumblr,Tumblr,Tumblr,Tumblr,Tumblr,Tumblr,टंब्लर,Tumblr,Tumblr,Tumblr
+social_twitter,,Twitter,Twitter,Twitter,Twitter,Twitter,Twitter,Twitter,Twitter,Twitter,Twitter,Twitter,Twitter,Twitter,ट्विटर,Twitter,Twitter,Twitter
+social_instagram,,Instagram,Instagram,Instagram,Instagram,Instagram,Instagram,Instagram,Instagram,Instagram,Instagram,Instagram,Instagram,Instagram,इंस्टाग्राम,Instagram,Instagram,Instagram
+tutorial_click_to_move,The word 'Ida' on it's own should always be translated in Chinese - the phrase' Ida's dream' should remain in English in Chinese translations,"Click on the path
+to move Ida",Cliquez sur le bouton chemin pour déplacer Ida ,"Clicca sul percorso
+per spostare Ida","Klicke auf den Pfad,
+um Ida zu bewegen","Haz clic en el camino
+para mover a Ida","单击路径
+移动艾达","按下路徑
+以移動艾達","道をクリックして
+アイダを動かします","아이다를 움직이려면
+길 위를 클릭하세요","Нажмите на путь,
+чтобы переместить Иду","Clica no caminho
+para mover a Ida","Klicka på vägen
+för att flytta Ida","Ida'yı hareket ettİrmek İçİn
+yolun üzerİne tıkla",इडा को स्थानांतरित करने के लिए,"Klik pada laluan
+untuk mengerakkan Ida","Klik op het pad
+om Ida te verplaatsen","คลิกเส้นทาง
+เพื่อเคลื่อนย้ายไอดา"
+level_select_resume,,Resume,Reprendre,Riprendi,Fortfahren,Continuar,继续,繼續,再開,계속하기,Возобновить,Retomar,Återuppta,Devam Et,फिर से शुरू,Sambung Semula,Hervatten,เริ่มเล่นต่อ
+level_select_start_over,,Start Over,Recommencer à zéro,Ricomincia,Nochmals anfangen,Empezar de nuevo,从头开始,重新開始,やり直す,다시 시작,Начать сначала,Recomeçar,Börja om,Baştan Başla,पहले से शुरू,Mula Semula,Opnieuw beginnen,เริ่มใหม่อีกครั้ง
+credits_thanks_names,"Don't translate people or company names; do translate other text e.g. ""Everyone at""","Jane Campbell
+Jamie Wotton
+Josh Edgoose
+Sham AlBdour
+Everyone at ustwo games
+Matt Miller
+John Sinclair
+Steve Bittan
+Ben Powell
+Álvaro Arregui
+Grant Liddall
+The ustwo Family
+Obfusc
+Ian White
+VMC Game Labs
+Keywords
+Unity","Jane Campbell 
+Jamie Wotton
+Josh Edgoose
+Sham AlBdour
+Tout le monde à ustwo games
+Matt Miller
+John Sinclair
+Steve Bittan
+Ben Powell
+Álvaro Arregui
+Grant Liddall
+La famille ustwo
+Obfusc
+Ian White
+VMC Game Labs
+Keywords
+Unity","Jane Campbell
+Jamie Wotton
+Josh Edgoose
+Sham AlBdour
+Tutti alla ustwo games
+Matt Miller
+John Sinclair
+Steve Bittan
+Ben Powell
+Álvaro Arregui
+Grant Liddall
+La Famiglia ustwo 
+Obfusc
+Ian White
+VMC Game Labs
+Keywords
+Unity","Jane Campbell
+Jamie Wotton
+Josh Edgoose
+Sham AlBdour
+Alle bei ustwo games
+Matt Miller
+John Sinclair
+Steve Bittan
+Ben Powell
+Álvaro Arregui
+Grant Liddall
+Die ustwo-Familie
+Obfusc
+Ian White
+VMC Game Labs
+Keywords
+Unity","Jane Campbell
+Jamie Wotton
+Josh Edgoose
+Sham AlBdour
+Todos en ustwo games
+Matt Miller
+John Sinclair
+Steve Bittan
+Ben Powell
+Álvaro Arregui
+Grant Liddall
+La familia ustwo
+Obfusc
+Ian White
+VMC Game Labs
+Keywords
+Unity","Jane Campbell
+Jamie Wotton
+Josh Edgoose
+Sham AlBdour
+ustwo games的每个人
+Matt Miller
+John Sinclair
+Steve Bittan
+Ben Powell
+Álvaro Arregui
+Grant Liddall
+ustwo大家庭
+Obfusc
+Ian White
+VMC Game Labs
+Keywords
+Unity","Jane Campbell
+Jamie Wotton
+Josh Edgoose
+Sham AlBdour
+在 ustwo games 的每一位
+Matt Miller
+John Sinclair
+Steve Bittan
+Ben Powell
+Álvaro Arregui
+Grant Liddall
+The ustwo Family
+Obfusc
+Ian White
+VMC Game Labs
+Keywords
+Unity","Jane Campbell
+Jamie Wotton
+Josh Edgoose
+Sham AlBdour
+ustwo games 社員一同
+Matt Miller
+John Sinclair
+Steve Bittan
+Ben Powell
+Álvaro Arregui
+Grant Liddall
+ustwoファミリー
+Obfusc
+Ian White
+VMC Game Labs
+Keywords
+Unity","Jane Campbell
+Jamie Wotton
+Josh Edgoose
+Sham AlBdour
+ustwo games 모두에게 
+Matt Miller
+John Sinclair
+Steve Bittan
+Ben Powell
+Álvaro Arregui
+Grant Liddall
+ustwo 가족
+Obfusc
+Ian White
+VMC Game Labs
+Keywords
+Unity","Jane Campbell
+Jamie Wotton
+Josh Edgoose
+Sham AlBdour
+Все в ustwo games
+Matt Miller
+John Sinclair
+Steve Bittan
+Ben Powell
+Álvaro Arregui
+Grant Liddall
+Семья ustwo
+Obfusc
+Ian White
+VMC Game Labs
+Keywords
+Unity","Jane Campbell
+Jamie Wotton
+Josh Edgoose
+Sham AlBdour
+Todos em ustwo games
+Matt Miller
+John Sinclair
+Steve Bittan
+Ben Powell
+Álvaro Arregui
+Conceda Liddall
+A família ustwo
+Obfusc
+Ian White
+VMC Game Labs
+Keywords
+Unity","Jane Campbell
+Jamie Wotton
+Josh Edgoose
+Sham AlBdour
+Alla på ustwo games
+Matt Miller
+John Sinclair
+Steve Bittan
+Ben Powell
+Álvaro Arregui
+Grant Liddall
+ustwo-familjen
+Obfusc
+Ian White
+VMC Game Labs
+Keywords
+Unity","Jane Campbell
+Jamie Wotton
+Josh Edgoose
+Sham AlBdour
+ustwo games şirketindeki herkes
+Matt Miller
+John Sinclair
+Steve Bittan
+Ben Powell
+Álvaro Arregui
+Grant Liddall
+ustwo Ailesi
+Obfusc
+Ian White
+VMC Game Labs
+Keywords
+Unity","Jane Campbell
+Jamie Wotton
+Josh Edgoose
+Sham AlBdour
+हर किसी पर ustwo के खेल में 
+Matt Miller
+John Sinclair
+Steve Bittan
+Ben Powell
+Álvaro Arregui
+Grant Liddall
+ustwo परिवार
+Obfusc
+Ian White
+VMC Game Labs
+Keywords
+Unity","Jane Campbell
+Jamie Wotton
+Josh Edgoose
+Sham AlBdour
+Semua di ustwo games
+Matt Miller
+John Sinclair
+Steve Bittan
+Ben Powell
+Álvaro Arregui
+Grant Liddall
+Keluarga ustwo
+Obfusc
+Ian White
+VMC Game Labs
+Keywords
+Unity","Jane Campbell
+Jamie Wotton
+Josh Edgoose
+Sham AlBdour
+Iedereen bij ustwo games
+Matt Miller
+John Sinclair
+Steve Bittan
+Ben Powell
+Álvaro Arregui
+Grant Liddall
+De ustwo-familie
+Obfusc
+Ian White
+VMC Game Labs
+Keywords
+Unity","Jane Campbell
+Jamie Wotton
+Josh Edgoose
+Sham AlBdour
+ทุกคนที่ ustwo games
+Matt Miller
+John Sinclair
+Steve Bittan
+Ben Powell
+Álvaro Arregui
+Grant Liddall
+ครอบครัว ustwo
+Obfusc
+Ian White
+VMC Game Labs
+Keywords
+Unity"
+credits_devteam_title,,Development Team,Équipe de développement,Team di sviluppo,Entwicklungsteam,Equipo de desarrollo,开发团队,開發團隊,開発チーム,개발팀,Команда разработчиков,Equipa de Desenvolvimento,Utvecklingsteam,Gelİştİrİcİ Ekip,विकास दल,Pasukan Pembangunan,Ontwikkelteam,ทีมพัฒนา

@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Final/PreGameLogic.unity
+    guid: 780c83bd53ee93c47b10f7a14b3ea00e
+  - enabled: 1
+    path: Assets/Scenes/Final/Prelude Export/Prelude Export.unity
+    guid: 070bfe381059b9f499c12865386213e3
+  - enabled: 1
+    path: Assets/Scenes/Final/LevelSelect.unity
+    guid: 4353afe8ead496441a8d32deb4c942ce
+  - enabled: 1
+    path: Assets/Scenes/Final/Intro Export/Intro Export.unity
+    guid: 734f626c435d1104386b6e6aa84a234b
+  - enabled: 1
+    path: Assets/Scenes/Final/Draggers Export/Draggers Export.unity
+    guid: f44236ab3591f48459eb3af2f97c3abf
+  - enabled: 1
+    path: Assets/Scenes/Final/GripRotate Export/GripRotate Export.unity
+    guid: 397aa7910c68c354ea5f931be2af093a
+  - enabled: 1
+    path: Assets/Scenes/Final/Spire Export/Spire Export.unity
+    guid: 4fed99fe52966d64fbe2ffa25dfbd91b
+  - enabled: 1
+    path: Assets/Scenes/Final/Labyrinth Export/Labyrinth Export.unity
+    guid: 5a22e4b8630c2ae46839ece620886fc9
+  - enabled: 1
+    path: Assets/Scenes/Final/Keep Export/Keep Export.unity
+    guid: 08590ee81951a2241bfd5a9ab4e6219a
+  - enabled: 1
+    path: Assets/Scenes/Final/InsideBox Export/InsideBox Export.unity
+    guid: bcefa27c53d438e4fb828082dfd4936d
+  - enabled: 1
+    path: Assets/Scenes/Final/Descent Export/Descent Export.unity
+    guid: c5e552b489d2b564185abe646522ed40
+  - enabled: 1
+    path: Assets/Scenes/Final/Zen Export/Zen Export.unity
+    guid: 6d9d28f4f28c31b40b594d8d6543092a
+  - enabled: 1
+    path: Assets/Scenes/Final/LoadingScene.unity
+    guid: 96e1108e4ae0a9549a4835aec3b6b357
+  - enabled: 1
+    path: Assets/Scenes/Final/LevelSelectExpansion.unity
+    guid: f221142612df3af4eb78c8775527c6a0
+  - enabled: 1
+    path: Assets/Scenes/Final/Volcano Export/Volcano Export.unity
+    guid: 1885099b5ffb43c48b6c77d9b73dbc66
+  - enabled: 1
+    path: Assets/Scenes/Final/Twister Export/Twister Export.unity
+    guid: f8dfc194977ea844e96e1a8f4566df72
+  - enabled: 1
+    path: Assets/Scenes/Final/Reintro Export/Reintro Export.unity
+    guid: 70b2d10caff89e14285e6ec01d50ca26
+  - enabled: 1
+    path: Assets/Scenes/Final/Waterways Export/Waterways Export.unity
+    guid: e80464d87168a3045b85deb0ea121b50
+  - enabled: 1
+    path: Assets/Scenes/Final/Crush Export/Crush Export.unity
+    guid: 044b81753c91bc14fbf11b1c263c6d64
+  - enabled: 1
+    path: Assets/Scenes/Final/Thief Export/Thief Export.unity
+    guid: 994446e4e8e324d4aace82c783517cb0
+  - enabled: 1
+    path: Assets/Scenes/Final/Rebuild Export/Rebuild Export.unity
+    guid: 72feb4cb10ae33e4bbf9a142a684d66b
+  - enabled: 1
+    path: Assets/Scenes/Final/NSided Export/NSided Export.unity
+    guid: af86a32ca5bf20d4b84e5526580983e1
+  - enabled: 1
+    path: Assets/Scenes/Final/Windmill Export/Windmill Export.unity
+    guid: bac063e2ad04a794aa6748a644c28027
+  - enabled: 1
+    path: Assets/Scenes/Final/Windmill_blue Export/Windmill_blue Export.unity
+    guid: 397fabc74d505b046a23102d3a103541
+  m_configObjects: {}

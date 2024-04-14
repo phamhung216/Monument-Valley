@@ -1,0 +1,27 @@
+public enum LevelName
+{
+	None = 0,
+	PreGameLogic = 1,
+	Prelude = 2,
+	LevelSelect = 3,
+	Intro = 4,
+	Draggers = 5,
+	GripRotate = 6,
+	Spire = 7,
+	Labyrinth = 8,
+	Keep = 9,
+	InsideBox = 10,
+	Descent = 11,
+	Zen = 12,
+	LevelSelectExpansion = 13,
+	Volcano = 14,
+	Twister = 15,
+	Thief = 16,
+	Waterways = 17,
+	Crush = 18,
+	Reintro = 19,
+	NSided = 20,
+	Rebuild = 21,
+	Windmill = 22,
+	Windmill_blue = 23
+}

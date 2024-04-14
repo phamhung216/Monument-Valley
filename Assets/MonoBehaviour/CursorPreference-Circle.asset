@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -534679499, guid: c0590dd943f62390985fe071454f936d, type: 3}
+  m_Name: CursorPreference-Circle
+  m_EditorClassIdentifier:
+  cursorImage: {fileID: 2800000, guid: 104f35d5b34dc744b8ab7861dc174173, type: 3}
+  dropShadowImage: {fileID: 2800000, guid: 6ab7fdecdf0d88b419984ba390877741, type: 3}
+  sdfImage: {fileID: 2800000, guid: 7e799a1e3e57fee4886a1945fbab73aa, type: 3}
+  cursorColourEnabled: {r: 1, g: 1, b: 1, a: 1}
+  dropShadowColourEnabled: {r: 0, g: 0, b: 0, a: 0.16078432}
+  fillSpeed: 10
+  scaleSpeed: 15
+  minFill: -0.3
+  maxFill: 1
+  minSize: 30
+  maxSize: 55
+  clickedSize: 30
+  clickedSizeInputDisabled: 50

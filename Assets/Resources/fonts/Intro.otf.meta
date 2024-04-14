@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 5e76fa37e9d0ef34a8e85d15cdec96ac
+timeCreated: 1711926548
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  externalObjects: {}
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - 'Intro '
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: aaba398d7897f0c418c6e86884edabb9, type: 3}
+  customCharacters:
+  fontRenderingMode: 0
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:
